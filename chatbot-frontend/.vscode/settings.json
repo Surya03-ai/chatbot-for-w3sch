@@ -1,0 +1,10 @@
+{
+  "eslint.validate": [],
+  "eslint.enable": false,
+  "typescript.validate.enable": false,
+  "typescript.suggest.autoImports.enabled": false,
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "html.validate.scripts": false
+}
