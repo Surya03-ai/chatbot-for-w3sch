@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_forms_submit.asp",
+  "topic": "react",
+  "title": "React Submit Forms",
+  "text": "React Submit Forms\n\n\n\nSubmitting Forms\n\nYou can control the submit action by adding an event handler in the\nonSubmit\nattribute for the\n<form>\n:\n\nExample:\n\nAdd a submit button and an event handler in the\nonSubmit\nattribute:\n\nimport { useState } from 'react';\nimport { createRoot } from 'react-dom/client';\n\nfunction MyForm() {\nconst [name, setName] = useState(\"\");\n\nfunction handleChange(e) {\nsetName(e.target.value);\n}\n\nfunction handleSubmit(e) {\ne.preventDefault();\nalert(name);\n}\n\nreturn (\n<form onSubmit={handleSubmit}>\n<label>Enter your name:\n<input\ntype=\"text\"\nvalue={name}\nonChange={handleChange}\n/>\n</label>\n<input type=\"submit\" />\n</form>\n)\n}\n\ncreateRoot(document.getElementById('root')).render(\n<MyForm />\n);\n\nRun\nExample »\n\n",
+  "scraped_at": "2026-04-01T12:09:25"
+}

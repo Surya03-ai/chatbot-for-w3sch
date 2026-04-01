@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_max.asp",
+  "topic": "sql",
+  "title": "SQL MAX() Function",
+  "text": "SQL\nMAX()\nFunction\n\n\n\nThe SQL MAX() Function\n\nThe\nMAX()\nfunction returns the largest value of the selected column.\n\nThe\nMAX()\nfunction works with numeric, string, and date data types.\n\nMAX() Syntax\n\nSELECT MAX(\ncolumn_name\n)\nFROM\ntable_name\nWHERE\ncondition\n;\n\nDemo Database\n\nBelow is a selection from the\nProducts\ntable used in the examples:\n\nProductID\n\nProductName\n\nSupplierID\n\nCategoryID\n\nUnit\n\nPrice\n\n\nChais\n\n\n\n10 boxes x 20 bags\n\n18.00\n\n\nChang\n\n\n\n24 - 12 oz bottles\n\n19.00\n\n\nAniseed Syrup\n\n\n\n12 - 550 ml bottles\n\n10.00\n\n\nChef Anton's Cajun Seasoning\n\n\n\n48 - 6 oz jars\n\n22.00\n\n\nChef Anton's Gumbo Mix\n\n\n\n36 boxes\n\n21.35\n\nSet Column Name (Alias)\n\nWhen you use\nMAX()\n, the returned column will not have a\nname.\n\nUse the\n\nAS\nkeyword, to give the column a descriptive\nname:\n\nUse MAX() with Date Column\n\nThe following SQL returns the latest BirthDate in the BirthDate column, in the\nEmployees\ntable:\n\nUse MAX() with GROUP BY\n\nHere we use the\nMAX()\nfunction and the\n\nGROUP BY\nclause, to return the highest price\nfor each category in the Products table:\n\nYou will learn more about the\n\nGROUP BY\nclause later in this tutorial.\n\n",
+  "scraped_at": "2026-04-01T12:06:08"
+}

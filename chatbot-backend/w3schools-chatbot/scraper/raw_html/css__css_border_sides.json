@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_border_sides.asp",
+  "topic": "css",
+  "title": "CSS Border Sides",
+  "text": "CSS\nBorder Sides\n\n\n\nCSS Border - Individual Sides\n\nFrom the examples on the previous pages, you have seen that it is possible to specify a\ndifferent border for each side.\n\nIn CSS, there are also properties for specifying each of the borders (top,\nright, bottom, and left):\n\nborder-top-style\n\nborder-right-style\n\nborder-bottom-style\n\nborder-left-style\n\nIn the example below we use the four properties above to set the style of\neach border side:\n\nWe can also use the shorthand\nborder-style\nproperty to\nachieve the same result.\n\nThe example below gives the same result as the example above:\n\nSo, here is how it works:\n\nIf the\nborder-style\nproperty has four values:\n\nborder-style: dotted solid double dashed;\n\ntop border is dotted\n\nright border is solid\n\nbottom border is double\n\nleft border is dashed\n\nIf the\nborder-style\nproperty has three values:\n\nborder-style: dotted solid double;\n\ntop border is dotted\n\nright and left borders are solid\n\nbottom border is double\n\nIf the\nborder-style\nproperty has two values:\n\nborder-style: dotted solid;\n\ntop and bottom borders are dotted\n\nright and left borders are solid\n\nIf the\nborder-style\nproperty has one value:\n\nborder-style: dotted;\nall four borders are dotted\n\nThe\nborder-style\nproperty is used in the example above. However, it also works with\n\nborder-width\n\nand\nborder-color\n.\n\n",
+  "scraped_at": "2026-04-01T11:38:13"
+}

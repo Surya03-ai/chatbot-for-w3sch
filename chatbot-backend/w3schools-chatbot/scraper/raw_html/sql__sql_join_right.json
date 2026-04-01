@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_join_right.asp",
+  "topic": "sql",
+  "title": "SQL RIGHT JOIN",
+  "text": "SQL\nRIGHT JOIN\n\n\n\nSQL RIGHT JOIN\n\nThe\nRIGHT JOIN\nreturns\nall rows from the right table\n(table2), and only the matched rows from the left table (table1).\n\nIf there is no match in the left table, the result for the columns from the left table will be NULL.\n\nThe\nRIGHT JOIN\nand\nRIGHT OUTER JOIN\nkeywords are equal - the\nOUTER\nkeyword is optional.\n\nRIGHT JOIN Syntax\n\nSELECT\ncolumn_name(s)\n\nFROM\ntable1\n\nRIGHT JOIN\ntable2\n\nON\ntable1.column_name\n=\ntable2.column_name\n;\n\nDemo Database\n\nBelow is a selection from the \"Orders\" table:\n\nOrderID\n\nCustomerID\n\nEmployeeID\n\nOrderDate\n\nShipperID\n\n\n\n\n1996-09-18\n\n\n\n\n\n1996-09-19\n\n\n\n\n\n1996-09-20\n\n\nAnd a selection from the \"Employees\" table:\n\nEmployeeID\n\nLastName\n\nFirstName\n\nBirthDate\n\nPhoto\n\n\nDavolio\n\nNancy\n\n12/8/1968\n\nEmpID1.pic\n\n\nFuller\n\nAndrew\n\n2/19/1952\n\nEmpID2.pic\n\n\nLeverling\n\nJanet\n\n8/30/1963\n\nEmpID3.pic\n\nSQL RIGHT JOIN Example\n\nThe following SQL will return all employees, and any orders they might have placed:\n\nNote:\nThe\nRIGHT JOIN\nkeyword returns all records from the\nright table (Employees), even if there are no matches in the left table\n(Orders).\n\n",
+  "scraped_at": "2026-04-01T12:06:33"
+}

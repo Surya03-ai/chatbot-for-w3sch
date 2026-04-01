@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_comparison.asp",
+  "topic": "python",
+  "title": "Python Comparison Operators",
+  "text": "Python\nComparison Operators\n\n\n\nComparison Operators\n\nComparison operators are used to compare two values:\n\nOperator\n\nName\n\nExample\n\nTry it\n\n==\n\nEqual\n\nx == y\n\n!=\n\nNot equal\n\nx != y\n\n>\n\nGreater than\n\nx > y\n\n<\n\nLess than\n\nx < y\n\n>=\n\nGreater than or equal to\n\nx >= y\n\n<=\n\nLess than or equal to\n\nx <= y\n\nExamples\n\nComparison operators return\nTrue\nor\nFalse\nbased on the comparison:\n\nChaining Comparison Operators\n\nPython allows you to chain comparison operators:\n\n",
+  "scraped_at": "2026-04-01T11:58:06"
+}

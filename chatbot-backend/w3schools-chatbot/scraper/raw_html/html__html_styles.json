@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_styles.asp",
+  "topic": "html",
+  "title": "HTML Styles",
+  "text": "HTML\nStyles\n\n\n\nThe HTML\nstyle\nattribute is used to add styles to an element, such as color, font, size, and more.\n\nThe HTML Style Attribute\n\nSetting the style of an HTML element, can be done with the\nstyle\nattribute.\n\nThe HTML\nstyle\nattribute has the following syntax:\n\n<\ntagname\n\nstyle=\"\nproperty\n:\nvalue;\n\">\n\nThe\nproperty\nis a CSS property. The\nvalue\nis a CSS value.\n\nYou will learn more about CSS later in this tutorial.\n\nBackground Color\n\nThe CSS\nbackground-color\nproperty defines the background color\nfor an HTML element.\n\nText Color\n\nThe CSS\ncolor\nproperty defines the text color for\nan HTML element:\n\nFonts\n\nThe CSS\nfont-family\nproperty defines the font to be used\nfor an HTML element:\n\nText Size\n\nThe CSS\nfont-size\nproperty defines the text size for\nan HTML element:\n\nText Alignment\n\nThe CSS\ntext-align\nproperty defines the horizontal text alignment for an HTML element:\n\nChapter Summary\n\nUse the\nstyle\nattribute for styling HTML elements\n\nUse\nbackground-color\nfor background color\n\nUse\ncolor\nfor text colors\n\nUse\nfont-family\nfor text fonts\n\nUse\nfont-size\nfor text sizes\n\nUse\ntext-align\nfor text alignment\n\n",
+  "scraped_at": "2026-04-01T11:34:12"
+}

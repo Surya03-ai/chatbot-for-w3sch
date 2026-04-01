@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_text.asp",
+  "topic": "css",
+  "title": "CSS Text Color",
+  "text": "CSS\nText Color\n\n\n\nCSS Text Formatting\n\nCSS has a lot of properties for styling and formatting text.\n\nCSS Text Color\n\nThe\ncolor\nproperty is used to set the color of the text.\nThe color is specified by:\n\na color name - like \"red\"\n\na HEX value - like \"#ff0000\"\n\nan RGB value - like \"rgb(255,0,0)\"\n\nLook at\nCSS Color Values\nfor a complete list of possible color values.\n\nThe default text color for a page is defined in the body selector.\n\nText Color and Background Color\n\nIn this example, we define both the\nbackground-color\nproperty and the\ncolor\nproperty:\n\nImportant:\nHigh contrast is very important for people with\nvision problems. So, always ensure that the contrast\nbetween the text color and the background color (or background image) is good!\n\nThe CSS Text Color Property\n\nProperty\n\nDescription\n\ncolor\n\nSpecifies the color of text\n\n",
+  "scraped_at": "2026-04-01T11:39:01"
+}

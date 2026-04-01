@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_strings_slicing.asp",
+  "topic": "python",
+  "title": "Python - Slicing Strings",
+  "text": "Python -\nSlicing Strings\n\n\n\nSlicing\n\nYou can return a range of characters by using the slice syntax.\n\nSpecify the start index and the end index, separated by a colon, to return a\npart of the string.\n\nNote:\nThe first character has index 0.\n\nSlice From the Start\n\nBy leaving out the start index, the range will start at the first character:\n\nSlice To the End\n\nBy leaving out the\nend\nindex, the range will go to the end:\n\nNegative Indexing\n\nUse negative indexes to start the slice from the end of the string:\n\n",
+  "scraped_at": "2026-04-01T11:57:46"
+}

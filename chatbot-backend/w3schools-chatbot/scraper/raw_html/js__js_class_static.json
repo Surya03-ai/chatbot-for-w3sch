@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_class_static.asp",
+  "topic": "js",
+  "title": "Java Script Static Methods",
+  "text": "JavaScript Static Methods\n\n\n\nStatic class methods are defined on the class itself.\n\nYou cannot call a\nstatic\nmethod on an object, only on an object class.\n\nIf you want to use the myCar object inside the\nstatic\nmethod, you can send it\nas a parameter:\n\n",
+  "scraped_at": "2026-04-01T11:53:26"
+}

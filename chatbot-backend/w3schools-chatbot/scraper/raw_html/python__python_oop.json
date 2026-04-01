@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_oop.asp",
+  "topic": "python",
+  "title": "Python OOP",
+  "text": "Python\nOOP\n\n\n\nWhat is OOP?\n\nOOP\nstands for\nObject-Oriented Programming\n.\n\nPython is an object-oriented language, allowing you to structure your code using classes and objects for better organization and reusability.\n\nAdvantages of OOP\n\nProvides a clear structure to programs\n\nMakes code easier to maintain, reuse, and debug\n\nHelps keep your code DRY (\nDon't Repeat Yourself\n)\n\nAllows you to build reusable applications with less code\n\nTip:\nThe DRY principle means you should avoid writing the same code more than once. Move repeated code into functions or classes and reuse it.\n\nWhat are Classes and Objects?\n\nClasses and objects are the two core concepts in object-oriented programming.\n\nA class defines what an object should look like, and an object is created based on that class. For example:\n\nClass\n\nObjects\n\nFruit\n\nApple, Banana, Mango\n\nCar\n\nVolvo, Audi, Toyota\n\nWhen you create an object from a class, it inherits all the variables and functions defined inside that class.\n\nIn the next chapters, you will learn about:\n\nClasses and objects\n\nThe __init__() method\n\nThe self parameter\n\nProperties\nand\nmethods\n\nInheritance\nand\npolymorphism\n\nEncapsulation\nand\ninner classes\n\n",
+  "scraped_at": "2026-04-01T12:01:23"
+}

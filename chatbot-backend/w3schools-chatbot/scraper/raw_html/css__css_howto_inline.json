@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_howto_inline.asp",
+  "topic": "css",
+  "title": "How To Add Inline CSS",
+  "text": "How To Add Inline CSS\n\n\n\nInline CSS\n\nAn inline style may be used to apply a unique style for a single element.\n\nTo use inline styles, add the style attribute to the relevant element. The\nstyle attribute can contain any CSS property.\n\nTip:\nAn inline style loses many of the advantages of a style sheet (by mixing\ncontent with presentation). Use this method sparingly.\n\n",
+  "scraped_at": "2026-04-01T11:37:29"
+}

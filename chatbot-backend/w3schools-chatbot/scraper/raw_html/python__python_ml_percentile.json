@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_ml_percentile.asp",
+  "topic": "python",
+  "title": "Machine Learning - Percentiles",
+  "text": "Machine Learning - Percentiles\n\n\n\nWhat are Percentiles?\n\nPercentiles are used in statistics to give you a number that describes the\nvalue that a given percent of the values are lower than.\n\nExample: Let's say we have an array that contains the ages of every person\nliving on a street.\n\nages = [5,31,43,48,50,41,7,11,15,39,80,82,32,2,8,6,25,36,27,61,31]\n\nWhat is the 75. percentile? The answer is 43, meaning that 75% of the people\nare 43 or younger.\n\nThe NumPy module has a method for finding the specified percentile:\n\n",
+  "scraped_at": "2026-04-01T12:02:12"
+}

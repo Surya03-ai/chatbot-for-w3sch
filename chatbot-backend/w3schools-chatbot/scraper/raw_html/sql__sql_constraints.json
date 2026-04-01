@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_constraints.asp",
+  "topic": "sql",
+  "title": "SQL Constraints",
+  "text": "SQL\nConstraints\n\n\n\nSQL Constraints\n\nSQL constraints are rules for data in a table.\n\nConstraints are used to prevent insertion of invalid data in a table, and ensures the accuracy and reliability of\nthe data in the table. If there is any violation between the constraint and the data action,\nthe action is aborted.\n\nConstraints can be specified in two ways:\n\nWhen a table is created (through the\nCREATE TABLE\nstatement)\n\nAfter a table is created\n(through the\nALTER TABLE\n\nstatement)\n\nSQL Constraint Types\n\nThe following constraints are commonly used in SQL:\n\nNOT NULL\n- Ensures that a column cannot have a NULL value\n\nUNIQUE\n- Ensures that all values in a column are\nunique\n\nPRIMARY KEY\n-\nUniquely identifies each row in a table (a combination of a\n\nNOT NULL\nand\nUNIQUE\n)\n\nFOREIGN KEY\n\n- Establishes a link between data in two\ntables, and prevents action that will destroy the link between them\n\nCHECK\n- Ensures that\nthe values in a column satisfies a specific condition\n\nDEFAULT\n- Sets a default value for a column\nif no value\nis specified\n\nCREATE INDEX\n-\nCreates indexes on columns to retrieve data from the database\nfaster\n\n",
+  "scraped_at": "2026-04-01T12:07:21"
+}

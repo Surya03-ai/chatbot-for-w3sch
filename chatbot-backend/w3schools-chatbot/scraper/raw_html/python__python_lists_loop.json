@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_loop.asp",
+  "topic": "python",
+  "title": "Python - Loop Lists",
+  "text": "Python - Loop Lists\n\n\n\nLoop Through a List\n\nYou can loop through the list items by using a\nfor\n\nloop:\n\nLearn more about\nfor\nloops in our\nPython For Loops\nChapter.\n\nLoop Through the Index Numbers\n\nYou can also loop through the list items by referring to their index number.\n\nUse the\nrange()\nand\n\nlen()\nfunctions to create a suitable iterable.\n\nThe iterable created in the example above is\n[0, 1, 2]\n.\n\nUsing a While Loop\n\nYou can loop through the list items by using a\nwhile\nloop.\n\nUse the\nlen()\nfunction to determine the length of the list,\nthen start at 0 and loop your way through the list items by referring to their indexes.\n\nRemember to increase the index by 1 after each iteration.\n\nLearn more about\nwhile\nloops in our\n\nPython While Loops\nChapter.\n\nLooping Using List Comprehension\n\nList Comprehension offers the shortest syntax for looping through lists:\n\nLearn more about list comprehension in the next chapter:\n\nList Comprehension\n.\n\n",
+  "scraped_at": "2026-04-01T11:58:31"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_grid_item_name.asp",
+  "topic": "css",
+  "title": "CSS Naming Grid Items",
+  "text": "CSS\nNaming Grid Items\n\n\n\nNaming Grid Items with grid-area\n\nThe CSS\ngrid-template-areas\nis a\ngrid container property, and it specifies\nareas within the grid layout.\n\nYou can name grid items by using the CSS\ngrid-area\n\nproperty, and then reference to the name in the\ngrid-template-areas\n\nproperty.\n\nEach area is defined within apostrophes. The named grid items in each area is defined inside the apostrophes, separated by a space.\n\nWe can use a period sign (.) to refer to a grid item with no name:\n\nTo define two rows (two areas), define the second row inside another set of apostrophes:\n\nMake a ready-to-use Webpage Template\n\nHere, we will name all grid items to make a ready-to-use webpage template:\n\n",
+  "scraped_at": "2026-04-01T11:43:15"
+}

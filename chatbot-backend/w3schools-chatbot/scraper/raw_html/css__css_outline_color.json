@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_outline_color.asp",
+  "topic": "css",
+  "title": "CSS Outline Color",
+  "text": "CSS\nOutline Color\n\n\n\nCSS Outline Color\n\nThe\noutline-color\nproperty is used to set the color of the outline.\n\nThe color can be set by:\n\nname - specify a color name, like \"red\"\n\nHEX - specify a hex value, like \"#ff0000\"\n\nRGB - specify a RGB value, like \"rgb(255,0,0)\"\n\nHSL - specify a HSL value, like \"hsl(0, 100%, 50%)\"\n\ninvert - performs a color inversion (which ensures that the outline is visible, regardless of color background)\n\nCSS Outline Color Examples\n\nHere are some different outlines with different colors.\nAlso notice that these elements also have a thin black border inside the outline:\n\nA solid red outline.\n\nA dotted blue outline.\n\nAn outset green outline.\n\nA solid invert outline.\n\nHEX Values\n\nThe outline color can also be specified using a hexadecimal value (HEX):\n\nRGB Values\n\nOr by using RGB values:\n\nHSL Values\n\nYou can also use HSL values:\n\nYou can learn more about HEX, RGB and HSL values in our\nCSS Colors\nchapters.\n\n",
+  "scraped_at": "2026-04-01T11:38:51"
+}

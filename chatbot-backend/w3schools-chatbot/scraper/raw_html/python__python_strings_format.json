@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_strings_format.asp",
+  "topic": "python",
+  "title": "Python - Format - Strings",
+  "text": "Python -\nFormat - Strings\n\n\n\nString Format\n\nAs we learned in the Python Variables chapter, we cannot combine strings and numbers like this:\n\nBut we can combine strings and numbers by using\nf-strings\nor the\nformat()\nmethod!\n\nF-Strings\n\nF-String was introduced in Python 3.6,\nand is now the preferred way of formatting strings.\n\nTo specify a string as an f-string, simply put an\nf\nin front of the string\nliteral, and add curly brackets\n{}\nas\nplaceholders for variables and other operations.\n\nPlaceholders and Modifiers\n\nA placeholder can contain variables,\noperations, functions, and modifiers to format the value.\n\nA placeholder can include a\nmodifier\nto format the value.\n\nA modifier is included by adding a colon\n:\nfollowed by a legal formatting type, like\n\n.2f\nwhich means fixed point number with 2 decimals:\n\nA placeholder can contain Python code, like math operations:\n\nLearn more about String Formatting in our\nString Formatting\nchapter.\n\n",
+  "scraped_at": "2026-04-01T11:57:53"
+}

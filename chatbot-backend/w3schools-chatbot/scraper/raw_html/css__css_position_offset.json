@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_position_offset.asp",
+  "topic": "css",
+  "title": "CSS Position Offsets",
+  "text": "CSS\nPosition\nOffsets\n\n\n\nPositioning with top, right, bottom, and left\n\nThe\ntop\n,\nright\n,\nbottom\n, and\nleft\nproperties are used to position elements.\n\nThese properties only work on\npositioned elements\n(elements with\nposition\nset to\nrelative\n,\nabsolute\n,\nfixed\n, or\nsticky\n).\n\nPositioning Text On an Image\n\nHow to position text on an image:\n\nAll CSS Positioning Properties\n\nProperty\n\nDescription\n\nbottom\n\nSets the bottom margin edge for a positioned box\n\nclip\n\nClips an absolutely positioned element\n\nleft\n\nSets the left margin edge for a positioned box\n\nposition\n\nSpecifies the type of positioning for an element\n\nright\n\nSets the right margin edge for a positioned box\n\ntop\n\nSets the top margin edge for a positioned box\n\n",
+  "scraped_at": "2026-04-01T11:40:38"
+}

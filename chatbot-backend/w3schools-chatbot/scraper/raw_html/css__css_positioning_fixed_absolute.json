@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_positioning_fixed_absolute.asp",
+  "topic": "css",
+  "title": "CSS Fixed and Absolute Positioning",
+  "text": "CSS\nFixed and Absolute Positioning\n\n\n\nCSS position: fixed\n\nAn element with\nposition: fixed;\nis positioned relative to the viewport, which means it always\nstays in the same place even if the page is scrolled. The top,\nright, bottom, and left properties are used set the final location of the element.\n\nA fixed element does not leave a gap in the page where it would normally have been located.\n\nThis <div> element has\nposition: fixed;\n\nNotice the fixed element in the lower-right corner of the page. Here is the CSS that is used:\n\nCSS position: absolute\n\nAn element with\nposition: absolute;\nis positioned relative to the nearest positioned ancestor\n(with position other than static).\n\nHowever; if an absolute positioned element has no positioned ancestors,\nit uses the document body, and moves along with page scrolling.\n\nNote:\nAbsolute positioned elements are removed from the normal\ndocument flow, and can overlap other elements.\n\nHere is a simple example:\n\nThis <div> element has position: relative;\n\nThis <div> element has position: absolute;\n\nHere is the CSS that is used:\n\nPositioning Text On an Image\n\nHow to position text on an image:\n\n",
+  "scraped_at": "2026-04-01T11:40:30"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_strings_modify.asp",
+  "topic": "python",
+  "title": "Python - Modify Strings",
+  "text": "Python -\nModify Strings\n\n\n\nPython has a set of built-in methods that you can use on strings.\n\nUpper Case\n\nLower Case\n\nRemove Whitespace\n\nWhitespace is the space before and/or after the actual text, and very often you want to remove this space.\n\nReplace String\n\nSplit String\n\nThe\nsplit()\nmethod returns a list where the text between the specified separator becomes the list items.\n\nLearn more about Lists in our\nPython Lists\nchapter.\n\nString Methods\n\nLearn more about String Methods with our\nString Methods Reference\n\n",
+  "scraped_at": "2026-04-01T11:57:48"
+}

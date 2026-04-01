@@ -3,4 +3,8 @@ https://www.w3schools.com/css/css_link_states.asp
 https://www.w3schools.com/js/js_temporal_plainyearmont.asp
 https://www.w3schools.com/js/js_data_types.asp
 https://www.w3schools.com/js/js_style_guide.asp
-https://www.w3schools.com/css/css_min_max.asp
+https://www.w3schools.com/css/css_icons_fontawesome.asp
+https://www.w3schools.com/css/css_link_states.asp
+https://www.w3schools.com/js/js_temporal_plainyearmont.asp
+https://www.w3schools.com/js/js_data_types.asp
+https://www.w3schools.com/js/js_style_guide.asp

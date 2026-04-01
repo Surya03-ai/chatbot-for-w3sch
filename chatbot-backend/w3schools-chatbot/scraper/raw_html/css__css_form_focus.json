@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_form_focus.asp",
+  "topic": "css",
+  "title": "CSS Form Focus and Icons",
+  "text": "CSS\nForm Focus and Icons\n\n\n\nStyle Input with Focus\n\nBy default, some browsers will add a blue outline around the input when it gets\nfocus (clicked on). You can remove this behavior by adding\noutline: none;\nto the input.\n\nUse the\n:focus\nselector to do something with the input field when it gets focus:\n\nStyle Input with icon/image\n\nIf you want an icon inside the input, use the\nbackground-image\nproperty and\nposition it with the\nbackground-position\nproperty. Also notice that we\nadd a\nlarge left padding to reserve the space of the icon:\n\nAnimated Search Input\n\nIn this example we use the CSS\ntransition\nproperty to animate\nthe width of the search input when it gets focus. You will learn more about the\ntransition\nproperty later, in our\nCSS Transitions\nchapter.\n\n",
+  "scraped_at": "2026-04-01T11:42:08"
+}

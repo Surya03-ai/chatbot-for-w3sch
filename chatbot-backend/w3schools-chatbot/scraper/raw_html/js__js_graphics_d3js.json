@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_graphics_d3js.asp",
+  "topic": "js",
+  "title": "D3.js",
+  "text": "D3.js\n\n\n\nD3.js is a JavaScript library for manipulating HTML data.\n\nD3.js is easy to use.\n\nHow to Use D3.js?\n\nTo use D3.js in your web page,\nadd a link\nto the library:\n\n<script src=\"//d3js.org/d3.v3.min.js\"></script>\n\nThis script selects the body element and appends a paragraph with the text \"Hello World!\":\n\nScatter Plot\n\n",
+  "scraped_at": "2026-04-01T11:56:41"
+}

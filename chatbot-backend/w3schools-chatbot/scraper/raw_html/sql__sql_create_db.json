@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_create_db.asp",
+  "topic": "sql",
+  "title": "SQL CREATE DATABASE Statement",
+  "text": "SQL\nCREATE DATABASE\nStatement\n\n\n\nThe SQL CREATE DATABASE Statement\n\nThe\nCREATE DATABASE\nstatement is used to create a new SQL database.\n\nTip:\nYou need administrative privileges to create a new database.\n\nSyntax\n\nCREATE DATABASE\ndatabase_name\n;\n\nCREATE DATABASE Example\n\nThe following SQL statement creates a database called \"testDB\":\n\nExample\n\nCREATE DATABASE testDB;\n\nShow Databases\n\nOnce a database is created, you can check it in the list of databases with the following SQL command:\n\nSyntax for SQL Server\n\nSELECT name FROM sys.databases;\n\nSyntax for MySQL\n\nSHOW DATABASES;\n\n",
+  "scraped_at": "2026-04-01T12:07:08"
+}

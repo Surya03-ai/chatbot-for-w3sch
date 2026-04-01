@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_frozenset.asp",
+  "topic": "python",
+  "title": "Python frozenset",
+  "text": "Python\nfrozenset\n\n\n\nPython frozenset\n\nfrozenset\nis an immutable version of a set.\n\nLike sets, it contains unique, unordered, unchangeable elements.\n\nUnlike sets, elements cannot be added or removed from a frozenset.\n\nCreating a frozenset\n\nUse the\nfrozenset()\nconstructor to create a frozenset from any iterable.\n\nFrozenset Methods\n\nBeing immutable means you cannot add or remove elements. However, frozensets support all non-mutating operations of sets.\n\nMethod\n\nShortcut\n\nDescription\n\nTry it\n\ncopy()\n\nReturns a shallow copy\n\ndifference()\n\n-\n\nReturns a new frozenset with the difference\n\nintersection()\n\n&\n\nReturns a new frozenset with the intersection\n\nisdisjoint()\n\nReturns whether two frozensets have an intersection\n\nissubset()\n\n<=\n/\n<\n\nReturns True if this frozenset is a (proper) subset of another\n\nissuperset()\n\n>=\n/\n>\n\nReturns True if this frozenset is a (proper) superset of another\n\nsymmetric_difference()\n\n^\n\nReturns a new frozenset with the symmetric differences\n\nunion()\n\n|\n\nReturns a new frozenset containing the union\n\n",
+  "scraped_at": "2026-04-01T11:59:26"
+}

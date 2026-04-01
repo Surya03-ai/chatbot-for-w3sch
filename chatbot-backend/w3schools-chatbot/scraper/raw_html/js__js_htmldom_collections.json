@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_htmldom_collections.asp",
+  "topic": "js",
+  "title": "Java Script HTML DOM Collections",
+  "text": "JavaScript HTML DOM Collections\n\n\n\nThe HTMLCollection Object\n\nThe\ngetElementsByTagName()\nmethod returns an\nHTMLCollection\nobject.\n\nAn\nHTMLCollection\nobject is\nan array-like list (collection) of HTML elements.\n\nThe following code selects all\n<p>\nelements in a document:\n\nNote:\nThe index starts at 0.\n\nHTML HTMLCollection Length\n\nThe\nlength\nproperty defines the number of elements in an\nHTMLCollection\n:\n\nThe\nlength\nproperty is useful when you want to loop through the elements in a\ncollection:\n\nAn HTMLCollection is NOT an array!\n\nAn HTMLCollection may look\nlike an array, but it is not.\n\nYou can loop through the list and refer to\nthe elements with a number (just like an array).\n\nHowever, you cannot use array methods like valueOf(), pop(), push(),\nor join() on an HTMLCollection.\n\n",
+  "scraped_at": "2026-04-01T11:54:35"
+}

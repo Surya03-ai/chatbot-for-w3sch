@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_variables.asp",
+  "topic": "python",
+  "title": "Python Variables",
+  "text": "Python\nVariables\n\n\n\nVariables\n\nVariables are containers for storing data values.\n\nCreating Variables\n\nPython has no command for declaring a variable.\n\nA variable is created the moment you first assign a value to it.\n\nVariables do not need to be declared with any particular\ntype\n, and can even change type after they have been set.\n\nCasting\n\nIf you want to specify the data type of a variable, this can be done with casting.\n\nGet the Type\n\nYou can get the data type of a variable with the\ntype()\nfunction.\n\nYou will learn more about\n\ndata types\nand\n\ncasting\nlater in this tutorial.\n\nSingle or Double Quotes?\n\nString variables can be declared either by using single or double quotes:\n\nCase-Sensitive\n\nVariable names are case-sensitive.\n\n",
+  "scraped_at": "2026-04-01T11:57:28"
+}

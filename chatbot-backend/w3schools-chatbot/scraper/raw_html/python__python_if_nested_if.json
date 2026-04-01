@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_if_nested_if.asp",
+  "topic": "python",
+  "title": "Python Nested If",
+  "text": "Python\nNested If\n\n\n\nNested If Statements\n\nYou can have\nif\nstatements inside\n\nif\nstatements. This is called\nnested\n\nif\nstatements.\n\nIn this example, the inner\nif\nstatement only runs if the outer condition (\nx > 10\n) is true.\n\nHow Nested If Works\n\nEach level of nesting creates a deeper level of decision-making. The code evaluates from the outermost condition inward.\n\nMultiple Levels of Nesting\n\nYou can nest as many levels deep as needed, but keep in mind that too many levels can make code harder to read.\n\nNested If vs Logical Operators\n\nSometimes nested if statements can be simplified using logical operators like\nand\n. The choice depends on your logic.\n\nBoth approaches produce the same result. Use nested if statements when the inner logic is complex or depends on the outer condition. Use\nand\nwhen both conditions are simple and equally important.\n\nMore Examples\n\n",
+  "scraped_at": "2026-04-01T12:00:04"
+}

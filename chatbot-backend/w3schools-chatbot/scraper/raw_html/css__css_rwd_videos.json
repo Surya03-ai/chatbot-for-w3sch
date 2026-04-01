@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_rwd_videos.asp",
+  "topic": "css",
+  "title": "Responsive Web Design - Videos",
+  "text": "Responsive Web Design -\nVideos\n\n\n\nUsing The width Property\n\nIf the\nwidth\nproperty is set to 100%, the video player will be\nresponsive and scale up and down:\n\nNotice that in the example above, the video player can be scaled up to be larger\nthan its original size. A better solution, in many cases, will be to use the\n\nmax-width\nproperty instead.\n\nUsing The max-width Property\n\nIf the\n\nmax-width\nproperty is set to 100%, the video player will scale down if it has to, but never scale up to be larger than its\noriginal size:\n\nAdd a Video to the Example Web Page\n\nWe want to add a video in our example web page. The video will be resized to always take up all the available space:\n\n",
+  "scraped_at": "2026-04-01T11:43:42"
+}

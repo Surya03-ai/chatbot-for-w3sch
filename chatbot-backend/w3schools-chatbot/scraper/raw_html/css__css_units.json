@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_units.asp",
+  "topic": "css",
+  "title": "CSS Units",
+  "text": "CSS\nUnits\n\n\n\nCSS Units\n\nCSS units are used to define the length and size of several properties.\n\nSeveral CSS properties take \"length\" values, such as\nfont-size\n,\n\nwidth\n,\nmargin\n,\n\npadding\n,\nborder\n, etc.\n\nCSS has two types of units:\n\nAbsolute units\n\nRelative units\n\nCSS Absolute Units\n\nAbsolute units are fixed, and the length expressed in any of these will appear exactly that size.\n\nAbsolute units do NOT change when the screen size change, and are not recommended for websites.\nHowever, they can be used if the output medium is known, such\nas for print layout.\n\nThe most used absolute unit is\npx\n(pixels).\n\nCSS Relative Units\n\nRelative units specify a length relative to another length property (like parent\nelement, root element, or viewport).\n\nRelative length units scale better between different screen sizes, making them ideal for responsive web design.\n\nThe two most used relative units are\nem\nand\nrem\n.\n\nTip:\nThe\nem\nand\nrem\nunits are perfect for creating\nscalable and responsive websites!\n\n",
+  "scraped_at": "2026-04-01T11:42:21"
+}

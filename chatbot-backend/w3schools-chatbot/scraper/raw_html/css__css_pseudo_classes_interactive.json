@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_pseudo_classes_interactive.asp",
+  "topic": "css",
+  "title": "CSS Interactive Pseudo-classes",
+  "text": "CSS\nInteractive Pseudo-classes\n\n\n\nInteractive Pseudo-classes\n\nInteractive pseudo-classes apply styles based on user interaction with elements.\n\nHere we use the\n:hover\npseudo-class and the\n\n:focus\npseudo-class:\n\nMouse Over Me\n\nPseudo-classes Used on Links\n\nFor HTML links, it is common to use the following pseudo-classes:\n\n:link\n- Styles unvisited links\n\n:visited\n- Styles visited links\n\n:hover\n- Styles a link on mouse over\n\n:active\n- Styles an activated link\n\nNote:\n\na:hover\nMUST come after\na:link\nand\n\na:visited\nin the CSS definition in order to be effective!\na:active\nMUST come after\n\na:hover\nin the CSS definition in order to be effective!\nPseudo-class names are not case-sensitive.\n\n:hover on <div>\n\nHere is an example of using the\n:hover\npseudo-class on a <div> element:\n\n:focus on <input>\n\nHere is an example of using the\n:focus\npseudo-class to style an input field when it gets focus:\n\nPseudo-classes and HTML Classes\n\nPseudo-classes can easily be combined with HTML classes:\n\nSimple Tooltip Hover\n\nHover over a <div> element to show a <p> element (like a tooltip):\n\nHover over me to show the <p> element.\n\nTada! Here I am!\n\n",
+  "scraped_at": "2026-04-01T11:41:20"
+}

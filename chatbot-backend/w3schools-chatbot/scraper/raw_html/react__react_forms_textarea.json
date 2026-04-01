@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_forms_textarea.asp",
+  "topic": "react",
+  "title": "React Forms - Textarea",
+  "text": "React Forms - Textarea\n\n\n\nTextarea\n\nThe textarea element in React is slightly different from ordinary HTML.\n\nIn HTML the value of a textarea is the text between the start tag\n\n<textarea>\n\nand the end tag\n</textarea>\n.\n\n<textarea>\nContent of the textarea.\n</textarea>\n\nIn React the value of a textarea is placed in a value attribute, just like with the input element.\n\nWe'll use the\nuseState\nHook to manage the value of the textarea:\n\nExample:\n\nReact uses the value attribute to control the textarea:\n\nimport { createRoot } from 'react-dom/client'\nimport { useState } from 'react'\n\nfunction MyForm() {\nconst [mytxt, setMytxt] = useState(\"\");\n\nfunction handleChange(e) {\nsetMytxt(e.target.value);\n}\n\nreturn (\n<form>\n<label>Write here:\n<textarea\nvalue={mytxt}\nonChange={handleChange}\n/>\n</label>\n<p>Current value: {mytxt}</p>\n</form>\n)\n}\n\ncreateRoot(document.getElementById('root')).render(\n<MyForm />\n);\n\nRun\nExample »\n\nBy making these changes to the\n<textarea>\nelement,\nReact is able to handle it as any other input element.\n\n",
+  "scraped_at": "2026-04-01T12:09:27"
+}

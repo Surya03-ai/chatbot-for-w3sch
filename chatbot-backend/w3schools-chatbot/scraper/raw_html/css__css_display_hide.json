@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_display_hide.asp",
+  "topic": "css",
+  "title": "CSS Hide Elements",
+  "text": "CSS\nHide\nElements\n\n\n\nCSS display: none;\n\nWhen using\ndisplay: none;\nthe element is completely hidden from the document flow\nand does not take\nup any space.\n\nIt is commonly used with JavaScript to hide\nor show elements without deleting and recreating them.\n\nClick to show hidden panel\n\nThis panel contains a <div> element, which is hidden by default, with display: none.\n\nWe use JavaScript to show it (change it to display: block).\n\nHide an Element - Use display:none or visibility:hidden?\n\ndisplay:none\n\nRemove\n\nvisibility:hidden\n\nHide\n\nReset\n\nReset All\n\nHiding an element can be done by setting the\ndisplay\nproperty to\n\nnone\n.\nThe element will be hidden, and the page will be displayed as if the element is not\nthere:\n\nYou can also use\nvisibility:hidden;\nto hide an element.\n\nHowever, with this property, the element will be hidden, but it will still take up the same space\nas if it was visible:\n\nCSS Display/Visibility Properties\n\nProperty\n\nDescription\n\ndisplay\n\nSpecifies how an element should be displayed\n\nvisibility\n\nSpecifies whether or not an element should be visible\n\n",
+  "scraped_at": "2026-04-01T11:40:18"
+}

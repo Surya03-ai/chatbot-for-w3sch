@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_page_title.asp",
+  "topic": "html",
+  "title": "HTML Page Title",
+  "text": "HTML\nPage Title\n\n\n\nEvery web page should have a page title to describe the meaning of the page.\n\nThe Title Element\n\nThe\n<title>\nelement adds a title\nto your page:\n\nExample\n\n<!DOCTYPE html>\n\n<html>\n<head>\n\n<title>HTML Tutorial</title>\n\n</head>\n\n<body>\n\nThe content of the document......\n\n</body>\n\n</html>\n\nThe title is shown in the browser's title bar:\n\nWhat is a Good Title?\n\nThe title should describe the content and the meaning of the page.\n\nThe page title is very important for search engine optimization\n(SEO). The text is used by search engine algorithms to decide the order\nwhen listing pages in search results.\n\nThe\n<title>\nelement:\n\ndefines a title in the browser toolbar\n\nprovides a title for the page when it is added to favorites\n\ndisplays a title for the page in search engine-results\n\nSo, try to make the title as accurate and meaningful as possible!\n\nHTML Title Tag\n\nTag\n\nDescription\n\n<title>\n\nDefines the title of the document\n\nFor a complete list of all available HTML tags, visit our\nHTML Tag Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:34:55"
+}

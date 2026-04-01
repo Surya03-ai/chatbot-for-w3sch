@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_select.asp",
+  "topic": "sql",
+  "title": "SQL SELECT Statement",
+  "text": "SQL\nSELECT\nStatement\n\n\n\nThe SQL SELECT Statement\n\nThe\nSELECT\nstatement is used to select data from a database.\n\nSELECT Syntax\n\nSELECT\ncolumn1\n,\ncolumn2, ...\nFROM\ntable_name\n;\n\nHere,\ncolumn1, column2, ...\nare the\ncolumn names\nin the table you want to select data from.\n\nThe\ntable_name\nrepresents the\nname of the table\nyou want to select data from.\n\nDemo Database\n\nBelow is a selection from the\nCustomers\ntable used in the examples:\n\nCustomerID\n\nCustomerName\n\nContactName\n\nAddress\n\nCity\n\nPostalCode\n\nCountry\n\n\nAlfreds Futterkiste\n\nMaria Anders\n\nObere Str. 57\n\nBerlin\n\n\nGermany\n\n\nAna Trujillo Emparedados y helados\n\nAna Trujillo\n\nAvda. de la ConstituciÃ³n 2222\n\nMÃ©xico D.F.\n\n\nMexico\n\n\nAntonio Moreno TaquerÃ­a\n\nAntonio Moreno\n\nMataderos 2312\n\nMÃ©xico D.F.\n\n\nMexico\n\n\nAround the Horn\n\nThomas Hardy\n\n120 Hanover Sq.\n\nLondon\n\nWA1 1DP\n\nUK\n\n\nBerglunds snabbkÃ¶p\n\nChristina Berglund\n\nBerguvsvÃ¤gen 8\n\nLuleÃ¥\n\nS-958 22\n\nSweden\n\nSelect ALL Columns\n\nTo select ALL columns, without specifying every column name, use the\n\nSELECT *\nsyntax:\n\n",
+  "scraped_at": "2026-04-01T12:05:38"
+}

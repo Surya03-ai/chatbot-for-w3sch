@@ -1,5 +1,7 @@
 import logging
 
+from tqdm import tqdm
+
 from . import chunk, clean, scrape, utils
 
 # ── Scraping settings ──────────────────────────────
@@ -9,7 +11,7 @@ SEED_URLS = [
     "https://www.w3schools.com/js/",
     "https://www.w3schools.com/python/",
     "https://www.w3schools.com/sql/",
-    "https://www.w3schools.com/react/",
+    "https://www.w3schools.com/react/"
 ]
 REQUEST_DELAY = 1
 MAX_RETRIES = 3
@@ -23,25 +25,11 @@ OUTPUT_FILE = "scraper/chunks.json"
 FAILED_URLS_FILE = "scraper/failed_urls.txt"
 LOG_FILE = "scraper/scraper.log"
 
-
-def _print_summary():
-    """Print the required summary once processing completes."""
-    summary = """───────────────────────────────────────
-✅ Pages scraped       : 320
-✅ Chunks created      : 4,821
-✅ Avg chunk size      : 143 tokens
-📂 Output saved to     : scraper/chunks.json
-❌ Failed URLs         : 3  (see failed_urls.txt)
-───────────────────────────────────────
-Topics breakdown:
-   html    →  54 pages,  812 chunks
-   css     →  61 pages,  934 chunks
-   js      →  72 pages, 1102 chunks
-   python  →  68 pages, 1043 chunks
-   sql     →  40 pages,  614 chunks
-   react   →  25 pages,  316 chunks
-───────────────────────────────────────"""
-    print(summary)
+# ── Test mode settings ─────────────────────────────
+# TEST_MODE = True
+TEST_MODE = False
+TEST_PAGE_LIMIT = 10
+TEST_OUTPUT = "scraper/chunks_test.json"
 
 
 def main():
@@ -51,22 +39,74 @@ def main():
     chunk.configure(CHUNK_SIZE, CHUNK_OVERLAP)
     logging.info("Starting scrape for %d seeds", len(SEED_URLS))
 
-    raw_pages = scrape.crawl(SEED_URLS)
-    cleaned_pages = []
-    for page in raw_pages:
-        cleaned = clean.clean_html(page["html"], page["url"])
-        if not cleaned:
-            logging.debug("Cleaned page skipped: %s", page["url"])
-            continue
-        cleaned_pages.append((cleaned, page["topic"]))
+    # Step 1: scrape + clean + save in one step
+    limit = TEST_PAGE_LIMIT if TEST_MODE else None
+    scrape.crawl(SEED_URLS, limit=limit)
 
+    # Step 2: load all cleaned pages from disk
+    pages = scrape.load_saved_pages()
+    logging.info("Total pages loaded: %d", len(pages))
+
+    # Step 3: chunk directly, no clean step needed
     all_chunks = []
-    for cleaned_page, topic in cleaned_pages:
-        page_chunks = chunk.chunk_text(cleaned_page, topic)
-        all_chunks.extend(page_chunks)
+    failed = 0
+    for page in tqdm(pages, desc="Chunking pages"):
+        try:
+            if not page.get("text", "").strip():
+                failed += 1
+                continue
+            chunks = chunk.chunk_text(page, page["topic"])
+            all_chunks.extend(chunks)
+        except Exception as e:
+            logging.error("Failed to chunk %s: %s", page["url"], e)
+            failed += 1
+            continue
 
-    utils.save_jsonl(all_chunks, OUTPUT_FILE)
-    _print_summary()
+    # Step 4: save chunks
+    output_file = TEST_OUTPUT if TEST_MODE else OUTPUT_FILE
+    utils.save_jsonl(all_chunks, output_file)
+
+    # Step 5: print summary
+    if TEST_MODE:
+        # Test mode: detailed report
+        print("═" * 47)
+        print("TEST REPORT")
+        print("═" * 47)
+        print(f"Pages scraped     : {len(pages)}")
+        print(f"Chunks created    : {len(all_chunks)}")
+        
+        # Calculate avg tokens per chunk
+        total_tokens = sum(ch["metadata"]["token_count"] for ch in all_chunks) if all_chunks else 0
+        avg_tokens = total_tokens / len(all_chunks) if all_chunks else 0
+        print(f"Avg tokens/chunk  : {avg_tokens:.1f}")
+        print(f"Output file       : {output_file}")
+        
+        print("═" * 47)
+        print("Page list:")
+        for page in pages:
+            topic = page.get("topic", "unknown").upper()
+            title = page.get("title", "Untitled")
+            url = page.get("url", "")
+            print(f"[{topic}] {title} — {url}")
+        
+        print("═" * 47)
+        if all_chunks:
+            first_chunk = all_chunks[0]
+            preview_text = first_chunk["text"][:200].replace("\n", " ")
+            print("First chunk preview:")
+            print(f"URL   : {first_chunk['metadata']['source_url']}")
+            print(f"Title : {first_chunk['metadata']['page_title']}")
+            print(f"Text  : {preview_text}...")
+        print("═" * 47)
+        print("✅ If looks correct set TEST_MODE=False for full run")
+    else:
+        # Production mode: simple report
+        print("─" * 48)
+        print(f"✅ Pages loaded        : {len(pages)}")
+        print(f"✅ Chunks created      : {len(all_chunks)}")
+        print(f"❌ Pages skipped       : {failed}")
+        print(f"📂 Output saved to     : {output_file}")
+        print("─" * 48)
 
 
 if __name__ == "__main__":

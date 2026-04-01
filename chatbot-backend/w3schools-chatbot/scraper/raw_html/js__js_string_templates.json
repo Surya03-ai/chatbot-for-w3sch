@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_string_templates.asp",
+  "topic": "js",
+  "title": "Java Script String Templates",
+  "text": "JavaScript String Templates\n\n\n\nString Templates\n\nTemplate Strings\n\nTemplate Literals\n\nBeloved child has many names\n\nBack-Tics Syntax\n\nTemplate Strings\nuse back-ticks (``) rather than the quotes (\"\") to define a string:\n\nQuotes Inside Strings\n\nTemplate Strings\nallow both single and double quotes inside a string:\n\nMultiline Strings\n\nTemplate Strings\nallow multiline strings:\n\nInterpolation\n\nTemplate Strings\nallow variables in strings.\n\nTemplate strings provide an easy way to\ninterpolate\nvariables in strings.\n\nSyntax\n\n${...}\n\nExpression Substitution\n\nTemplate Strings\nallow\ninterpolation of expressions\nin strings:\n\nHTML Templates\n\nBrowser Support\n\nTemplate Strings\nis an\nES6  feature\n.\n\nES6 is fully supported in all modern browsers since June 2017:\n\nChrome\n\nEdge\n\nFirefox\n\nSafari\n\nOpera\n\nMay 2016\n\nApr 2017\n\nJun 2017\n\nSep 2016\n\nJun 2016\n\nComplete String Reference\n\nFor a complete String reference, go to our:\n\nComplete JavaScript String Reference\n.\n\nThe reference contains descriptions and examples of all string properties and methods.\n\n",
+  "scraped_at": "2026-04-01T11:45:21"
+}

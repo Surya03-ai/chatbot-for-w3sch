@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_destructuring.asp",
+  "topic": "js",
+  "title": "Java Script Destructuring",
+  "text": "JavaScript Destructuring\n\n\n\nDestructuring Assignment Syntax\n\nThe destructuring assignment syntax can\nunpack objects\ninto variables:\n\nlet {firstName, lastName} = person;\n\nObject Destructuring\n\nThe order of the properties does not matter:\n\nDestructuring is not destructive.\n\nDestructuring does not change the original object.\n\nObject Default Values\n\nFor potentially missing properties we can set default values:\n\nObject Property Alias\n\nString Destructuring\n\nOne use for destructuring is unpacking string characters.\n\nDestructuring can be used with any iterables.\n\nArray Destructuring\n\nWe can pick up array variables into our own variables:\n\nSkipping Array Values\n\nWe can skip array values using two or more commas:\n\nArray Position Values\n\nWe can pick up values from specific index locations of an array:\n\nThe Rest Property\n\nYou can end a destructuring syntax with a rest property.\n\nThis syntax will store all remaining values into a new array:\n\nDestructuring Maps\n\nSwapping JavaScript Variables\n\nYou can swap the values of two variables using a destructuring assignment:\n\n",
+  "scraped_at": "2026-04-01T11:49:33"
+}

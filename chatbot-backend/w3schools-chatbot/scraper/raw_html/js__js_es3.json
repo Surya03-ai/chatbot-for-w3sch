@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_es3.asp",
+  "topic": "js",
+  "title": "Java Script 1999 (ES3)",
+  "text": "JavaScript 1999 (ES3)\n\n\n\nECMAScript 3 (1999)\n\nThe first revision to JavaScript\n.\n\nECMAScript 1999 is also known as ES3.\n\nES3 Features\n\nFeature\nDescription\n\nRegular expressions\n\nSequence of characters that forms a search pattern\n\nError handling (try...catch)\n\nStatement to define code blocks to be tested in case of an error\n\nThe switch keyword\n\nSelects code blocks to be executed based on a conditions\n\nThe do...while loop\n\nA variant of the while loop\n\nBrowser Support\n\nJavaScript 1999\nis supported in all browsers:\n\nChrome\n\nIE/Edge\n\nFirefox\n\nSafari\n\nOpera\n\nRegular Expressions\n\nA sequence of characters that forms a search pattern.\n\nThe try...catch Keywords\n\nStatement to define code blocks to be tested in case of an error.\n\nThe switch Keyword\n\nBased on a condition,\nswitch\nselects one or more code blocks to be executed.\n\nThe\ndo...while\nLoop\n\nThe\ndo while\nruns at least once, even if the condition is false from the start.\n\nThis is because the code block is executed before the condition is tested:\n\nDo not forget to increase the variable used in the condition, otherwise\nthe loop will never end!\n\n",
+  "scraped_at": "2026-04-01T11:51:26"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_output_numbers.asp",
+  "topic": "python",
+  "title": "Python Output Numbers",
+  "text": "Python\nOutput Numbers\n\n\n\nPrint Numbers\n\nYou can also use the\nprint()\nfunction to display numbers:\n\nHowever, unlike text, we don't put numbers inside double quotes:\n\nYou can also do math inside the\nprint()\nfunction:\n\nMix Text and Numbers\n\nYou can combine text and numbers in one output by separating them with a comma:\n\nYou will learn more about combining text and variables in the\nPython Variables\nand\nPython Strings\nchapters.\n\n",
+  "scraped_at": "2026-04-01T11:57:23"
+}

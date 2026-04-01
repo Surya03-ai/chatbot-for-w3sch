@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_border_width.asp",
+  "topic": "css",
+  "title": "CSS Border Width",
+  "text": "CSS\nBorder Width\n\n\n\nCSS Border Width\n\nThe\nborder-width\nproperty specifies the width of the four borders.\n\nThe width can be set as a specific size (in px, pt, cm, em, etc) or by using\none of the three pre-defined values: thin, medium, or thick:\n\nSpecific Side Widths\n\nThe\nborder-width\n\nproperty can have from one to four values (for the top border, right border,\nbottom border, and the left border):\n\n",
+  "scraped_at": "2026-04-01T11:38:08"
+}

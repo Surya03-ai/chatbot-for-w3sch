@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_table_colspan_rowspan.asp",
+  "topic": "html",
+  "title": "HTML Table Colspan & Rowspan",
+  "text": "HTML\nTable Colspan & Rowspan\n\n\n\nHTML tables can have cells that span over multiple rows and/or columns.\n\nNAME\n\nAPRIL\n\n\nFIESTA\n\nHTML Table - Colspan\n\nTo make a cell span over multiple columns, use the\ncolspan\nattribute:\n\nNote:\nThe value of the\ncolspan\nattribute represents the number of columns to span.\n\nHTML Table - Rowspan\n\nTo make a cell span over multiple rows, use the\nrowspan\nattribute:\n\nNote:\nThe value of the\nrowspan\nattribute represents the number of\nrows to span.\n\n",
+  "scraped_at": "2026-04-01T11:35:07"
+}

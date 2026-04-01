@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_inline-block.asp",
+  "topic": "css",
+  "title": "CSS display: inline-block",
+  "text": "CSS\ndisplay: inline-block\n\n\n\nThe CSS display: inline-block\n\nThe\ndisplay: inline-block\n\nproperty combines the features of both inline and block elements.\n\nAn element with\ndisplay: inline-block\nwill\nappear on the same line as other inline or inline-block elements. In addition,\nyou can set the\nwidth\n,\nheight\n,\nmargin-top\n, and\nmargin-bottom\nproperties for\nthe element (like block elements).\n\nThe following example shows the different behavior of\ndisplay: inline\n,\ndisplay: inline-block\n\nand\ndisplay: block\n:\n\nCreate a Horizontal Navigation Menu\n\nA common use for\ndisplay: inline-block\n\nis to display list items horizontally instead of vertically. The following\nexample creates a horizontal navigation menu:\n\nCSS Property\n\nProperty\n\nDescription\n\ndisplay\n\nSpecifies the display behavior (the type of rendering box) of an element\n\n",
+  "scraped_at": "2026-04-01T11:41:01"
+}

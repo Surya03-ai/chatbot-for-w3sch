@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_text_transformation.asp",
+  "topic": "css",
+  "title": "CSS Text Transformation",
+  "text": "CSS\nText Transformation\n\n\n\nCSS Text Transformation\n\nThe CSS\ntext-transform\nproperty is used to\ncontrol the capitalization of text in an element.\n\nIt can be used to transform a text into uppercase or lowercase letters, or\ncapitalize the first letter of each word, without changing the original content\nin HTML.\n\nThis property can have one of the following values:\n\nnone\n- No transformation. Text renders as it is\n\ncapitalize\n- Transforms the first character of each word to uppercase\n\nuppercase\n- Transforms all characters to uppercase\n\nlowercase\n- Transforms all characters to lowercase\n\nThe CSS Text Transformation Property\n\nProperty\n\nDescription\n\ntext-transform\n\nControls the capitalization of text\n\n",
+  "scraped_at": "2026-04-01T11:39:11"
+}

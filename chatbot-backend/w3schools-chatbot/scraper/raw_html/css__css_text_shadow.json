@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_text_shadow.asp",
+  "topic": "css",
+  "title": "CSS Text Shadow",
+  "text": "CSS\nText Shadow\n\n\n\nCSS Text Shadow\n\nThe\ntext-shadow\nproperty adds shadow to text.\n\nIn its simplest use, you only specify the horizontal and the vertical shadow.\n\nIn addition, you can add a shadow color and blur effect.\n\nNext, add a color (red) to the shadow:\n\nThen, add a blur effect (5px) to the shadow:\n\nMore Text Shadow Examples\n\nMultiple Shadows\n\nThe\ntext-shadow\nproperty\nalso accepts multiple shadows for an element. Define each shadow in a\ncomma-separated list.\n\nThe following example shows a red and blue neon glow shadow:\n\nThe following example shows a white text with black, blue, and red neon glow:\n\nTip:\n\nGo to our CSS Fonts\nchapter to learn about how to change fonts, text size and the style of a text.\n\nTip:\n\nGo to our CSS Text Effects\nchapter to learn about different text effects.\n\nThe CSS Text Shadow Property\n\nProperty\n\nDescription\n\ntext-shadow\n\nSpecifies the shadow effect added to text\n\n",
+  "scraped_at": "2026-04-01T11:39:16"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_loop_forof.asp",
+  "topic": "js",
+  "title": "Java Script For Of",
+  "text": "JavaScript For Of\n\n\n\nThe For Of Loop\n\nThe JavaScript\nfor of\nstatement loops\nthrough the values of an iterable object.\n\nIt lets you loop over iterable data structures\nsuch as Arrays, Strings, Maps, NodeLists, and more:\n\nSyntax\n\nfor (variable of iterable) {\n\n//\ncode block to be executed\n\n}\n\nvariable\n- For every iteration the value of the next property is\nassigned to the variable.\nVariable\ncan be declared with\n\nconst\n,\nlet\n, or\nvar\n.\n\niterable\n- An object that has iterable properties.\n\nLooping over an Array\n\nLooping over a String\n\nSee Also:\n\nThe JavaScript for...in Loop\n\n",
+  "scraped_at": "2026-04-01T12:12:33"
+}

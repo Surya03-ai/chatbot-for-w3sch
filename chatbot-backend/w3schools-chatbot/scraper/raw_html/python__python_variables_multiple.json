@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_variables_multiple.asp",
+  "topic": "python",
+  "title": "Python Variables - Assign Multiple Values",
+  "text": "Python Variables -\nAssign Multiple Values\n\n\n\nMany Values to Multiple Variables\n\nPython allows you to assign values to multiple variables in one line:\n\nNote:\nMake sure the number of variables matches the number of values, or else you will get an error.\n\nOne Value to Multiple Variables\n\nAnd you can assign the\nsame\nvalue to multiple variables in one line:\n\nUnpack a Collection\n\nIf you have a collection of values in a\nlist\n,\n\ntuple\netc.\nPython allows you to extract the values into variables. This is called\nunpacking\n.\n\nLearn more about unpacking in our\nUnpack Tuples\nChapter.\n\n",
+  "scraped_at": "2026-04-01T11:57:33"
+}

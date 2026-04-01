@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_font_shorthand.asp",
+  "topic": "css",
+  "title": "CSS Font Property",
+  "text": "CSS\nFont Property\n\n\n\nThe CSS Font Shorthand Property\n\nTo shorten the code, it is possible to specify all the individual font properties in one\ndeclaration.\n\nThe CSS\nfont\nproperty is a shorthand property for:\n\nfont-style\n\nfont-variant\n\nfont-weight\n\nfont-stretch\n\nfont-size\n\nline-height\n\nfont-family\n\nRules for the CSS Font Shorthand Property\n\nThe\nfont-size\nand\n\nfont-family\n\nvalues are required. If one of the other values is missing, their default value are used.\n\nIf defined,\nfont-style\n,\n\nfont-variant\n\nand\nfont-weight\n\nmust precede\nfont-size\n.\n\nIf defined,\nline-height\nmust\nimmediately follow\nfont-size\n, preceded by \"/\",\nlike this: 15px/30px.\n\nfont-family\n\nmust be the last value specified.\n\nAll CSS Font Properties\n\nProperty\n\nDescription\n\nfont\n\nSets all the font properties in one declaration\n\nfont-family\n\nSpecifies the font family for text\n\nfont-size\n\nSpecifies the font size of text\n\nfont-style\n\nSpecifies the font style for text\n\nfont-variant\n\nSpecifies whether or not a text should be displayed in a small-caps font\n\nfont-weight\n\nSpecifies the weight of a font\n\n",
+  "scraped_at": "2026-04-01T11:39:36"
+}

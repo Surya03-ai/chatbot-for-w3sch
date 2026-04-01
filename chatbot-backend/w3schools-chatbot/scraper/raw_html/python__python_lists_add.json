@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_add.asp",
+  "topic": "python",
+  "title": "Python - Add List Items",
+  "text": "Python - Add List Items\n\n\n\nAppend Items\n\nTo add an item to the end of the list, use the\nappend()\n\nmethod:\n\nInsert Items\n\nTo insert a list item at a specified index, use the\ninsert()\nmethod.\n\nThe\ninsert()\nmethod inserts an item at the specified index:\n\nNote:\nAs a result of the examples above, the lists will now contain 4 items.\n\nExtend List\n\nTo append elements from\nanother list\nto the current list, use the\nextend()\nmethod.\n\nThe elements will be added to the\nend\nof the list.\n\nAdd Any Iterable\n\nThe\nextend()\nmethod does not have to append\n\nlists\n, you can add any iterable object (tuples, sets, dictionaries\netc.).\n\n",
+  "scraped_at": "2026-04-01T11:58:26"
+}

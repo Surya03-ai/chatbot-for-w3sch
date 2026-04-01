@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_graphics_plotly.asp",
+  "topic": "js",
+  "title": "Plotly.js",
+  "text": "Plotly.js\n\n\n\nPlotly.js\nis a charting library that comes with over 40 chart types:\n\nHorizontal and Vertical Bar Charts\n\nPie and Donut Charts\n\nLine Charts\n\nScatter and Bubble Plots\n\nEquation Plots\n\n3D Charts\n\nStatistical Graphs\n\nSVG Maps\n\n...\n\nPlotly.js is free and open-source under the MIT license.\nIt costs nothing to install and use.\nYou can view the source, report issues and contribute using Github.\n\nBar Charts\n\nHorizontal Bar Charts\n\nPie Charts\n\nDonut Charts\n\nPlotting Equations\n\nScatter Plots\n\nLine Graphs\n\nBubble Plots\n\nBubble Plots are Scatter Plots whose markers have variable color, size, and symbols.\n\nIt is a type of 3-dimensional chart with only two axes (x and y) where the size of the bubble\ncommunicates the third dimention.\n\nLinear Graphs\n\nMultiple Lines\n\n",
+  "scraped_at": "2026-04-01T11:56:31"
+}

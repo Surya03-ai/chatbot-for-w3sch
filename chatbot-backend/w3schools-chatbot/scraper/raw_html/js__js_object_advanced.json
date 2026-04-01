@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_object_advanced.asp",
+  "topic": "js",
+  "title": "Java Script Objects - Advanced",
+  "text": "JavaScript Objects - Advanced\n\n\n\nAdvanced Learning Path\n\nStep 1\nAdvanced\n\nObject\nDefinitions\n\nUsing an Object Literal\n\nUsing the new Keyword\n\nUsing an Object Constructor\n\nUsing Object.assign()\n\nUsing Object.create()\n\nUsing Object.fromEntries()\n\nStep 2\nAdvanced\n\nObject\nthis\n\nWhen used in an object method, this refers to the object.\n\nStep 3\nAdvanced\n\nObject\nIterations\n\nObject.entries(object)\n\nObject.keys(object)\n\nObject.values(object)\n\nObject.groupBy(object, callback)\n\nStep 4\nAdvanced\n\nObject\nGet & Set\n\nGetters and setters allow you to define Object Accessors (Computed Properties).\n\nStep 5\nAdvanced\n\nObject\nManagement\n\nAccessing property descriptors\n\nAdding or changing properties\n\nStep 6\nAdvanced\n\nObject\nProtection\n\nPrevents changes to an object\n\nPrevents adding properties\n\nPrevents deleting properties\n\nStep 7\nAdvanced\n\nObject\nPrototypes\n\nJavaScript objects inherit properties and methods from a prototype\n\nStep 8\nAdvanced\n\nObject\nReference\n\nAll Object Methods and Properties\n\nRevised July 2025\n\n",
+  "scraped_at": "2026-04-01T11:52:51"
+}

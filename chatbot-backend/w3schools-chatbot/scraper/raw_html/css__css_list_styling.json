@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_list_styling.asp",
+  "topic": "css",
+  "title": "CSS Lists",
+  "text": "CSS\nLists\n\n\n\nCSS Styling List With Colors\n\nWe can also style lists with colors, margins and padding, to make them look a little more\ninteresting.\n\nAnything added to the <ol> or <ul> tag, affects the entire list, while\nproperties added to the <li> tag will affect the individual list items:\n\nMore Examples\n\nCustomized list with a red left border\n\nThis example demonstrates how to create a list with a red left border.\n\nFull-width bordered list\n\nThis example demonstrates how to create a bordered list without bullets.\n\nAll the different list-item markers for lists\n\nThis example demonstrates all the different list-item markers in CSS.\n\nAll CSS List Properties\n\nProperty\n\nDescription\n\nlist-style\n\nSets all the properties for a list in one declaration\n\nlist-style-image\n\nSpecifies an image as the list-item marker\n\nlist-style-position\n\nSpecifies the position of the list-item markers (bullet points)\n\nlist-style-type\n\nSpecifies the type of list-item marker\n\n",
+  "scraped_at": "2026-04-01T12:12:27"
+}

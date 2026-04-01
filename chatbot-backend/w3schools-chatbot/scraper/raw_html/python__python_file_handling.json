@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_file_handling.asp",
+  "topic": "python",
+  "title": "Python File Open",
+  "text": "Python\nFile Open\n\n\n\nFile handling is an important part of any web application.\n\nPython has several functions for creating, reading, updating, and\ndeleting files.\n\nFile Handling\n\nThe key function for working with files in Python is the\n\nopen()\nfunction.\n\nThe\nopen()\nfunction takes two parameters;\n\nfilename\n, and\nmode\n.\n\nThere are four different methods (modes) for opening a file:\n\n\"r\"\n- Read - Default value. Opens a\nfile for reading, error if the file does not exist\n\n\"a\"\n- Append - Opens a file for\nappending, creates the file if it does not exist\n\n\"w\"\n- Write - Opens a file for writing,\ncreates the file if it does not exist\n\n\"x\"\n- Create - Creates the specified file, returns\nan error if the file exists\n\nIn addition you can specify if the file should be handled as binary or text mode\n\n\"t\"\n- Text - Default value. Text mode\n\n\"b\"\n- Binary - Binary mode (e.g.\nimages)\n\nSyntax\n\nTo open a file for reading it is enough to specify the name of the file:\n\nf = open(\"demofile.txt\")\n\nThe code above is the same as:\n\nf = open(\"demofile.txt\", \"rt\")\n\nBecause\n\"r\"\nfor read, and\n\n\"t\"\nfor text are the default values, you do not need to specify them.\n\nNote:\nMake sure the file exists, or else you will get an error.\n\n",
+  "scraped_at": "2026-04-01T12:01:50"
+}

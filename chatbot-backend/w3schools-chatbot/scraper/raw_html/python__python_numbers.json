@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_numbers.asp",
+  "topic": "python",
+  "title": "Python Numbers",
+  "text": "Python\nNumbers\n\n\n\nPython Numbers\n\nThere are three numeric types in Python:\n\nint\n\nfloat\n\ncomplex\n\nVariables of numeric types are created when you assign a value to them:\n\nExample\n\nx = 1\n# int\ny = 2.8  # float\nz = 1j   # complex\n\nTo verify the type of any object in Python, use the\ntype()\nfunction:\n\nInt\n\nInt, or integer, is a whole number,\npositive or negative, without decimals, of unlimited length.\n\nFloat\n\nFloat, or \"floating point number\" is a number, positive or negative, containing one or more decimals.\n\nFloat can also be scientific numbers with an \"e\" to indicate the power of 10.\n\nComplex\n\nComplex numbers are written with a \"j\" as the imaginary part:\n\nType Conversion\n\nYou can convert from one type to another with the\nint()\n,\n\nfloat()\n, and\ncomplex()\nmethods:\n\nNote:\nYou cannot convert complex numbers into another number type.\n\nRandom Number\n\nPython does not have a\nrandom()\nfunction to\nmake a random number, but Python has a built-in module called\n\nrandom\nthat can be used to make random numbers:\n\nIn our\nRandom Module Reference\nyou will learn more about the Random module.\n\n",
+  "scraped_at": "2026-04-01T11:57:41"
+}

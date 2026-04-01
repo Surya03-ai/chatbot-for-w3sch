@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_continue.asp",
+  "topic": "js",
+  "title": "Java Script Continue",
+  "text": "JavaScript Continue\n\n\n\nThe Continue Statement\n\nThe\ncontinue\nstatement\nskips the current iteration\nin a loop.\n\nThe remaining code in the iteration is skipped and processing moves to the next iteration.\n.\n\nJavaScript Labels\n\nA label provides a name for a statement, or a block of statements,\nallowing statements to be referenced to, for program flow control,\nparticularly in loops.\n\nSyntax\n\nA label is an identifier followed by a colon (\n:\n).\n\nlabelname\n:\nstatement\n;\n\nA label precedes a statement or a block of code.\n\nlabelname\n: {\n\nstatements\n\n}\n\nContinue to\nLabelname\n\nSyntax\n\ncontinue\nlabelname\n;\n\nbreak\nand\ncontinue\n\nare the only JavaScript statements that can \"jump out of\" a code block.\n\n",
+  "scraped_at": "2026-04-01T11:45:14"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_es6_ternary.asp",
+  "topic": "react",
+  "title": "React ES6 Ternary Operator",
+  "text": "React ES6 Ternary Operator\n\n\n\nTernary Operator\n\nThe ternary operator is a simplified conditional operator like\nif\n/\nelse\n.\n\nSyntax:\ncondition ? <expression if true> : <expression if false>\n\nHere is an example using\nif\n/\nelse\n:\n\nHere is the same example using a ternary operator:\n\n",
+  "scraped_at": "2026-04-01T12:08:54"
+}

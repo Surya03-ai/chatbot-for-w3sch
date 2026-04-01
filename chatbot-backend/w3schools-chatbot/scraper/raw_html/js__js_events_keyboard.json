@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_events_keyboard.asp",
+  "topic": "js",
+  "title": "Java Script Keyboard Events",
+  "text": "JavaScript Keyboard Events\n\n\n\nKeyboard Events\nhappen when the user presses a key on the keyboard:\n\nkeydown (key is pressed down)\n\nkeyup (key is released)\n\nkeypress (deprecated)\n\nkeypress\nonly fires for character keys (a or 5),\nnot for control keys (alt or backspace).\n\nDevelopers are advised to use\nkeydown\nor\nkeyup\ninstead.\n\nThe keydown Event\n\nUsing event.key\n\nKey Properties\n\nThe KeyboardEvent object provides useful properties to determine which key was involved in the event:\n\nProperty\nDescription\nWhen pressing Z\n\nevent.key\n\nReturns the value of the key.\nCan vary based on language settings.\n\nReturns z\n(or Z if shift is held)\n\nevent.code\nReturns the key code.\nConstant, regardless of language settings.\n\nAlways returns \"KeyZ\"\n\nYou can also detect modifier keys using properties like event.ctrlKey, event.shiftKey, event.altKey,\nand event.metaKey to implement key combinations (e.g., Ctrl + S).\n\nDetect Enter\n\nUsing event.code\n\nSummary\n\nJavaScript provides keyboard events to detect and handle user input from the keyboard,\nenabling interactive web experiences like form validation, game controls, and keyboard shortcuts.\n\n",
+  "scraped_at": "2026-04-01T11:52:10"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_drop_table.asp",
+  "topic": "sql",
+  "title": "SQL DROP TABLE Statement",
+  "text": "SQL\nDROP TABLE\nStatement\n\n\n\nThe SQL DROP TABLE Statement\n\nThe\nDROP TABLE\nstatement is used to permanently delete an existing table in a database.\n\nNote:\nBe careful before dropping a table! Dropping a table deletes the\nentire table and all its content!\n\nSyntax\n\nDROP TABLE\ntable_name\n;\n\nTo prevent an error from occur (if the table does not exists), it is a good\npractice to add the\nIF EXISTS\nclause:\n\nDROP TABLE IF EXISTS\ntable_name\n;\n\nNote:\nIn most databases you cannot drop a table that is referenced by a\n\nforeign key constraint\nin another table. To\nsolve this, you must remove the foreign key constraint or drop the dependent table.\n\nDROP TABLE Example\n\nThe following SQL statement drops the \"Shippers\" table:\n\nExample\n\nDROP TABLE IF EXISTS Shippers;\n\nSQL TRUNCATE TABLE\n\nThe\nTRUNCATE TABLE\nstatement is used to delete\nall the records in a table, but it keeps the table structure, columns and constraints.\n\nSyntax\n\nTRUNCATE TABLE\ntable_name\n;\n\n",
+  "scraped_at": "2026-04-01T12:07:18"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_outline_shorthand.asp",
+  "topic": "css",
+  "title": "CSS Outline Shorthand",
+  "text": "CSS\nOutline Shorthand\n\n\n\nCSS Outline - Shorthand property\n\nThe\noutline\nproperty is a shorthand property for\nsetting the following individual outline properties:\n\noutline-width\n\noutline-style\n(required)\n\noutline-color\n\nYou can specify one, two, or three values from the list above. The order of the values does not matter.\n\nCSS Outline Shorthand Examples\n\nHere are some different outlines specified with the shorthand\noutline\n\nproperty:\n\nA dashed outline.\n\nA dotted red outline.\n\nA 7px solid yellow outline.\n\nA thick ridge pink outline.\n\nCSS Outline With Rounded Corners\n\nOutlines can also have rounded corners.\n\nThe\nborder-radius\nproperty is\nused to add rounded borders to an element.\n\nHere are some different outlines with rounded corners:\n\nA dashed outline.\n\nA dotted red outline.\n\nA 7px solid yellow outline.\n\nA thick ridge pink outline.\n\n",
+  "scraped_at": "2026-04-01T11:38:55"
+}

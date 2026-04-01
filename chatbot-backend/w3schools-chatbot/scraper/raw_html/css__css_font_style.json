@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_font_style.asp",
+  "topic": "css",
+  "title": "CSS Font Style",
+  "text": "CSS\nFont Style\n\n\n\nCSS Font Style\n\nThe CSS\nfont-style\nproperty\nspecifies the font style for a text..\n\nThis property can have one of the following values:\n\nnormal\n- The text is shown normally\n\nitalic\n- The text is shown in italics\n\noblique\n- The text is \"leaning\"\n(oblique is very similar to italic)\n\nCSS Font Weight\n\nThe CSS\nfont-weight\nproperty specifies\nhow thick or thin characters in text should be displayed.\n\nThis property can have one of the following values:\n\nnormal\n- This is default. Defines normal\ncharacters\n\nbold\n- Defines thick characters\n\nbolder\n- Defines thicker characters\n\nlighter\n- Defines lighter characters\n\n100-900\n- Defines from thin to thick characters. 400 is the same as\nnormal, and 700 is the same as bold\n\nCSS Font Variant\n\nThe CSS\nfont-variant\nproperty specifies whether or not a text should\nbe displayed in a small-caps font.\n\nIn a small-caps font, all lowercase letters are converted to uppercase\nletters. However, the converted uppercase letters appears in a smaller font size\nthan the original uppercase letters in the text.\n\n",
+  "scraped_at": "2026-04-01T11:39:26"
+}

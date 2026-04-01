@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_rwd_intro.asp",
+  "topic": "css",
+  "title": "Responsive Web Design",
+  "text": "Responsive Web Design\n\n\n\nIntroduction to Responsive Web Design\n\nResponsive web design is about creating web pages that look good on all\ndevices!\n\nA responsive web design will automatically adjust for different screen sizes\nand viewports.\n\nBest Experience For All Users\n\nWeb pages can be viewed with many different devices: desktops, tablets, and mobile phones.\n\nYour web page should look good, and be easy to use, regardless of the device.\n\nResponsive web design is about using HTML and CSS to automatically resize,\nhide, shrink, or enlarge a website, to make it look good on all devices.\n\nKey components in responsive web design are:\n\nViewport <meta> tag\n\nFlexible layout (grid and flex)\n\nMediaqueries\n\nDesktop\n\nTablet\n\nPhone\n\n",
+  "scraped_at": "2026-04-01T11:33:46"
+}

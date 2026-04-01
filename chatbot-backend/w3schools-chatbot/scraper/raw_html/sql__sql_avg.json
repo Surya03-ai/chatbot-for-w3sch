@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_avg.asp",
+  "topic": "sql",
+  "title": "SQL AVG() Function",
+  "text": "SQL\nAVG()\nFunction\n\n\n\nThe SQL AVG() Function\n\nThe\nAVG()\nfunction returns the average value of a numeric column.\n\nThe\nAVG()\nfunction ignores NULL values in the column.\n\nNote:\nNULL values are ignored.\n\nAVG() Syntax\n\nSELECT AVG(\ncolumn_name\n)\nFROM\ntable_name\nWHERE\ncondition\n;\n\nDemo Database\n\nBelow is a selection from the\nProducts\ntable used in the examples:\n\nProductID\n\nProductName\n\nSupplierID\n\nCategoryID\n\nUnit\n\nPrice\n\n\nChais\n\n\n\n10 boxes x 20 bags\n\n18.00\n\n\nChang\n\n\n\n24 - 12 oz bottles\n\n19.00\n\n\nAniseed Syrup\n\n\n\n12 - 550 ml bottles\n\n10.00\n\n\nChef Anton's Cajun Seasoning\n\n\n\n48 - 6 oz jars\n\n22.00\n\n\nChef Anton's Gumbo Mix\n\n\n\n36 boxes\n\n21.35\n\nAdd a WHERE Clause\n\nYou can add a\nWHERE\nclause to specify conditions:\n\nUse an Alias\n\nGive the AVG column a name by using the\nAS\nkeyword.\n\nHigher Than Average\n\nTo list all records with a higher price than average, we can use the\n\nAVG()\nfunction in a sub query:\n\nUse AVG() with GROUP BY\n\nHere we use the\nAVG()\nfunction and the\n\nGROUP BY\nclause, to return the average price\nfor EACH category in the \"Products\" table:\n\nYou will learn more about the\n\nGROUP BY\nclause later in this tutorial.\n\n",
+  "scraped_at": "2026-04-01T12:06:15"
+}

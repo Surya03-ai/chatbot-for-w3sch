@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_assign.asp",
+  "topic": "python",
+  "title": "Python Assignment Operators",
+  "text": "Python\nAssignment Operators\n\n\n\nAssignment Operators\n\nAssignment operators are used to assign values to variables:\n\nOperator\n\nExample\n\nSame As\n\nTry it\n\n=\n\nx = 5\n\nx = 5\n\n+=\n\nx += 3\n\nx = x + 3\n\n-=\n\nx -= 3\n\nx = x - 3\n\n*=\n\nx *= 3\n\nx = x * 3\n\n/=\n\nx /= 3\n\nx = x / 3\n\n%=\n\nx %= 3\n\nx = x % 3\n\n//=\n\nx //= 3\n\nx = x // 3\n\n**=\n\nx **= 3\n\nx = x ** 3\n\n&=\n\nx &= 3\n\nx = x & 3\n\n|=\n\nx |= 3\n\nx = x | 3\n\n^=\n\nx ^= 3\n\nx = x ^ 3\n\n>>=\n\nx >>= 3\n\nx = x >> 3\n\n<<=\n\nx <<= 3\n\nx = x << 3\n\n:=\n\nprint(x := 3)\n\nx = 3\nprint(x)\n\nThe Walrus Operator\n\nPython 3.8 introduced the\n:=\noperator, known as the \"walrus operator\". It assigns values to variables as part of a larger expression:\n\n",
+  "scraped_at": "2026-04-01T11:58:04"
+}

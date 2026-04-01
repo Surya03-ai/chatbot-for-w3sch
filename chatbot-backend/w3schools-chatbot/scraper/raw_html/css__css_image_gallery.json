@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_image_gallery.asp",
+  "topic": "css",
+  "title": "CSS Image Gallery",
+  "text": "CSS\nImage Gallery\n\n\n\nCSS Image Gallery\n\nA CSS image gallery is a collection of images that is displayed in an organized, and often responsive way, on a web page.\n\nHere we use CSS to create an image gallery:\n\nCinque Terre\n\nGreen Forest\n\nNorthern Lights\n\nMountains\n\nThe HTML structure for an image gallery is:\n\nA container element to wrap the entire gallery (like a <div> with\nclass=\"gallery\").\n\nAnother container element for each image (like a <div> with\nclass=\"gallery-item\"), that contains the <img> tag and possibly a description.\n\nHere is the HTML and CSS code:\n\nTip:\nWe have used\ndisplay: flex;\n\nfor the image gallery above. This layout module is effective for arranging\nimages in rows or columns. You will learn more about\n\nCSS Flexbox\nlater in our CSS Tutorial.\n\nCSS Responsive Image Gallery\n\nHere we use\nCSS media queries\nto re-arrange the images on different screen sizes:\n\nIf screen is larger than 768px wide - show four images side by side\n\nIf screen is smaller than 768px - show two images side by side\n\nIf screens is smaller than 480px - stack the images vertically (width: 100%)\n\nTip:\nYou will learn more about\n\nmedia queries\nlater in our CSS Tutorial.\n\n",
+  "scraped_at": "2026-04-01T11:41:52"
+}

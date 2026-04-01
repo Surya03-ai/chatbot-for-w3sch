@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_links_colors.asp",
+  "topic": "html",
+  "title": "HTML Links - Different Colors",
+  "text": "HTML\nLinks - Different Colors\n\n\n\nAn HTML link is displayed in a different color depending on\nwhether it has been visited, is unvisited, or is active.\n\nHTML Link Colors\n\nBy default, a link will appear like this (in all browsers):\n\nAn unvisited link is underlined and blue\n\nA visited link is underlined and purple\n\nAn active link is underlined and red\n\nYou can change the link state colors, by using CSS:\n\nLink Buttons\n\nA link can also be styled as a button, by using CSS:\n\nThis is a link\n\nTo learn more about CSS, go to our\nCSS Tutorial\n.\n\nHTML Link Tags\n\nTag\n\nDescription\n\n<a>\nDefines a hyperlink\n\nFor a complete list of all available HTML tags, visit our\nHTML Tag Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:34:40"
+}

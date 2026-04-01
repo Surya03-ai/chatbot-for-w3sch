@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_logical.asp",
+  "topic": "python",
+  "title": "Python Logical Operators",
+  "text": "Python\nLogical Operators\n\n\n\nLogical Operators\n\nLogical operators are used to combine conditional statements:\n\nOperator\n\nDescription\n\nExample\n\nTry it\n\nand\n\nReturns True if both statements are true\n\nx < 5 and  x < 10\n\nor\n\nReturns True if one of the statements is true\n\nx < 5 or x < 4\n\nnot\n\nReverse the result, returns False if the result is true\n\nnot(x < 5 and x < 10)\n\nExamples\n\n",
+  "scraped_at": "2026-04-01T11:58:08"
+}

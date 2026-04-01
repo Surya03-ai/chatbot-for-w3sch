@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_tooltip_arrows.asp",
+  "topic": "css",
+  "title": "CSS Tooltip Arrows",
+  "text": "CSS\nTooltip Arrows\n\n\n\nTooltip Arrows\n\nTo create an arrow that should appear from a specific side of the tooltip, add \"empty\"\ncontent after\ntooltip, with the pseudo-element class\n::after\ntogether with the\ncontent\n\nproperty. The arrow itself is created using borders. This will make the tooltip\nlook like a speech bubble.\n\nThis example demonstrates how to add an arrow to the bottom of the tooltip:\n\nExample Explained\n\nPosition the arrow inside the tooltip:\ntop: 100%\nwill place the arrow at the\nbottom of the tooltip.\nleft: 50%\nwill center the arrow.\n\nNote:\nThe\nborder-width\nproperty specifies the size of the\narrow. If you change this, also change the\nmargin-left\nvalue to the same. This\nwill keep the arrow centered.\n\nThe\nborder-color\nis used to transform the content into an arrow. We set the\ntop border to black, and the rest to transparent. If all sides were black, you\nwould end up with a black square box.\n\nThis example demonstrates how to add an arrow to the top of the tooltip.\nNotice that we set the bottom border color this time:\n\nThis example demonstrates how to add an arrow to the left of the tooltip:\n\nThis example demonstrates how to add an arrow to the right of the tooltip:\n\n",
+  "scraped_at": "2026-04-01T11:42:55"
+}

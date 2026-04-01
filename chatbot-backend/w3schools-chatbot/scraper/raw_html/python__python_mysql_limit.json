@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_mysql_limit.asp",
+  "topic": "python",
+  "title": "Python My SQL Limit",
+  "text": "Python MySQL\nLimit\n\n\n\nLimit the Result\n\nYou can limit the number of records returned from the query, by using the \"LIMIT\" statement:\n\nExample\n\nSelect the 5 first records in the \"customers\" table:\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\",\ndatabase=\"mydatabase\"\n)\nmycursor =\nmydb.cursor()\nmycursor.execute(\"SELECT * FROM customers LIMIT 5\")\nmyresult = mycursor.fetchall()\nfor x in\nmyresult:\nprint(x)\n\nRun example »\n\nStart From Another Position\n\nIf you want to return five records, starting from the third record, you\ncan use the \"OFFSET\" keyword:\n\nExample\n\nStart from position 3, and return 5 records:\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\",\ndatabase=\"mydatabase\"\n)\nmycursor =\nmydb.cursor()\nmycursor.execute(\"SELECT * FROM customers LIMIT 5\nOFFSET 2\")\nmyresult = mycursor.fetchall()\nfor x in\nmyresult:\nprint(x)\n\nRun example »\n\n",
+  "scraped_at": "2026-04-01T12:04:31"
+}

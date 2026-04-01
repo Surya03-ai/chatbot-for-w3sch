@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_specificity.asp",
+  "topic": "css",
+  "title": "CSS Specificity",
+  "text": "CSS\nSpecificity\n\n\n\nCSS Specificity\n\nCSS specificity is an algorithm that determines which style declaration is ultimately applied to an element.\n\nIf two or more CSS rules point to the same element, the declaration with the highest specificity will \"win\", and\nthat style will be applied to the HTML element.\n\nLook at the following examples:\n\nNow, look at next example:\n\nNow, look at next example:\n\nNow, look at next example:\n\n",
+  "scraped_at": "2026-04-01T11:42:30"
+}

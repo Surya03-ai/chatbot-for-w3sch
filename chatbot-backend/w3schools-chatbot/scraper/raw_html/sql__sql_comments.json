@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_comments.asp",
+  "topic": "sql",
+  "title": "SQL Comments",
+  "text": "SQL\nComments\n\n\n\nSQL Comments\n\nComments are used to explain SQL code, or to temporarily prevent execution of SQL code (for debugging).\n\nComments are ignored by the database engine.\n\nSQL supports single-line comments\n--\n, and multi-line comments\n/*\n*/\n.\n\nNote:\nComments are not supported in Microsoft Access databases.\n\nSQL Single-line Comments\n\nSingle-line comments start with\n--\nand\ncontinue to the end of line.\n\nAny text after\n--\nand to the end of the line will be ignored.\n\nThe following example uses a single-line comment as an explanation:\n\nThe following example uses a single-line comment to comment away the end of a line:\n\nThe following example uses a single-line comment to temporarily prevent\nexecution of an SQL statement:\n\nSQL Multi-line Comments\n\nMulti-line comments start with\n/*\nand end with\n\n*/\n.\n\nAny text between\n/*\nand\n\n*/\nwill be ignored.\n\nThe following example uses a multi-line comment as an explanation:\n\nThe following example uses a multi-line comment to ignore many SQL statements:\n\nTo ignore just a part of an SQL code, you can also use multi-line comment:\n\nThe following example uses a multi-line comment to ignore part of an SQL statement:\n\n",
+  "scraped_at": "2026-04-01T12:07:03"
+}

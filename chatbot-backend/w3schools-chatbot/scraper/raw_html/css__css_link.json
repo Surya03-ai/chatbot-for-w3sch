@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_link.asp",
+  "topic": "css",
+  "title": "CSS Links",
+  "text": "CSS\nLinks\n\n\n\nCSS Styling Links\n\nHTML links can be styled with many CSS properties, like\n\ncolor\n,\n\ntext-decoration\n,\n\nbackground-color\n,\n\nfont-size\n,\n\nfont-weight\n,\n\nfont-family\n, etc.).\n\nStyling Links Depending on State\n\nIn addition, links can be styled differently depending on what\nstate\nthey are in.\n\nThe four link states are:\n\n:link\n- a normal, unvisited link\n\n:visited\n- a link the user has visited\n\n:hover\n- a link when the user mouses over it\n\n:active\n- a link the moment it is clicked\n\nWhen setting the style for link states, there are some order rules:\n\n:hover must come after :link and :visited\n\n:active must come after :hover\n\nCSS Links - Text Decoration\n\nThe\ntext-decoration\nproperty is mostly used to remove underlines from links:\n\nCSS Links - Background Color\n\nThe\nbackground-color\nproperty can be used to specify a background color for links:\n\nMore Examples\n\n",
+  "scraped_at": "2026-04-01T11:39:46"
+}

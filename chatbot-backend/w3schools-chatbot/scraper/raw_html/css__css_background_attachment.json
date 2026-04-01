@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_background_attachment.asp",
+  "topic": "css",
+  "title": "CSS Background Attachment",
+  "text": "CSS\nBackground Attachment\n\n\n\nCSS background-attachment\n\nThe\nbackground-attachment\nproperty specifies\nwhether the background image should scroll or be fixed (will not scroll with the\nrest of the page):\n\nThe CSS Background Attachment Property\n\nProperty\n\nDescription\n\nbackground-attachment\n\nSets whether a background image is fixed or scrolls with the rest of the page\n\n",
+  "scraped_at": "2026-04-01T11:38:00"
+}

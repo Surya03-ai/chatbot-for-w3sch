@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_tuples_update.asp",
+  "topic": "python",
+  "title": "Python - Update Tuples",
+  "text": "Python -\nUpdate Tuples\n\n\n\nTuples are unchangeable, meaning that you cannot change, add, or remove items once the tuple is created.\n\nBut there are some workarounds.\n\nChange Tuple Values\n\nOnce a tuple is created, you cannot change its values. Tuples are\nunchangeable\n,\nor\nimmutable\nas it also is called.\n\nBut there is a workaround. You can convert the tuple into a list, change the\nlist, and convert the list back into a tuple.\n\nAdd Items\n\nSince tuples are immutable, they do not have a built-in\n\nappend()\nmethod, but\nthere are other ways to add items to a tuple.\n\n1.\nConvert into a list\n: Just like the workaround for\nchanging\na tuple, you can convert it into a list, add your item(s), and convert it back into a tuple.\n\n2.\nAdd tuple to a tuple\n. You are allowed to add tuples to\ntuples, so if you want to add one item, (or many), create a new tuple with the\nitem(s), and add it to the existing tuple:\n\nNote:\nWhen creating a tuple with only one item, remember to include a comma\nafter the item, otherwise it will not be identified as a tuple.\n\nRemove Items\n\nNote:\nYou cannot remove items in a tuple.\n\nTuples are\nunchangeable\n, so you cannot remove items\nfrom it, but you can use the same workaround as we used for changing and adding tuple items:\n\nOr you can delete the tuple completely:\n\n",
+  "scraped_at": "2026-04-01T11:58:54"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_nested.asp",
+  "topic": "python",
+  "title": "Python - Nested Dictionaries",
+  "text": "Python -\nNested Dictionaries\n\n\n\nNested Dictionaries\n\nA dictionary can contain dictionaries, this is called nested\ndictionaries.\n\nOr, if you want to add three dictionaries into a new\ndictionary:\n\nAccess Items in Nested Dictionaries\n\nTo access items from a nested dictionary, you use the name of the dictionaries, starting with the\nouter dictionary:\n\nLoop Through Nested Dictionaries\n\nYou can loop through a dictionary by using the\nitems()\nmethod like this:\n\n",
+  "scraped_at": "2026-04-01T11:59:47"
+}

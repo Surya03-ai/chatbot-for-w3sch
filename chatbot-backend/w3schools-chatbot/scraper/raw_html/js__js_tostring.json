@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_tostring.asp",
+  "topic": "js",
+  "title": "Java Script to String()",
+  "text": "JavaScript toString()\n\n\n\nThe JavaScript\ntoString()\nmethod converts a variable (or a value) to a string.\n\nIt is a built-in method for many data types, including numbers, arrays, dates, and objects.\n\nThe method is useful for:\n\nConverting data to a readable format for display\n\nEnsuring type compatibility when a string is required\n\nCustomizing objects other user interfaces\n\nCustomizing objects for debugging\n\nJavaScript Array toString()\n\nWhen used on an array,\ntoString()\nreturns the array elements as a comma separated string.\n\nJavaScript Date toString()\n\nWhen used on a date,\ntoString()\nreturns a human-readable date and time string.\n\nJavaScript Number toString()\n\nWhen used on a number,\ntoString()\nreturns the number as a string.\n\nConvert a number to a string, using base 2 (binary):\n\nJavaScript Function toString()\n\nWhen used on a function,\ntoString()\nreturns the source code of the\nfunction as a string.\n\nJavaScript Object toString()\n\nWhen used on an object,\ntoString()\nan object returns \"[object Object]\".\n\nTo provide a meaningful string representation, it can be overridden in the object definition:\n\n",
+  "scraped_at": "2026-04-01T11:49:26"
+}

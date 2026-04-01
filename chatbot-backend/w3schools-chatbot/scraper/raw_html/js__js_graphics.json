@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_graphics.asp",
+  "topic": "js",
+  "title": "Java Script Graphics",
+  "text": "JavaScript Graphics\n\n\n\nGraphic Libraries\n\nJavaScript libraries to use for all kinds of graphs:\n\nPlotly.js\n\nChart.js\n\nGoogle Chart\n\nPlotly.js\n\nPlotly.js is a charting library that comes with over 40 chart types, 3D charts, statistical graphs, and SVG maps.\n\nLearn More ...\n\nChart.js\n\nChart.js comes with many built-in chart types:\n\nScatter\n\nLine\n\nBar\n\nRadar\n\nPie and Doughnut\n\nPolar Area\n\nBubble\n\nLearn More ...\n\nGoogle Chart\n\nFrom simple line charts to complex tree maps,\nGoogle Chart provides a number of built-in chart types:\n\nScatter Chart\n\nLine Chart\n\nBar / Column Chart\n\nArea Chart\n\nPie Chart\n\nDonut Chart\n\nOrg Chart\n\nMap / Geo Chart\n\nLearn More ...\n\n",
+  "scraped_at": "2026-04-01T11:56:24"
+}

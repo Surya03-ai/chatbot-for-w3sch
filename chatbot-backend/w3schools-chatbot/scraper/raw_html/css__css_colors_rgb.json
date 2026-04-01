@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_colors_rgb.asp",
+  "topic": "css",
+  "title": "CSS RGB Colors",
+  "text": "CSS\nRGB Colors\n\n\n\nRGB Value\n\nAn RGB color value represents RED, GREEN, and BLUE light sources.\n\nIn CSS, a color can be specified as an RGB value, using this formula:\n\nrgb(\nred,\n\ngreen\n,\nblue\n)\n\nEach parameter (red, green, and\nblue) defines the intensity of the color between 0 and 255.\n\nFor example, rgb(255, 0, 0) is displayed as red,\nbecause red is set to its highest value (255) and the others are\nset to 0.\n\nTo display black, set all color parameters to 0, like this: rgb(0, 0, 0).\n\nTo display white, set all color parameters to 255, like\nthis: rgb(255, 255, 255).\n\nExperiment by mixing the RGB values below:\n\nRED\n\n\nGREEN\n\n\nBLUE\n\n\nShades of gray are often defined using equal values for all the 3 light sources:\n\nRGBA Value\n\nRGBA color values are an extension of RGB color values with an alpha channel\n- which specifies the opacity for a color.\n\nAn RGBA color value is\nspecified with:\n\nrgba(\nred,\n\ngreen\n,\nblue,\nalpha\n)\n\nThe alpha parameter is a number\nbetween 0.0 (fully transparent) and 1.0 (not transparent at all):\n\nExperiment by mixing the RGBA values below:\n\nRED\n\n\nGREEN\n\n\nBLUE\n\n\nALPHA\n\n\n",
+  "scraped_at": "2026-04-01T11:37:44"
+}

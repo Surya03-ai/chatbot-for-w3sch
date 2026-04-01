@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_comments.asp",
+  "topic": "css",
+  "title": "CSS Comments",
+  "text": "CSS\nComments\n\n\n\nCSS Comments\n\nComments are used to explain the CSS code, and may help when you edit the\nsource code at a later date.\n\nComments are also used to temporarily disable sections of CSS code within a\nstylesheet.\n\nComments are ignored by browsers!\n\nA CSS comment is placed inside the HTML\n<style>\nelement, and starts with\n/*\nand ends with\n*/\n:\n\nYou can add comments wherever you want in the code:\n\nEven in the middle of a code line:\n\nComments can also span\nmultiple lines:\n\nHTML and CSS Comments\n\nFrom the HTML tutorial, you learned that you can add comments to your HTML source by using the\n\n<!--...-->\nsyntax.\n\nIn the following example, we use a combination of HTML and CSS comments:\n\n",
+  "scraped_at": "2026-04-01T11:37:35"
+}

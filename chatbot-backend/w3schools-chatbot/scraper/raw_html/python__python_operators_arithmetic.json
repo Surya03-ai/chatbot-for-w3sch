@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_arithmetic.asp",
+  "topic": "python",
+  "title": "Python Arithmetic Operators",
+  "text": "Python\nArithmetic Operators\n\n\n\nArithmetic Operators\n\nArithmetic operators are used with numeric values to perform common mathematical operations:\n\nOperator\n\nName\n\nExample\n\nTry it\n\n\nAddition\n\nx + y\n\n-\n\nSubtraction\n\nx - y\n\n*\n\nMultiplication\n\nx * y\n\n/\n\nDivision\n\nx / y\n\n%\n\nModulus\n\nx % y\n\n**\n\nExponentiation\n\nx ** y\n\n//\n\nFloor division\n\nx // y\n\nExamples\n\nHere is an example using different arithmetic operators:\n\nDivision in Python\n\nPython has two division operators:\n\n/\n- Division (returns a float)\n\n//\n- Floor division (returns an integer)\n\n",
+  "scraped_at": "2026-04-01T11:58:03"
+}

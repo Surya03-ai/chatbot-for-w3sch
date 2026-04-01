@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_json_objects.asp",
+  "topic": "js",
+  "title": "JSON Object Literals",
+  "text": "JSON Object Literals\n\n\n\nThis is a JSON string:\n\n'{\"name\":\"John\", \"age\":30, \"car\":null}'\n\nInside the JSON string there is a JSON object literal:\n\n{\"name\":\"John\", \"age\":30, \"car\":null}\n\nJSON object literals are surrounded by curly braces {}.\n\nJSON object literals contains key/value pairs.\n\nKeys and values are separated by a colon.\n\nKeys must be strings,\nand values must be a valid JSON data type:\n\nstring\n\nnumber\n\nobject\n\narray\n\nboolean\n\nnull\n\nEach key/value pair is separated by a comma.\n\nIt is a common mistake to call a JSON object literal \"a JSON object\".\n\nJSON cannot be an object. JSON is a string format.\n\nThe data is only JSON when it is in a string format.\nWhen it is converted to a JavaScript variable, it becomes a JavaScript object.\n\nJavaScript Objects\n\nYou can create a JavaScript object from a JSON object literal:\n\nNormally, you create a JavaScript object by parsing a JSON string:\n\nAccessing Object Values\n\nYou can access object values by using dot (.) notation:\n\nYou can also access object values by using bracket ([]) notation:\n\nLooping an Object\n\nYou can loop through object properties with a for-in loop:\n\nIn a for-in loop, use the bracket notation to access the property\nvalues\n:\n\n",
+  "scraped_at": "2026-04-01T11:55:57"
+}

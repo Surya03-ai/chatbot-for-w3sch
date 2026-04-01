@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_json_html.asp",
+  "topic": "js",
+  "title": "JSON HTML",
+  "text": "JSON HTML\n\n\n\nJSON can very easily be translated into JavaScript.\n\nJavaScript can be used to make HTML in your web pages.\n\nHTML Table\n\nMake an HTML table with data received as JSON:\n\nDynamic HTML Table\n\nMake the HTML table based on the value of a drop down menu:\n\nChoose an option:\n\nCustomers\n\nProducts\n\nSuppliers\n\nHTML Drop Down List\n\nMake an HTML drop down list with data received as JSON:\n\n",
+  "scraped_at": "2026-04-01T11:56:07"
+}

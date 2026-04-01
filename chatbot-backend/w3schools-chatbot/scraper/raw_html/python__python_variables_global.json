@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_variables_global.asp",
+  "topic": "python",
+  "title": "Python - Global Variables",
+  "text": "Python -\nGlobal Variables\n\n\n\nGlobal Variables\n\nVariables that are created outside of a function (as in all of the examples\nin the previous pages) are known as global variables.\n\nGlobal variables can be used by everyone, both inside of\nfunctions and outside.\n\nIf you create a variable with the same name inside a function, this variable\nwill be local, and can only be used inside the function. The global variable\nwith the same name will remain as it was, global and with the original value.\n\nThe global Keyword\n\nNormally, when you create a variable inside a function, that variable is\nlocal, and can only be used inside that function.\n\nTo create a global variable inside a function, you can use the\n\nglobal\nkeyword.\n\nAlso, use the\nglobal\nkeyword if you want to change a global variable inside a function.\n\n",
+  "scraped_at": "2026-04-01T11:57:37"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_links_bookmarks.asp",
+  "topic": "html",
+  "title": "HTML Links - Create Bookmarks",
+  "text": "HTML\nLinks - Create Bookmarks\n\n\n\nHTML links can be used to create bookmarks, so that readers can\njump to specific parts of a web page.\n\nCreate a Bookmark in HTML\n\nBookmarks can be useful if a web page is very long.\n\nTo create a bookmark - first create the bookmark, then add a link\nto it.\n\nWhen the link is clicked, the page will scroll down or up to the location with the\nbookmark.\n\nExample\n\nFirst, use the\nid\nattribute to create a\nbookmark:\n\n<h2 id=\"C4\">Chapter 4</h2>\n\nThen, add a link to the bookmark (\"Jump to Chapter 4\"), from within the same page:\n\nYou can also add a link to a bookmark on another page:\n\n<a href=\"html_demo.html#C4\">Jump to Chapter 4</a>\n\nChapter Summary\n\nUse the\nid\nattribute (id=\"\nvalue\n\") to define bookmarks in a page\n\nUse the\nhref\nattribute (href=\"#\nvalue\n\") to link to the bookmark\n\nHTML Link Tags\n\nTag\n\nDescription\n\n<a>\nDefines a hyperlink\n\nFor a complete list of all available HTML tags, visit our\nHTML Tag Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:34:42"
+}

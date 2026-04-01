@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_howto.asp",
+  "topic": "css",
+  "title": "How To Add CSS",
+  "text": "How To Add CSS\n\n\n\nHow to Add CSS\n\nWhen a browser reads a style sheet, it will format the HTML document according to the information in the style sheet.\n\nThere are three ways of inserting a style sheet:\n\nExternal CSS - link to an external .css file\n\nInternal CSS - use the <style> element in the head section\n\nInline CSS - use the style attribute on HTML elements\n\nExternal CSS\n\nWith an\nexternal style sheet, you can change the look of an entire website by changing\njust one file!\n\nEach HTML page must include a reference to the external style sheet file inside\nthe <link> element, inside the head section.\n\nAn external style sheet can be written in any text editor, and must be saved with a .css extension.\n\nThe external .css file should not contain any HTML tags.\n\nHere is how the \"mystyle.css\" file looks:\n\n\"mystyle.css\"\n\nbody {\nbackground-color: lightblue;\n}\nh1 {\ncolor: navy;\nmargin-left: 20px;\n}\n\nNote:\nDo not add a space between the property value (20) and the unit\n(px):\n\nIncorrect (space):\nmargin-left: 20 px;\n\nCorrect (no space):\nmargin-left: 20px;\n\n",
+  "scraped_at": "2026-04-01T11:37:23"
+}

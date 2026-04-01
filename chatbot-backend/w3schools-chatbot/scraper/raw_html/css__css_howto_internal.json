@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_howto_internal.asp",
+  "topic": "css",
+  "title": "How To Add Internal CSS",
+  "text": "How To Add Internal CSS\n\n\n\nInternal CSS\n\nAn internal style sheet may be used if one single HTML page has a unique style.\n\nThe internal style is defined inside the <style> element, inside the head\nsection.\n\n",
+  "scraped_at": "2026-04-01T11:37:25"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_intro.asp",
+  "topic": "css",
+  "title": "CSS Introduction",
+  "text": "CSS\nIntroduction\n\n\n\nWhat is CSS?\n\nCSS is the language we use to style a Web page.\n\nCSS stands for Cascading Style Sheets\n\nCSS describes how HTML elements are to be displayed on screen,\npaper, or in other media\n\nCSS saves a lot of work. It can control the layout of\nmultiple web pages all at once\n\nExternal stylesheets are stored in CSS files\n\nCSS Demo - One HTML Page - Multiple Styles!\n\nHere we will show one HTML page displayed with four different stylesheets.\nClick on the \"Stylesheet 1\", \"Stylesheet 2\", \"Stylesheet 3\", \"Stylesheet 4\"\nlinks below to see the different styles:\n\nWhy Use CSS?\n\nCSS is used to define styles for your web pages, including the design, layout\nand variations in display for different devices and screen sizes.\n\nCSS Saves a Lot of Work!\n\nThe CSS definitions are normally saved in an external .css file.\n\nWith an external stylesheet file, you can change the look of an entire website by changing just one file!\n\n",
+  "scraped_at": "2026-04-01T11:37:14"
+}

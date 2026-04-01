@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_ajax_applications.asp",
+  "topic": "js",
+  "title": "XML Applications",
+  "text": "XML Applications\n\n\n\nThis chapter demonstrates some HTML applications using\nXML, HTTP, DOM, and JavaScript.\n\nThe XML Document Used\n\nIn this chapter we will use the XML file called\n\"cd_catalog.xml\"\n.\n\nDisplay XML Data in an HTML Table\n\nThis example loops through each <CD> element, and displays the values of the <ARTIST> and the\n<TITLE> elements in an HTML table:\n\nFor more information about using JavaScript and the XML DOM, go to\n\nDOM Intro.\n\nDisplay the First CD in an HTML div Element\n\nThis example uses a function to display the first CD element in an HTML element with id=\"showCD\":\n\nNavigate Between the CDs\n\nTo navigate between the CDs in the example above, create a\n\nnext()\nand\nprevious()\nfunction:\n\nShow Album Information When Clicking On a CD\n\nThe last example shows how you can show album information when the user clicks on a CD:\n\n",
+  "scraped_at": "2026-04-01T11:55:40"
+}

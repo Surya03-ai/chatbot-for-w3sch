@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_outline_width.asp",
+  "topic": "css",
+  "title": "CSS Outline Width",
+  "text": "CSS\nOutline Width\n\n\n\nCSS Outline Width\n\nThe\noutline-width\nproperty specifies the width of the outline,\nand can have one of the following values:\n\nthin\n(typically 1px)\n\nmedium\n(typically 3px)\n\nthick\n(typically 5px)\n\nA specific size (in px, pt, cm, em, etc)\n\nCSS Outline Width Examples\n\nHere are some outlines with different widths:\n\nA thin outline.\n\nA medium outline.\n\nA thick outline.\n\nA\n8px thick outline.\n\n",
+  "scraped_at": "2026-04-01T11:38:48"
+}

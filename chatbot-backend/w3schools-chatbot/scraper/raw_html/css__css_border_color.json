@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_border_color.asp",
+  "topic": "css",
+  "title": "CSS Border Color",
+  "text": "CSS\nBorder Color\n\n\n\nCSS Border Color\n\nThe\nborder-color\nproperty is used to set the color of the four borders.\n\nThe color can be set by:\n\nname - specify a color name, like \"red\"\n\nHEX - specify a HEX value, like \"#ff0000\"\n\nRGB - specify a RGB value, like \"rgb(255,0,0)\"\n\nHSL - specify a HSL value, like \"hsl(0, 100%, 50%)\"\n\ntransparent\n\nNote:\nIf\nborder-color\nis not set, it inherits the color of the element.\n\nSpecific Side Colors\n\nThe\nborder-color\nproperty can have from one to four values (for\nthe top border, right border, bottom border, and the left border).\n\nHEX Values\n\nThe color of the border can also be specified using a hexadecimal value (HEX):\n\nRGB Values\n\nOr by using RGB values:\n\nHSL Values\n\nYou can also use HSL values:\n\nYou can learn more about HEX, RGB and HSL values in our\nCSS Colors\nchapters.\n\n",
+  "scraped_at": "2026-04-01T11:38:10"
+}

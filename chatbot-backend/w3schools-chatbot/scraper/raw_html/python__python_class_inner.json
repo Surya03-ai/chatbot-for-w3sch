@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_class_inner.asp",
+  "topic": "python",
+  "title": "Python Inner Classes",
+  "text": "Python\nInner Classes\n\n\n\nPython Inner Classes\n\nAn inner class is a class defined inside another class. The inner class can access the properties and methods of the outer class.\n\nInner classes are useful for grouping classes that are only used in one place, making your code more organized.\n\nAccessing Inner Class from the Outside\n\nTo access the inner class, create an object of the outer class, and then create an object of the inner class:\n\nAccessing Outer Class from Inner Class\n\nInner classes in Python do not automatically have access to the outer class instance.\n\nIf you want the inner class to access the outer class, you need to pass the outer class instance as a parameter:\n\nPractical Example\n\nInner classes are useful for creating helper classes that are only used within the context of the outer class:\n\nMultiple Inner Classes\n\nA class can have multiple inner classes:\n\n",
+  "scraped_at": "2026-04-01T12:01:48"
+}

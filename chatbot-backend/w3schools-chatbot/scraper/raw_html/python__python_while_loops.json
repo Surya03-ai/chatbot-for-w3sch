@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_while_loops.asp",
+  "topic": "python",
+  "title": "Python While Loops",
+  "text": "Python\nWhile Loops\n\n\n\nPython Loops\n\nPython has two primitive loop commands:\n\nwhile\nloops\n\nfor\nloops\n\nThe while Loop\n\nWith the\nwhile\nloop we can execute a set of statements as long as a condition is true.\n\nNote:\nremember to increment i, or else the loop will continue forever.\n\nThe\nwhile\nloop requires relevant variables to be ready, in this example we need to define an indexing variable,\ni\n,\nwhich we set to 1.\n\nThe break Statement\n\nWith the\nbreak\nstatement we can stop the loop even if the\nwhile condition is true:\n\nThe continue Statement\n\nWith the\ncontinue\nstatement we can stop the\ncurrent iteration, and continue with the next:\n\nThe else Statement\n\nWith the\nelse\nstatement we can run a block of code once when the\ncondition no longer is true:\n\nNote:\nThe\nelse\nblock will NOT be executed if the loop is stopped by a\nbreak\nstatement.\n\n",
+  "scraped_at": "2026-04-01T12:00:12"
+}

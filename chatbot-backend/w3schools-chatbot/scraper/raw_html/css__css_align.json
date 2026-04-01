@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_align.asp",
+  "topic": "css",
+  "title": "CSS Center Align",
+  "text": "CSS\nCenter Align\n\n\n\nCSS Centering Elements\n\nWith CSS, you can center elements (horizontally, vertically, or both) with several methods, depending on the type of element.\n\nI am vertically and horizontally centered.\n\nHorizontal Alignment\n\nThere are several ways to horizontally align elements:\n\nmargin: auto\n- Center block elements\n\ntext-align: center\n- Center text inside elements\n\nfloat\nor\nposition\n- Left/right alignment\n\nVertical Alignment\n\nVertical centering can be achieved using modern layout techniques:\n\nFlexbox\n- Use\nalign-items: center\n\nGrid\n- Use\nplace-items: center\n\nPosition + Transform\n- For elements of unknown dimensions\n\nTip:\nFlexbox is the most modern and recommended method for centering content both horizontally and vertically!\n\n",
+  "scraped_at": "2026-04-01T11:41:03"
+}

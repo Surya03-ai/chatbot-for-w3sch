@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_text_decoration.asp",
+  "topic": "css",
+  "title": "CSS Text Decoration",
+  "text": "CSS\nText Decoration\n\n\n\nCSS Text Decoration\n\nThe CSS\ntext-decoration\n\nproperty is used to control the appearance of decorative lines on text.\n\nIt is a shorthand property for the following individual properties:\n\ntext-decoration-line\n\ntext-decoration-color\n\ntext-decoration-style\n\ntext-decoration-thickness\n\nAdd a Decoration Line to Text\n\nThe CSS\ntext-decoration-line\nproperty\nsets the type of decoration line added to the text.\n\nThis property can have one or more of the following values:\n\nnone\n- Default value. Displays no\ndecoration line\n\nunderline\n- The decoration line is\ndisplayed under the text\n\noverline\n- The decoration line is\ndisplayed over the text\n\nline-through\n- The decoration line is\ndisplayed through the text\n\nTip:\nYou can combine multiple values, like overline and\nunderline to display lines both over and under a text.\n\nNote:\nIt is not recommended to underline text that is not a\nlink, as this often confuses the reader!\n\nSpecify a Color for the Decoration Line\n\nThe CSS\ntext-decoration-color\nproperty is used to\nset the color of the decoration line.\n\n",
+  "scraped_at": "2026-04-01T11:39:06"
+}

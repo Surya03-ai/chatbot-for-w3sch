@@ -16,7 +16,11 @@ def configure(chunk_size: int, chunk_overlap: int):
 
 
 def chunk_text(page: dict, topic: str) -> list[dict]:
-    """Split a cleaned page into token-aware chunks for embedding."""
+    """Split a cleaned page into token-aware chunks for embedding.
+    
+    Each page dict must contain: url, topic, title, text, scraped_at
+    The scraped_at timestamp is included in chunk metadata.
+    """
     if not page:
         return []
     text = page.get("text", "")
@@ -29,7 +33,8 @@ def chunk_text(page: dict, topic: str) -> list[dict]:
         length_function=count_tokens,
     )
     pieces = splitter.split_text(text)
-    scraped_at = datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    # Use scraped_at from the page, or generate if missing
+    scraped_at = page.get("scraped_at") or (datetime.utcnow().replace(microsecond=0).isoformat() + "Z")
     chunks = []
     chunk_index = 0
     for piece in pieces:

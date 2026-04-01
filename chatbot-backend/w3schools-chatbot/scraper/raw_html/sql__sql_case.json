@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_case.asp",
+  "topic": "sql",
+  "title": "SQL CASE Expression",
+  "text": "SQL\nCASE\nExpression\n\n\n\nThe SQL CASE Expression\n\nThe\nCASE\nexpression is used to define\ndifferent results based on specified conditions in an SQL statement.\n\nThe\nCASE\nexpression goes through the conditions and\nstops at the first match (like an if-then-else statement). So, once a condition is true, it will stop\nprocessing and return the result. If no conditions are true, it returns\nthe value in the\nELSE\nclause. If there is no\nELSE\n\nclause and no conditions are true, it returns NULL.\n\nCASE Syntax\n\nCASE\n\nWHEN\ncondition1\nTHEN\nresult1\n\nWHEN\ncondition2\nTHEN\nresult2\n\nWHEN\nconditionN\nTHEN\nresultN\n\nELSE\ndefault_result\n\nEND;\n\nSQL CASE Example\n\nHere we use the\nCASE\nexpression to\ncategorize data (Price) and we create a new column (PriceCategory) that shows in\nwhich price category each product is:\n\n",
+  "scraped_at": "2026-04-01T12:06:57"
+}

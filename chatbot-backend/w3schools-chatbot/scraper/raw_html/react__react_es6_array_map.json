@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_es6_array_map.asp",
+  "topic": "react",
+  "title": "Java Script Array map()",
+  "text": "JavaScript\nArray map()\n\n\n\nThe map() Method\n\nThe\nmap()\nmethod creates a new array with the results of calling a function for every array element.\n\nmap() in React\n\nThe\nmap()\nmethod is commonly used in React to render lists of elements:\n\nNote:\nWhen using\nmap()\nin React to create list items, each item needs a unique\nkey\nprop.\n\nmap() with Objects\n\nYou can also use\nmap()\nwith arrays of objects:\n\nmap() Parameters\n\nThe\nmap()\nmethod takes three parameters:\n\ncurrentValue\n- The current element being processed\n\nindex\n- The index of the current element (optional)\n\narray\n- The array that map was called upon (optional)\n\nNote:\nThe\nmap()\nmethod always returns a new array. It does not modify the original array.\n\n",
+  "scraped_at": "2026-04-01T12:08:43"
+}

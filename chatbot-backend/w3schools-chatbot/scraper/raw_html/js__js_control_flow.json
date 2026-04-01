@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_control_flow.asp",
+  "topic": "js",
+  "title": "Java Script Control Flow",
+  "text": "JavaScript Control Flow\n\n\n\nControl Flow\nis the order in which statements are executed in a program.\n\nBy default, JavaScript runs code\nfrom top to bottom\nand left to right.\n\nControl flow statements let you\nchange that order\n, based on conditions, loops or keywords.\n\nDefault Flow\n\nDefault flow executes code\nsequentially\n\n(from top to bottom / from left to right).\n\nConditional Control Flow\n\nConditions let you\nmake decisions\nusing:\n\nif\n\nif...else\n\nswitch\n\nternary (? :)\n\nLoops (Repetition Control Flow)\n\nLoops let you\nrun code multiple times\nusing:\n\nfor\n\nwhile\n\ndo...while\n\nJump Statements\n\nJump statements let you\nchange the flow\nabruptly using:\n\nbreak - exits a loop or switch\n\ncontinue - skips the current loop iteration\n\nreturn - exits from a function\n\nthrow - jumps to error handling\n\nFunction Flow\n\nFunctions are\ncallable\nand reusable\ncode blocks\n\nFunctions will run when they are called.\n\nJavaScript Is Single-Threaded\n\nJavaScript runs on a\nsingle thread\n.\n\nIt can only do\none thing at a time\n.\n\nEvery task has to wait for the previous one to finish.\n\nThis can freeze an application during slow operations (like file requests).\n\nJavaScript can also run code asynchronously.\n\nAsynchronous programming is covered in the JS Advanced section:\n\nJavaScript Asynchronous Programming\n.\n\n",
+  "scraped_at": "2026-04-01T11:45:17"
+}

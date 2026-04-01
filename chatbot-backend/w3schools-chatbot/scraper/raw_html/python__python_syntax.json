@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_syntax.asp",
+  "topic": "python",
+  "title": "Python Syntax",
+  "text": "Python\nSyntax\n\n\n\nExecute Python Syntax\n\nAs we learned in the previous page, Python syntax can be executed by writing directly in the Command Line:\n\n>>> print(\"Hello, World!\")\n\nHello, World!\n\nOr by creating a python file on the server, using the .py file extension, and running it in the Command Line:\n\nC:\\Users\\\nYour Name\n>python myfile.py\n\nPython Indentation\n\nIndentation refers to the spaces at the beginning of a code line.\n\nWhere in other programming languages the indentation in code is for readability\nonly, the indentation in Python is very important.\n\nPython uses indentation to indicate a block of code.\n\nPython will give you an error if you skip the indentation:\n\nThe number of spaces is up to you as a programmer, the most common use is four, but it has\nto be at least one.\n\nYou have to use the same number of spaces in the same block of code,\notherwise Python will give you an error:\n\nPython Variables\n\nIn Python, a variable is created when you assign a value to it:\n\nPython has no command for declaring a variable.\n\nYou will learn more about variables in the\n\nPython Variables\nchapter.\n\nComments\n\nPython has commenting capability for the purpose of in-code documentation.\n\nComments start with a\n#\n, and Python will render the rest of the line as a comment:\n\n",
+  "scraped_at": "2026-04-01T11:57:17"
+}

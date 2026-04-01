@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_sort.asp",
+  "topic": "python",
+  "title": "Python - Sort Lists",
+  "text": "Python -\nSort Lists\n\n\n\nSort List Alphanumerically\n\nList objects have a\nsort()\nmethod that will sort the list alphanumerically, ascending, by default:\n\nSort Descending\n\nTo sort descending, use the keyword argument\nreverse = True\n:\n\nCustomize Sort Function\n\nYou can also customize your own function by using the keyword argument\nkey =\nfunction\n.\n\nThe function will return a number that will be used to sort the list (the\nlowest number first):\n\nCase Insensitive Sort\n\nBy default the\nsort()\nmethod is case sensitive,\nresulting in all capital letters being sorted before lower case letters:\n\nLuckily we can use built-in functions as key functions when sorting a list.\n\nSo if you want a case-insensitive sort function, use str.lower as a key function:\n\nReverse Order\n\nWhat if you want to reverse the order of a list, regardless of the alphabet?\n\nThe\nreverse()\nmethod reverses the current sorting order of the elements.\n\n",
+  "scraped_at": "2026-04-01T11:58:37"
+}

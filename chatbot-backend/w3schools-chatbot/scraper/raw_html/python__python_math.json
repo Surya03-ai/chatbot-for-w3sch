@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_math.asp",
+  "topic": "python",
+  "title": "Python Math",
+  "text": "Python\nMath\n\n\n\nPython has a set of built-in math functions, including an extensive math module, that allows you to perform mathematical tasks on numbers.\n\nBuilt-in Math Functions\n\nThe\nmin()\nand\nmax()\nfunctions can be used to find the lowest or highest value in an iterable:\n\nThe\nabs()\nfunction returns the absolute (positive) value of the specified number:\n\nThe\npow(\nx\n,\ny\n)\nfunction returns the value of x to the power of y (x\ny\n).\n\nThe Math Module\n\nPython has also a built-in module called\nmath\n, which extends the list of mathematical functions.\n\nTo use it, you must import the\nmath\nmodule:\n\nimport math\n\nWhen you have imported the\nmath\nmodule, you\ncan start using methods and constants of the module.\n\nThe\nmath.sqrt()\nmethod for example, returns the square root of a number:\n\nThe\nmath.ceil()\nmethod rounds a number upwards to\nits nearest integer, and the\nmath.floor()\n\nmethod rounds a number downwards to its nearest integer, and returns the result:\n\nThe\nmath.pi\nconstant, returns the value of\nPI (3.14...):\n\nComplete Math Module Reference\n\nIn our\nMath Module Reference\nyou will\nfind a complete reference of all methods and constants that belongs to the Math module.\n\n",
+  "scraped_at": "2026-04-01T12:00:56"
+}

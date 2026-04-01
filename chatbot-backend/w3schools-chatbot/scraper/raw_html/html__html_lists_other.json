@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_lists_other.asp",
+  "topic": "html",
+  "title": "HTML Other Lists",
+  "text": "HTML\nOther Lists\n\n\n\nHTML also supports description lists.\n\nHTML Description Lists\n\nA description list is a list of terms, with a description of each term.\n\nThe\n<dl>\ntag defines the description list, the\n<dt>\ntag defines the term (name), and the\n<dd>\n\ntag describes each term:\n\nChapter Summary\n\nUse the HTML\n<dl>\nelement to define a description list\n\nUse the HTML\n<dt>\nelement to define the description term\n\nUse the HTML\n<dd>\nelement to describe the term in a description list\n\nHTML List Tags\n\nTag\n\nDescription\n\n<ul>\n\nDefines an unordered list\n\n<ol>\n\nDefines an ordered list\n\n<li>\n\nDefines a list item\n\n<dl>\n\nDefines a description list\n\n<dt>\n\nDefines a term in a description list\n\n<dd>\n\nDescribes the term in a description list\n\nFor a complete list of all available HTML tags, visit our\nHTML Tag Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:35:24"
+}

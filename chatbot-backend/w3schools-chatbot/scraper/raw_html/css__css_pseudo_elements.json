@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_pseudo_elements.asp",
+  "topic": "css",
+  "title": "CSS Pseudo-elements",
+  "text": "CSS\nPseudo-elements\n\n\n\nCSS Pseudo-Elements\n\nA CSS pseudo-element is a keyword that can be added to a selector, to style a\nspecific part of an element.\n\nSome common use for pseudo-elements:\n\nStyle the first letter or first line, of an element\n\nInsert content before or after an element\n\nStyle the markers of list items\n\nStyle the user-selected portion of an element\n\nStyle the viewbox behind a dialog box\n\nSyntax\n\nPseudo-elements are denoted by a double colon (::) followed by the pseudo-element name:\n\nselector::pseudo-element-name {\nCSS properties\n}\n\nText Pseudo-elements\n\nText pseudo-elements style specific parts of text content:\n\n::first-line\n- Style the first line of text\n\n::first-letter\n- Style the first letter of text\n\nContent Pseudo-elements\n\nContent pseudo-elements insert or style generated content:\n\n::before\n- Insert content before an element\n\n::after\n- Insert content after an element\n\n::marker\n- Style list item markers\n\n::selection\n- Style user-selected text\n\n::backdrop\n- Style dialog backdrop\n\nCSS Pseudo-elements Reference\n\nFor a complete list of all CSS Pseudo-elements, visit our\nCSS Pseudo-elements Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:41:27"
+}

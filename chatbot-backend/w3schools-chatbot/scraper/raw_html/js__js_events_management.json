@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_events_management.asp",
+  "topic": "js",
+  "title": "Java Script Event Management",
+  "text": "JavaScript Event Management\n\n\n\nEvent Management\nis about adding, removing, and controlling events.\n\nAdding Events\n\nRemoving Events\n\nTo remove an event listener, you must use the\nsame named function\nyou used to add it.\n\nBlocking Events\n\n",
+  "scraped_at": "2026-04-01T11:52:22"
+}

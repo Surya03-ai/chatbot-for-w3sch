@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_methods.asp",
+  "topic": "python",
+  "title": "Python - List Methods",
+  "text": "Python -\nList Methods\n\n\n\nList Methods\n\nPython has a set of built-in methods that you can use on lists.\n\nMethod\n\nDescription\n\nappend()\nAdds an element at\nthe end of the list\n\nclear()\nRemoves all the\nelements from the list\n\ncopy()\nReturns a copy of the\nlist\n\ncount()\nReturns the number of\nelements with the specified value\n\nextend()\nAdd the elements of a\nlist (or any iterable), to the end of the current list\n\nindex()\nReturns the index of\nthe first element with the specified value\n\ninsert()\nAdds an element at\nthe specified position\n\npop()\nRemoves the element at the\nspecified position\n\nremove()\nRemoves the\nitem with the specified value\n\nreverse()\nReverses the order\nof the list\n\nsort()\nSorts the list\n\n",
+  "scraped_at": "2026-04-01T11:58:45"
+}

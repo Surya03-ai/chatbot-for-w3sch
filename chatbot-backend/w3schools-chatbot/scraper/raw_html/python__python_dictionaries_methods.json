@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_methods.asp",
+  "topic": "python",
+  "title": "Python Dictionary Methods",
+  "text": "Python\nDictionary Methods\n\n\n\nDictionary Methods\n\nPython has a set of built-in methods that you can use on dictionaries.\n\nMethod\n\nDescription\n\nclear()\nRemoves all the elements from the dictionary\n\ncopy()\nReturns a copy of the dictionary\n\nfromkeys()\nReturns a dictionary with the specified keys and value\n\nget()\nReturns the value of the specified key\n\nitems()\nReturns a list containing a tuple for each key value pair\n\nkeys()\nReturns a list containing the dictionary's keys\n\npop()\nRemoves the element with the specified key\n\npopitem()\nRemoves the last\ninserted key-value pair\n\nsetdefault()\nReturns the value of the specified key. If the key does not exist: insert the key, with the specified value\n\nupdate()\nUpdates the dictionary with the specified key-value pairs\n\nvalues()\nReturns a list of all the values in the dictionary\n\n",
+  "scraped_at": "2026-04-01T11:59:49"
+}

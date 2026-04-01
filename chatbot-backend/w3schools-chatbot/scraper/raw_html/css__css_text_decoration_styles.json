@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_text_decoration_styles.asp",
+  "topic": "css",
+  "title": "CSS Text Decoration Styles",
+  "text": "CSS\nText Decoration Styles\n\n\n\nSpecify a Style for the Decoration Line\n\nThe CSS\ntext-decoration-style\nproperty\nsets the style of the decoration line.\n\nThis property can have one of the following values:\n\nsolid\n- Default value. Single line\n\ndouble\n- Double line\n\ndotted\n- Dotted line\n\ndashed\n- Dashed line\n\nwavy\n- Wavy line\n\nSpecify the Thickness for the Decoration Line\n\nThe CSS\ntext-decoration-thickness\nproperty is used to\nset the thickness of the decoration line.\n\nThe Shorthand Property\n\nThe CSS\ntext-decoration\nproperty is a shorthand\nproperty for:\n\ntext-decoration-line\n(required)\n\ntext-decoration-color\n(optional)\n\ntext-decoration-style\n(optional)\n\ntext-decoration-thickness\n(optional)\n\nA Small Tip on Links\n\nAll links in HTML are underlined by default. Sometimes you\nsee that links are styled with no underline. The\ntext-decoration: none;\nis used to remove\nthe underline from links,\nlike this:\n\n",
+  "scraped_at": "2026-04-01T11:39:09"
+}

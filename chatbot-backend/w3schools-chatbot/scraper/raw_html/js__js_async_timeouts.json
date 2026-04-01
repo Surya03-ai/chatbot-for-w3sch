@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_async_timeouts.asp",
+  "topic": "js",
+  "title": "Java Script Timeouts",
+  "text": "JavaScript Timeouts\n\n\n\nThe setTimeout() Method\n\nThe setTimeout() method\nschedules a function to\nrun after a delay\nin milliseconds.\n\nIt is an\nasync operation\nused to delay code execution without freezing the browser.\n\nWaiting for a Timeout\n\nWhen using the\nsetTimeout()\nmethod,\nyou can specify a function to be executed on time-out:\n\nIn the example above,\nmyFunction\nis passed to\n\nsetTimeout()\nas an argument.\n\nis the number of milliseconds before\n\nmyFunction\nwill be called.\n\nWhen you pass a function as an argument, remember not to use parenthesis.\n\nRight: setTimeout(myFunction, 3000);\n\nWrong: setTimeout(myFunction(), 3000);\n\nInstead of passing a function name as an argument to another function,\nyou can always pass the whole function instead:\n\nWaiting for Intervals:\n\nWhen using the\nsetInterval()\nmethod,\nyou can specify function to be executed for each interval:\n\nIn the example above,\nmyFunction\nis passed to\nsetInterval()\nas an argument.\n\nis the number of milliseconds between every time\n\nmyFunction\nwill be called.\n\nNext Chapter\n\nA callback runs\nafter another function finishes\n.\n\nCallbacks were the\nfirst solution for asynchronous JavaScript\n.\n\nJavaScript Callbacks\n\n",
+  "scraped_at": "2026-04-01T11:53:36"
+}

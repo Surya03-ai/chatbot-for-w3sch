@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_ajax_http_response.asp",
+  "topic": "js",
+  "title": "AJAX - Server Response",
+  "text": "AJAX - Server Response\n\n\n\nServer Response Properties\n\nProperty\n\nDescription\n\nresponseText\n\nget the response data as a string\n\nresponseXML\n\nget the response data as XML data\n\nThe responseText Property\n\nThe\nresponseText\nproperty returns the server response as a\nJavaScript string, and you can use it accordingly:\n\nThe responseXML Property\n\nThe XMLHttpRequest object has an in-built XML parser.\n\nThe\nresponseXML\nproperty returns the server response as an XML DOM object.\n\nUsing this property you can parse the response as an XML DOM object:\n\nServer Response Methods\n\nMethod\n\nDescription\n\ngetResponseHeader()\n\nReturns specific header information from the server resource\n\ngetAllResponseHeaders()\n\nReturns all the header information from the server resource\n\nThe getAllResponseHeaders() Method\n\nThe\ngetAllResponseHeaders()\nmethod returns all header information from the server response.\n\nThe getResponseHeader() Method\n\nThe\ngetResponseHeader()\nmethod returns specific header information from the server response.\n\n",
+  "scraped_at": "2026-04-01T11:55:23"
+}

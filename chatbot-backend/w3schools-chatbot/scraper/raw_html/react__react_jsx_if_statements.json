@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_jsx_if_statements.asp",
+  "topic": "react",
+  "title": "React JSX If Statements",
+  "text": "React JSX If Statements\n\n\n\nConditions - if statements\n\nReact supports\nif\nstatements, but not\ninside\nJSX.\n\nTo be able to use conditional statements in JSX, you should put the\nif\n\nstatements outside of the JSX, or you could use a ternary expression instead:\n\nOption 1:\n\nWrite\nif\nstatements outside of the JSX code:\n\nExample\n\nWrite \"Banana\" if\nx\nis less than 10, otherwise \"Apple\":\n\nfunction Fruit() {\nconst x = 5;\nlet y = \"Apple\";\nif (x < 10) {\ny = \"Banana\";\n}\n\nreturn (\n<h1>{y}</h1>\n);\n}\n\nRun\nExample »\n\nOption 2:\n\nUse ternary expressions instead:\n\nExample\n\nWrite \"Banana\" if\nx\nis less than 10, otherwise \"Apple\":\n\nfunction Fruit() {\nconst x = 5;\nreturn (\n<h1>{(x) < 10 ? \"Banana\" : \"Apple\"}</h1>\n);\n}\n\nRun\nExample »\n\nNote\nthat in order to embed a JavaScript expression inside JSX,\nthe JavaScript must be wrapped with curly braces,\n{}\n.\n\n",
+  "scraped_at": "2026-04-01T12:09:04"
+}

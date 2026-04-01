@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_none.asp",
+  "topic": "python",
+  "title": "Python None",
+  "text": "Python\nNone\n\n\n\nPython None\n\nNone\nis a special constant in Python that represents the absence of a value.\n\nIts data type is\nNoneType\n, and\nNone\nis the only instance of a\nNoneType\nobject.\n\nNoneType\n\nVariables can be assigned\nNone\nto indicate \"no value\" or \"not set\".\n\nUse\ntype()\nto see the type of a\nNone\nvalue.\n\nComparing to None\n\nTo compare a value to\nNone\n, use the identity operator\nis\nor\nis not\n\nTrue or False\n\nNone\nevaluates to\nFalse\nin a boolean context.\n\nFunctions returning None\n\nFunctions that do not explicitly return a value return\nNone\nby default.\n\n",
+  "scraped_at": "2026-04-01T12:01:15"
+}

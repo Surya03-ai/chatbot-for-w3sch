@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_htmldom_animate.asp",
+  "topic": "js",
+  "title": "HTML DOM Animation",
+  "text": "HTML DOM Animation\n\n\n\nLearn to create HTML animations using JavaScript.\n\nA Basic Web Page\n\nTo demonstrate how to create HTML animations with JavaScript, we will use a simple\nweb page:\n\nExample\n\n<!DOCTYPE html>\n<html>\n<body>\n<h1>My First\nJavaScript Animation</h1>\n\n<div id=\"animation\">My animation will go here</div>\n\n</body>\n</html>\n\nCreate an Animation Container\n\nAll animations should be relative to a container element.\n\nExample\n\n<div id =\"container\">\n<div id =\"animate\">My\nanimation will go here</div>\n</div>\n\nStyle the Elements\n\nThe container element should be created with style = \"\nposition: relative\n\".\n\nThe animation element should be created with style = \"\nposition: absolute\n\".\n\nAnimation Code\n\nJavaScript animations are done by programming gradual changes in an element's\nstyle.\n\nThe changes are called by a timer. When the timer interval is small, the\nanimation looks continuous.\n\nThe basic code is:\n\nExample\n\nid = setInterval(frame, 5);\nfunction frame() {\nif (/*\ntest for finished */) {\nclearInterval(id);\n} else {\n\n/* code to change the element style */\n}\n}\n\nCreate the Full Animation Using JavaScript\n\n",
+  "scraped_at": "2026-04-01T11:51:55"
+}

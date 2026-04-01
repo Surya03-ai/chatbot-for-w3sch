@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_form_elements.asp",
+  "topic": "css",
+  "title": "CSS Form Elements",
+  "text": "CSS\nForm Elements\n\n\n\nStyle Textarea\n\nBy default, a <textarea> can be resized with a \"grabber\" in the bottom right\ncorner. To remove the grabber, set the\nresize\nproperty to\nnone\n:\n\nSome text...\n\nStyle a Dropdown Menu\n\nAustralia\n\nCanada\n\nUSA\n\nStyle Form Buttons\n\nForm buttons of type \"button\", \"submit\" and \"reset\" can also be styled with\nCSS:\n\nTip:\nFor more information about how to style buttons, read our\nCSS Buttons Tutorial\n.\n\nCSS Responsive Form\n\nThe following example uses\nCSS media queries\nto create a responsive form. You will learn more about\nmedia queries in a later chapter.\n\nWhen the screen is less than 600px wide, we make the labels and input fields stack on top of each other, instead of next to each other.\n\nResize the screen to see the form layout change!\n\n",
+  "scraped_at": "2026-04-01T11:42:10"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_if_else.asp",
+  "topic": "python",
+  "title": "Python Else Statement",
+  "text": "Python\nElse Statement\n\n\n\nThe Else Keyword\n\nThe\nelse\nkeyword catches anything which isn't caught by the preceding conditions.\n\nThe\nelse\nstatement is executed when the\nif\ncondition (and any\nelif\nconditions) evaluate to\nFalse\n.\n\nIn this example\na\nis greater than\nb\n,\nso the first condition is not true, also the\nelif\ncondition is not true,\nso we go to the\nelse\ncondition and print to screen that \"a is greater than b\".\n\nElse Without Elif\n\nYou can also have an\nelse\nwithout the\n\nelif\n:\n\nThis creates a simple two-way choice: if the condition is true, execute one block; otherwise, execute the else block.\n\nHow Else Works\n\nThe\nelse\nstatement provides a default action when none of the previous conditions are true. Think of it as a \"catch-all\" for any scenario not covered by your\nif\nand\nelif\nstatements.\n\nNote:\nThe\nelse\nstatement must come last. You cannot have an\nelif\nafter an\nelse\n.\n\nComplete If-Elif-Else Chain\n\nYou can combine\nif\n,\nelif\n, and\nelse\nto create a comprehensive decision-making structure.\n\nElse as Fallback\n\nThe\nelse\nstatement acts as a fallback that executes when none of the preceding conditions are true. This makes it useful for error handling, validation, and providing default values.\n\n",
+  "scraped_at": "2026-04-01T11:59:57"
+}

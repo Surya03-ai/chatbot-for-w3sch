@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_align_vertical.asp",
+  "topic": "css",
+  "title": "CSS Vertical Align",
+  "text": "CSS\nVertical Align\n\n\n\nVertical Centering\n\nVertical centering in CSS can be achieved using modern layout techniques like Flexbox and Grid, or using positioning with transforms.\n\nCenter Align with Flexbox\n\nWith\nCSS flexbox\nyou can center elements, both horizontally and vertically, within a flex container.\n\nA flex container with both the\njustify-content\nand the\n\nalign-items\nproperties set to\n\ncenter\nwill align the item(s) in the center (in both axis):\n\nI am vertically and horizontally centered.\n\nCenter Align with Grid\n\nWith\nCSS grid\nyou can center elements, both horizontally and vertically, within a grid container.\n\nA grid container with the\nplace-items\nproperty set to center, will align the item(s) in the center (in both axis).\n\nI am vertically and horizontally centered.\n\nCenter Align with position and transform\n\nIf you deal with elements of unknown or dynamic dimensions, it is a common\ntechnique to use\nposition:\nabsolute;\ncombined with\ntransform: translate();\n\nto center an element:\n\nI am vertically and horizontally centered.\n\nTip:\nYou will learn more about the transform property in our\n2D Transforms\nChapter\n.\n\n",
+  "scraped_at": "2026-04-01T11:41:10"
+}

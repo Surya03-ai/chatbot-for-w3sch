@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_scripts.asp",
+  "topic": "html",
+  "title": "HTML Java Script",
+  "text": "HTML\nJavaScript\n\n\n\nJavaScript makes HTML pages more dynamic and interactive.\n\nThe HTML <script> Tag\n\nThe HTML\n<script>\ntag is used to define a client-side script\n(JavaScript).\n\nThe\n<script>\nelement either contains script statements, or it points to an\nexternal script file through the\nsrc\nattribute.\n\nCommon uses for JavaScript are image manipulation, form validation, and\ndynamic changes of content.\n\nTo select an HTML element, JavaScript most often uses the\n\ndocument.getElementById()\nmethod.\n\nThis JavaScript example writes \"Hello JavaScript!\" into an HTML element with id=\"demo\":\n\nTip:\nYou can learn much more about JavaScript in our\nJavaScript Tutorial\n.\n\nA Taste of JavaScript\n\nHere are some examples of what JavaScript can do:\n\nThe HTML <noscript> Tag\n\nThe HTML\n<noscript>\ntag defines an alternate content\nto be displayed to users that\nhave disabled scripts in their browser or have a browser that doesn't support\nscripts:\n\nHTML Script Tags\n\nTag\n\nDescription\n\n<script>\n\nDefines a client-side script\n\n<noscript>\n\nDefines an alternate content for users that do not support client-side\nscripts\n\nFor a complete list of all available HTML tags, visit our\nHTML Tag Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:35:45"
+}

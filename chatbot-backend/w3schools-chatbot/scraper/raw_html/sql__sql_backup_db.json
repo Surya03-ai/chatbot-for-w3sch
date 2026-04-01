@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_backup_db.asp",
+  "topic": "sql",
+  "title": "SQL BACKUP DATABASE Statement",
+  "text": "SQL\nBACKUP DATABASE\nStatement\n\n\n\nThe BACKUP DATABASE Statement\n\nThe\nBACKUP DATABASE\nstatement is used in SQL Server to create a full backup of an existing SQL database.\n\nSyntax\n\nBACKUP DATABASE\ndatabasename\nTO DISK = '\nfilepath\n';\n\nBACKUP DATABASE Example\n\nThe following SQL creates a full backup of the existing database \"testDB\"\nto the D drive:\n\nExample\n\nBACKUP DATABASE testDB\nTO DISK = 'D:\\backups\\testDB.bak';\n\nTip:\nAlways place the backup database in a different drive than the\noriginal database! If you get a disk crash, you will not lose your backup\nfile along with the database.\n\nThe BACKUP WITH DIFFERENTIAL Statement\n\nA differential backup only captures the data that has changed since the last full backup.\n\nA differential backup requires at least one prior full backup!\n\nSyntax\n\nBACKUP DATABASE\ndatabasename\nTO DISK = '\nfilepath\n'\nWITH\nDIFFERENTIAL;\n\nBACKUP WITH DIFFERENTIAL Example\n\nThe following SQL creates a differential backup of the database \"testDB\":\n\nExample\n\nBACKUP DATABASE testDB\nTO DISK = 'D:\\backups\\testDB.bak'\nWITH\nDIFFERENTIAL;\n\nTip:\nA differential backup reduces the backup time (since only the changes are backed up).\n\n",
+  "scraped_at": "2026-04-01T12:07:14"
+}

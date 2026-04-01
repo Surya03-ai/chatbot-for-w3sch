@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_api_history.asp",
+  "topic": "js",
+  "title": "Web History API",
+  "text": "Web History API\n\n\n\nThe Web History API provides easy methods to access the windows.history object.\n\nThe window.history object contains the URLs (Web Sites) visited by the user.\n\nThe Web History API is supported in all browsers:\n\nYes\n\nYes\n\nYes\n\nYes\n\nYes\n\nThe History back() Method\n\nThe back() method loads the previous URL in the windows.history list.\n\nIt is the same as clicking the \"back arrow\" in your browser.\n\nExample\n\n<button onclick=\"myFunction()\">Go Back</button>\n\n<script>\n\nfunction myFunction() {\n\nwindow.history.back();\n\n}\n\n</script>\n\nGo Back\n\nThe History go() Method\n\nThe go() method loads a specific URL from the history list:\n\nExample\n\n<button onclick=\"myFunction()\">Go Back 2 Pages</button>\n\n<script>\n\nfunction myFunction() {\n\nwindow.history.go(-2);\n\n}\n\n</script>\n\nGo Back 2 Pages\n\nHistory Object Properties\n\nProperty\n\nDescription\n\nlength\n\nReturns the number of URLs in the history list\n\nHistory Object Methods\n\nMethod\n\nDescription\n\nback()\n\nLoads the previous URL in the history list\n\nforward()\n\nLoads the next URL in the history list\n\ngo()\n\nLoads a specific URL from the history list\n\n",
+  "scraped_at": "2026-04-01T11:55:00"
+}

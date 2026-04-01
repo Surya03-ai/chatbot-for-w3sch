@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_border.asp",
+  "topic": "css",
+  "title": "CSS Borders",
+  "text": "CSS\nBorders\n\n\n\nCSS Borders\n\nThe CSS border properties allow you to specify the style, width, and color of an element's border.\n\nI have borders on all sides.\n\nI have a red, bottom border.\n\nI have rounded borders.\n\nI have a blue, left border.\n\nCSS Border Style\n\nThe\nborder-style\nproperty specifies what kind of border to display.\n\nThe following values are allowed:\n\ndotted\n- Defines a dotted border\n\ndashed\n- Defines a dashed border\n\nsolid\n- Defines a solid border\n\ndouble\n- Defines a double border\n\ngroove\n- Defines a 3D grooved border. The effect depends on the border-color value\n\nridge\n- Defines a 3D ridged border. The effect depends on the border-color value\n\ninset\n- Defines a 3D inset border. The effect depends on the border-color value\n\noutset\n- Defines a 3D outset border. The effect depends on the border-color value\n\nnone\n- Defines no border\n\nhidden\n- Defines a hidden border\n\nThe\nborder-style\nproperty can have from one to four values (for\nthe top border, right border, bottom border, and the left border).\n\nNote:\nNone of the OTHER CSS border properties (which you will learn more about in the next chapters) will have ANY effect unless the\n\nborder-style\nproperty is set!\n\n",
+  "scraped_at": "2026-04-01T11:38:05"
+}

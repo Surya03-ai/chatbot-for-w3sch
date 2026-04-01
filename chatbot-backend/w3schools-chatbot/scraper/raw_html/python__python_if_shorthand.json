@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_if_shorthand.asp",
+  "topic": "python",
+  "title": "Python Shorthand If",
+  "text": "Python\nShorthand If\n\n\n\nShort Hand If\n\nIf you have only one statement to execute, you can put it on the same line as the\nif\nstatement.\n\nNote:\nYou still need the colon\n:\nafter the condition.\n\nShort Hand If ... Else\n\nIf you have one statement for\nif\nand one for\nelse\n, you can put them on the same line using a conditional expression:\n\nThis is called a\nconditional expression\n(sometimes known as a \"ternary operator\").\n\nAssign a Value With If ... Else\n\nYou can also use a one-line\nif\n/\nelse\nto choose a value and assign it to a variable:\n\nThe syntax follows this pattern:\n\nvariable = value_if_true if condition else value_if_false\n\nMultiple Conditions on One Line\n\nYou can chain conditional expressions, but keep it short so it stays readable:\n\nPractical Examples\n\nTernary operators are particularly useful for simple assignments and return statements.\n\nWhen to Use Shorthand If\n\nShorthand if statements and ternary operators should be used when:\n\nThe condition and actions are simple\n\nIt improves code readability\n\nYou want to make a quick assignment based on a condition\n\nImportant:\nWhile shorthand if statements can make code more concise, avoid overusing them for complex conditions. For readability, use regular if-else statements when dealing with multiple lines of code or complex logic.\n\n",
+  "scraped_at": "2026-04-01T11:59:59"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_mongodb_sort.asp",
+  "topic": "python",
+  "title": "Python Mongo DB Sort",
+  "text": "Python MongoDB\nSort\n\n\n\nSort the Result\n\nUse the\nsort()\nmethod to sort the result in\nascending or descending order.\n\nThe\nsort()\nmethod takes one parameter for\n\"fieldname\" and one parameter for \"direction\" (ascending is the default\ndirection).\n\nExample\n\nSort the result alphabetically by name:\n\nimport pymongo\nmyclient = pymongo.MongoClient(\"mongodb://localhost:27017/\")\n\nmydb = myclient[\"mydatabase\"]\nmycol = mydb[\"customers\"]\n\nmydoc = mycol.find().sort(\"name\")\nfor x in mydoc:\nprint(x)\n\nRun example »\n\nSort Descending\n\nUse the value -1 as the second parameter to sort descending.\n\nsort(\"name\", 1) #ascending\n\nsort(\"name\", -1) #descending\n\nExample\n\nSort the result reverse alphabetically by name:\n\nimport pymongo\nmyclient = pymongo.MongoClient(\"mongodb://localhost:27017/\")\n\nmydb = myclient[\"mydatabase\"]\nmycol = mydb[\"customers\"]\n\nmydoc = mycol.find().sort(\"name\", -1)\nfor x in mydoc:\nprint(x)\n\nRun example »\n\n",
+  "scraped_at": "2026-04-01T12:04:55"
+}

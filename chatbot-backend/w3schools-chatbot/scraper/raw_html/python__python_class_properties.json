@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_class_properties.asp",
+  "topic": "python",
+  "title": "Python Class Properties",
+  "text": "Python\nClass Properties\n\n\n\nClass Properties\n\nProperties are variables that belong to a class. They store data for each object created from the class.\n\nAccess Properties\n\nYou can access object properties using dot notation:\n\nModify Properties\n\nYou can modify the value of properties on objects:\n\nDelete Properties\n\nYou can delete properties from objects using the\ndel\nkeyword:\n\nClass Properties vs Object Properties\n\nProperties defined inside\n__init__()\nbelong to each object (instance properties).\n\nProperties defined outside methods belong to the class itself (class properties) and are shared by all objects:\n\nModifying Class Properties\n\nWhen you modify a class property, it affects all objects:\n\nAdd New Properties\n\nYou can add new properties to existing objects:\n\nNote:\nAdding properties this way only adds them to that specific object, not to all objects of the class.\n\n",
+  "scraped_at": "2026-04-01T12:01:36"
+}

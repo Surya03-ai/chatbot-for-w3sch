@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_json_server.asp",
+  "topic": "js",
+  "title": "JSON Server",
+  "text": "JSON Server\n\n\n\nA common use of JSON is to exchange data to/from a web server.\n\nWhen receiving data from a web server, the data is always a string.\n\nParse the data with\nJSON.parse()\n, and the data becomes a JavaScript object.\n\nSending Data\n\nIf you have data stored in a JavaScript object, you can convert the object\ninto JSON, and send it to a server:\n\nReceiving Data\n\nIf you receive data in JSON format, you can easily convert it into a JavaScript\nobject:\n\nJSON From a Server\n\nYou can request JSON from the server by using an AJAX request\n\nAs long as the response from the server is written in JSON format, you can\nparse the string into a JavaScript object.\n\nArray as JSON\n\nWhen using the\nJSON.parse()\non JSON derived from an array, the method will\nreturn a JavaScript array, instead of a JavaScript object.\n\n",
+  "scraped_at": "2026-04-01T11:56:03"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_z-index.asp",
+  "topic": "css",
+  "title": "CSS The z-index Property",
+  "text": "CSS\nThe z-index\nProperty\n\n\n\nThe CSS z-index Property\n\nThe\nz-index\nproperty specifies the stack order of\npositioned elements.\n\nThe stack order defines which element should be placed in front or behind other\nelements.\n\nWhen elements are positioned, they can overlap other elements.\n\nAn element can have a positive or negative stack order (z-index):\n\nThis is a heading\n\nBecause the image has a z-index of -1, it will be placed behind the text.\n\nNote:\n\nz-index\nonly works on\npositioned elements\n(position: absolute,\nposition: relative, position: fixed, or position: sticky) and\nflex items\n\n(elements that are direct children of display: flex elements).\n\nAnother z-index Example\n\nA positioned element with a greater stack order is always above an element\nwith a lower stack order.\n\nWithout z-index\n\nIf several positioned elements overlap each other without a\nz-index\n\nspecified, the elements render in the order they are defined in the HTML source\ncode.\n\nCSS Property\n\nProperty\n\nDescription\n\nz-index\n\nSets the stack order of an element\n\n",
+  "scraped_at": "2026-04-01T11:40:41"
+}

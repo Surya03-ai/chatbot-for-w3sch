@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_class_self.asp",
+  "topic": "python",
+  "title": "Python self Parameter",
+  "text": "Python\nself Parameter\n\n\n\nThe self Parameter\n\nThe\nself\nparameter is a reference to the current instance of the class.\n\nIt is used to access properties and methods that belong to the class.\n\nNote:\nThe\nself\nparameter must be the first parameter of any method in the class.\n\nWhy Use self?\n\nWithout\nself\n, Python would not know which object's properties you want to access:\n\nself Does Not Have to Be Named \"self\"\n\nIt does not have to be named\nself\n, you can call it whatever you like, but it has to be the first parameter of any method in the class:\n\nNote:\nWhile you\ncan\nuse a different name, it is strongly recommended to use\nself\nas it is the convention in Python and makes your code more readable to others.\n\nAccessing Properties with self\n\nYou can access any property of the class using\nself\n:\n\nCalling Methods with self\n\nYou can also call other methods within the class using\nself\n:\n\n",
+  "scraped_at": "2026-04-01T12:01:33"
+}

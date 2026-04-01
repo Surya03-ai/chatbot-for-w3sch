@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_access.asp",
+  "topic": "python",
+  "title": "Python - Access List Items",
+  "text": "Python - Access List Items\n\n\n\nAccess Items\n\nList items are indexed and you can access them by referring to the index number:\n\nNote:\nThe first item has index 0.\n\nNegative Indexing\n\nNegative indexing means start from the end\n\n-1\nrefers to the last item,\n\n-2\nrefers to the second last item etc.\n\nRange of Indexes\n\nYou can specify a range of indexes by specifying where to start and where to\nend the range.\n\nWhen specifying a range, the return value will be a new list with the\nspecified items.\n\nNote:\nThe search will start at index 2 (included) and end at index 5 (not included).\n\nRemember that the first item has index 0.\n\nBy leaving out the start value, the range will start at the first item:\n\nBy leaving out the end value, the range will go on to the end of the list:\n\nRange of Negative Indexes\n\nSpecify negative indexes if you want to start the search from the end of the\nlist:\n\nCheck if Item Exists\n\nTo determine if a specified item is present in a list use the\nin\nkeyword:\n\n",
+  "scraped_at": "2026-04-01T11:58:21"
+}

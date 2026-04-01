@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_copy.asp",
+  "topic": "python",
+  "title": "Python - Copy Dictionaries",
+  "text": "Python -\nCopy Dictionaries\n\n\n\nCopy a Dictionary\n\nYou cannot copy a dictionary simply by typing\ndict2 =\ndict1\n, because:\ndict2\nwill only be a\n\nreference\nto\ndict1\n, and changes made in\n\ndict1\nwill automatically also be made in\n\ndict2\n.\n\nThere are ways to make a copy, one way is to use the built-in Dictionary\nmethod\ncopy()\n.\n\nAnother way to make a copy is to use the built-in function\n\ndict()\n.\n\n",
+  "scraped_at": "2026-04-01T11:59:44"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_mysql_orderby.asp",
+  "topic": "python",
+  "title": "Python My SQL Order By",
+  "text": "Python MySQL\nOrder By\n\n\n\nSort the Result\n\nUse the ORDER BY statement to sort the result in ascending or descending\norder.\n\nThe ORDER BY keyword sorts the result ascending by default. To sort the\nresult in descending order, use the DESC keyword.\n\nExample\n\nSort the result alphabetically by name:\nresult:\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\",\ndatabase=\"mydatabase\"\n)\nmycursor =\nmydb.cursor()\nsql = \"SELECT * FROM customers ORDER BY name\"\nmycursor.execute(sql)\n\nmyresult = mycursor.fetchall()\nfor x in myresult:\nprint(x)\n\nRun example »\n\nORDER BY DESC\n\nUse the DESC keyword to sort the result in a descending order.\n\nExample\n\nSort the result reverse alphabetically by name:\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\",\ndatabase=\"mydatabase\"\n)\n\nmycursor = mydb.cursor()\nsql = \"SELECT * FROM customers ORDER BY\nname DESC\"\nmycursor.execute(sql)\nmyresult = mycursor.fetchall()\nfor x in myresult:\n\nprint(x)\n\nRun example »\n\n",
+  "scraped_at": "2026-04-01T12:04:19"
+}

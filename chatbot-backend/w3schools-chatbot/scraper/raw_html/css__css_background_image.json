@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_background_image.asp",
+  "topic": "css",
+  "title": "CSS Background Image",
+  "text": "CSS\nBackground Image\n\n\n\nCSS background-image\n\nThe\nbackground-image\nproperty specifies an image to use as the background of an element.\n\nBy default, the image is repeated so it covers the entire element.\n\nNote:\nWhen using a background image, use an image that does not disturb the text.\n\nThe background image can also be set for specific elements, like the <p> element:\n\nThe CSS Background Image Property\n\nProperty\n\nDescription\n\nbackground-image\n\nSets the background image for an element\n\n",
+  "scraped_at": "2026-04-01T11:37:55"
+}

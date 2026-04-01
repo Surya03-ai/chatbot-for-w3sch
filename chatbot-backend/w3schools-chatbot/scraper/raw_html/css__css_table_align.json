@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_table_align.asp",
+  "topic": "css",
+  "title": "CSS Table Alignment",
+  "text": "CSS\nTable Alignment\n\n\n\nHorizontal Alignment\n\nThe CSS\ntext-align\nproperty is used to set the horizontal alignment\nof the content in <th> or <td>.\n\nThis property can have one of the following values:\n\nleft\n- Aligns the text to the left\n\nright\n- Aligns the text to the right\n\ncenter\n- Centers the text\n\nNote:\nBy default, the content of <th> elements are\ncenter-aligned and the content of <td> elements are left-aligned!\n\nCSS text-align: center\n\nTo center-align the content of <td> elements, use\ntext-align: center\n:\n\nFirstname\n\nLastname\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\nCSS text-align: left\n\nTo force the content of <th> elements to be\nleft-aligned, use\ntext-align: left\non <th>\nelements:\n\nFirstname\n\nLastname\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\nVertical Alignment\n\nThe CSS\nvertical-align\nproperty sets the vertical alignment (like top, bottom, or middle)\nof the content in <th> or <td>.\n\nNote:\nBy default, the vertical alignment of the content in a table is middle (for both <th>\nand <td> elements).\n\nThe following example sets the vertical text alignment to bottom for <td> elements:\n\nFirstname\n\nLastname\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\n",
+  "scraped_at": "2026-04-01T11:40:02"
+}

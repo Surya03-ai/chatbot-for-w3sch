@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_join_left.asp",
+  "topic": "sql",
+  "title": "SQL LEFT JOIN",
+  "text": "SQL\nLEFT JOIN\n\n\n\nSQL LEFT JOIN\n\nThe\nLEFT JOIN\nreturns\nall rows from the left table\n(table1), and only the matched rows from the right table (table2).\n\nIf there is no match in the right table, the result for the columns from the right table will be NULL.\n\nThe\nLEFT JOIN\nand\nLEFT OUTER JOIN\nkeywords are equal - the\nOUTER\nkeyword is optional.\n\nLEFT JOIN Syntax\n\nSELECT\ncolumn_name(s)\n\nFROM\ntable1\n\nLEFT JOIN\ntable2\n\nON\ntable1.column_name\n=\ntable2.column_name\n;\n\nDemo Database\n\nBelow is a selection from the \"Customers\" table:\n\nCustomerID\n\nCustomerName\n\nContactName\n\nAddress\n\nCity\n\nPostalCode\n\nCountry\n\n\nAlfreds Futterkiste\n\nMaria Anders\n\nObere Str. 57\n\nBerlin\n\n\nGermany\n\n\nAna Trujillo Emparedados y helados\n\nAna Trujillo\n\nAvda. de la ConstituciÃ³n 2222\n\nMÃ©xico D.F.\n\n\nMexico\n\n\nAntonio Moreno TaquerÃ­a\n\nAntonio Moreno\n\nMataderos 2312\n\nMÃ©xico D.F.\n\n\nMexico\n\nAnd a selection from the \"Orders\" table:\n\nOrderID\n\nCustomerID\n\nEmployeeID\n\nOrderDate\n\nShipperID\n\n\n\n\n1996-09-18\n\n\n\n\n\n1996-09-19\n\n\n\n\n\n1996-09-20\n\n\nSQL LEFT JOIN Example\n\nThe following SQL returns all customers and their orders, including customers who have not placed any orders:\n\nTip:\nTo find only the customers who have not placed any order, add a\nWHERE\nclause to filter for NULL values on the right table:\n\n",
+  "scraped_at": "2026-04-01T12:06:31"
+}

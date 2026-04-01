@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_comments.asp",
+  "topic": "html",
+  "title": "HTML Comments",
+  "text": "HTML\nComments\n\n\n\nHTML comments are not displayed in the browser, but they can\nhelp document your HTML source code.\n\nHTML Comment Tag\n\nYou can add comments to your HTML source by using the following syntax:\n\n<!-- Write your comments here -->\n\nNotice that there is an exclamation point (!) in the start tag, but not in the\nend tag.\n\nNote:\nComments are not displayed by the browser, but they can help document your HTML source code.\n\nAdd Comments\n\nWith comments you can place notifications and reminders in your HTML code:\n\nHide Content\n\nComments can be used to hide content.\n\nThis can be helpful if you hide content temporarily:\n\nYou can also hide more than one line. Everything between the\n<!--\nand the\n-->\n\nwill be hidden from the display.\n\nComments are also great for debugging HTML, because you can\ncomment out HTML lines of code, one at a time, to search for errors.\n\nHide Inline Content\n\nComments can be used to hide parts in the middle of the HTML code.\n\n",
+  "scraped_at": "2026-04-01T11:34:21"
+}

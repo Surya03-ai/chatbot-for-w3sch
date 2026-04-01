@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_pseudo_elements_content.asp",
+  "topic": "css",
+  "title": "CSS Pseudo-elements for Content",
+  "text": "CSS\nPseudo-elements\nfor Content\n\n\n\nPseudo-elements for Content\n\nPseudo-elements for content allow you to insert content before or after elements, style list markers, and more.\n\nThe CSS ::before Pseudo-element\n\nThe\n::before\npseudo-element\nis used to insert some content before the content of a specified element.\n\nUse the\ncontent\nproperty to specify the content to insert.\n\nThe CSS ::after Pseudo-element\n\nThe\n::after\npseudo-element\nis used to insert some content after the content of a specified element.\n\nUse the\ncontent\nproperty to specify the content to insert.\n\nThe CSS ::marker Pseudo-element\n\nThe\n::marker\npseudo-element\nis used to style the list item markers.\n\nThe CSS ::selection Pseudo-element\n\nThe\n::selection\npseudo-element is used to style the part of a text that is selected by a user.\n\nThe CSS ::backdrop Pseudo-element\n\nThe\n::backdrop\npseudo-element\nis used to style the viewbox behind a dialog box or popover element.\n\nCSS Pseudo-elements Reference\n\nFor a complete list of all CSS Pseudo-elements, visit our\nCSS Pseudo-elements Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:41:35"
+}

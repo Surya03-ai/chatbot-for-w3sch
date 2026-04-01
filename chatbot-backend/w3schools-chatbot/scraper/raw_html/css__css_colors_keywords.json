@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_colors_keywords.asp",
+  "topic": "css",
+  "title": "CSS Color Keywords",
+  "text": "CSS\nColor Keywords\n\n\n\nCSS Color Keywords\n\nCSS has some special predefined color keywords that can be used with properties like\ncolor\n,\n\nbackground-color\nand\nborder-color\n.\n\nThe special keywords are:\n\ntransparent\n\ncurrentcolor\n\ninherit\n\nThe transparent Keyword\n\nThe\ntransparent\nkeyword is used to make a\ncolor transparent. This is often used to make a transparent background color for\nan element.\n\nNote:\nThe\ntransparent\n\nkeyword is equivalent to rgba(0,0,0,0). RGBA color values are an extension of\nRGB color values with an alpha channel - which specifies the opacity for a\ncolor. Read more in our\nCSS RGB\nchapter and in\nour\nCSS Colors\nchapter.\n\nThe currentcolor Keyword\n\nThe\ncurrentcolor\nkeyword is like a variable\nthat holds the current value of the color property of an element.\n\nThis keyword can be useful if you want a specific color to be consistent in an\nelement or a page.\n\nThe inherit Keyword\n\nThe\ninherit\nkeyword specifies that a\nproperty should inherit its value from its parent element.\n\nThe\ninherit\nkeyword can be used for any CSS\nproperty, and on any HTML element.\n\n",
+  "scraped_at": "2026-04-01T11:42:51"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_table_padding_spacing.asp",
+  "topic": "html",
+  "title": "HTML Table Padding & Spacing",
+  "text": "HTML\nTable Padding & Spacing\n\n\n\nHTML tables can adjust the padding inside the cells, and also the space between the cells.\n\nWith Padding\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nWith Spacing\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nhello\n\nHTML Table - Cell Padding\n\nCell padding is the space between the cell edges and the cell content.\n\nBy default the padding is set to 0.\n\nTo add padding on table cells, use the CSS\npadding\nproperty:\n\nTo add padding only above the content, use the\npadding-top\nproperty.\n\nAdd padding to the other sides with the\npadding-bottom\n,\npadding-left\n,\nand\npadding-right\nproperties:\n\nHTML Table - Cell Spacing\n\nCell spacing is the space between each cell.\n\nBy default the space is set to 2 pixels.\n\nTo change the space between table cells, use the CSS\nborder-spacing\nproperty on the\ntable\n\nelement:\n\n",
+  "scraped_at": "2026-04-01T11:35:05"
+}

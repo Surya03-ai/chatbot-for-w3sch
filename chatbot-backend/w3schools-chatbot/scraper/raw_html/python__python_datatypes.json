@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_datatypes.asp",
+  "topic": "python",
+  "title": "Python Data Types",
+  "text": "Python\nData Types\n\n\n\nBuilt-in Data Types\n\nIn programming, data type is an important concept.\n\nVariables can store data of different types, and different types can do\ndifferent things.\n\nPython has the following data types built-in by default, in these categories:\n\nText Type:\n\nstr\n\nNumeric Types:\n\nint\n,\nfloat\n,\n\ncomplex\n\nSequence Types:\n\nlist\n,\ntuple\n,\n\nrange\n\nMapping Type:\n\ndict\n\nSet Types:\n\nset\n,\nfrozenset\n\nBoolean Type:\n\nbool\n\nBinary Types:\n\nbytes\n,\nbytearray\n,\n\nmemoryview\n\nNone Type:\n\nNoneType\n\nGetting the Data Type\n\nYou can get the data type of any object by using the\ntype()\nfunction:\n\nSetting the Data Type\n\nIn Python, the data type is set when you assign a value to a variable:\n\nSetting the Specific Data Type\n\nIf you want to specify the data type, you can use the following\nconstructor functions:\n\n",
+  "scraped_at": "2026-04-01T11:57:39"
+}

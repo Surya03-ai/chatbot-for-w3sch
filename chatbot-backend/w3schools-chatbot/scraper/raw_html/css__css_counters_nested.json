@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_counters_nested.asp",
+  "topic": "css",
+  "title": "CSS Nested Counters",
+  "text": "CSS\nNested Counters\n\n\n\nCSS Using Two Counters\n\nYou can create multiple counters for different levels of numbering. The following example creates one counter for the page (named \"section\") and one\ncounter for each <h1> element (named \"subsection\"):\n\nThe CSS counters() Function\n\nThe\ncounters()\n\nfunction returns the current values of the named and nested counters, as a\nstring.\n\nHere we use the\ncounters()\nfunction to\ninsert a string between different levels of nested counters:\n\nCSS Counter Properties\n\nProperty\n\nDescription\n\ncontent\n\nUsed with the ::before and ::after pseudo-elements, to insert generated content\n\ncounter-increment\n\nIncrements one or more counter values\n\ncounter-reset\n\nCreates or resets one or more counters\n\ncounter()\n\nReturns the current value of the named counter\n\ncounters()\n\nReturns the current values of the named and nested counters\n\n",
+  "scraped_at": "2026-04-01T11:42:17"
+}

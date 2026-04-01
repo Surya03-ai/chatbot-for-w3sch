@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_copy.asp",
+  "topic": "python",
+  "title": "Python - Copy Lists",
+  "text": "Python - Copy Lists\n\n\n\nCopy a List\n\nYou cannot copy a list simply by typing\nlist2 =\nlist1\n, because:\nlist2\nwill only be a\n\nreference\nto\nlist1\n, and changes made in\n\nlist1\nwill automatically also be made in\n\nlist2\n.\n\nUse the copy() method\n\nYou can use the built-in List method\ncopy()\nto copy a list.\n\nUse the list() method\n\nAnother way to make a copy is to use the built-in method\nlist()\n.\n\nUse the slice Operator\n\nYou can also make a copy of a list by using the\n:\n(slice) operator.\n\n",
+  "scraped_at": "2026-04-01T11:58:40"
+}

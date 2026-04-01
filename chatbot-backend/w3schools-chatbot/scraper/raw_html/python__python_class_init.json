@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_class_init.asp",
+  "topic": "python",
+  "title": "Python __init__() Method",
+  "text": "Python\n__init__() Method\n\n\n\nThe __init__() Method\n\nAll classes have a built-in method called\n__init__()\n, which is always executed when the class is being initiated.\n\nThe\n__init__()\nmethod is used to assign values to object properties, or to perform operations that are necessary when the object is being created.\n\nNote:\nThe\n__init__()\nmethod is called automatically every time the class is being used to create a new object.\n\nWhy Use __init__()?\n\nWithout the\n__init__()\nmethod, you would need to set properties manually for each object:\n\nUsing\n__init__()\nmakes it easier to create objects with initial values:\n\nDefault Values in __init__()\n\nYou can also set default values for parameters in the\n__init__()\nmethod:\n\nMultiple Parameters\n\nThe\n__init__()\nmethod can have as many parameters as you need:\n\n",
+  "scraped_at": "2026-04-01T12:01:29"
+}

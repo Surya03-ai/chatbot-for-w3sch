@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_join_self.asp",
+  "topic": "sql",
+  "title": "SQL Self Join",
+  "text": "SQL\nSelf Join\n\n\n\nSQL Self Join\n\nA self join is a regular join, but the table is joined with itself.\n\nSelf Join Syntax\n\nSELECT\ncolumn_name(s)\n\nFROM\ntable1 T1, table1 T2\n\nWHERE\ncondition\n;\n\nT1\nand\nT2\nare different table aliases for the same table.\n\nDemo Database\n\nBelow is a selection from the \"Customers\" table:\n\nCustomerID\n\nCustomerName\n\nContactName\n\nAddress\n\nCity\n\nPostalCode\n\nCountry\n\n\nAlfreds Futterkiste\n\nMaria Anders\n\nObere Str. 57\n\nBerlin\n\n\nGermany\n\n\nAna Trujillo Emparedados y helados\n\nAna Trujillo\n\nAvda. de la ConstituciÃ³n 2222\n\nMÃ©xico D.F.\n\n\nMexico\n\n\nAntonio Moreno TaquerÃ­a\n\nAntonio Moreno\n\nMataderos 2312\n\nMÃ©xico D.F.\n\n\nMexico\n\nSQL Self Join Example\n\nThe following SQL statement matches customers that are from the same city:\n\n",
+  "scraped_at": "2026-04-01T12:06:36"
+}

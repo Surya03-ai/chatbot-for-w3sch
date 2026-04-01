@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_pseudo_classes.asp",
+  "topic": "css",
+  "title": "CSS Pseudo-classes",
+  "text": "CSS\nPseudo-classes\n\n\n\nCSS Pseudo-classes\n\nA CSS pseudo-class is a keyword that can be added to a selector, to define a style for a special state of an element.\n\nSome common use for pseudo-classes:\n\nStyle an element when a user moves the mouse over it\n\nStyle visited and unvisited links differently\n\nStyle an element when it gets focus\n\nStyle valid/invalid/required/optional form elements\n\nStyle an element that is the first child of its parent\n\nSyntax\n\nPseudo-classes are always denoted by a single colon (:) followed by the pseudo-class name:\n\nselector:pseudo-class-name {\nCSS properties\n}\n\nMouse Over Me\n\nInteractive Pseudo-classes\n\nInteractive pseudo-classes apply styles based on\nuser interaction\n:\n\n:hover\n- When mouse is over an element\n\n:focus\n- When an element has focus\n\n:active\n- When an element is being activated\n\n:link\n- Unvisited links\n\n:visited\n- Visited links\n\nStructural Pseudo-classes\n\nStructural pseudo-classes select elements based on\ntheir position in the document tree\n:\n\n:first-child\n- First child of a parent\n\n:last-child\n- Last child of a parent\n\n:nth-child(n)\n- The nth child of a parent\n\n:lang()\n- Elements with a specific language\n\nCSS Pseudo-classes Reference\n\nFor a complete list of all CSS Pseudo-classes, visit our\nCSS Pseudo-classes Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:41:17"
+}

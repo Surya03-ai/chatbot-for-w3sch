@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_forms.asp",
+  "topic": "css",
+  "title": "CSS Forms",
+  "text": "CSS\nForms\n\n\n\nCSS Styling Forms\n\nCSS is used to style HTML forms. The look of an HTML form can be greatly improved with CSS:\n\nStyling Form Input Fields\n\nWith CSS, you can style most of the different input types, like text fields,\npassword fields, checkboxes, radio buttons, and file inputs. You can also style\ninput labels and form buttons.\n\nSome commonly used CSS properties for styling input fields, are:\n\nwidth\n\npadding\n\nmargin\n\nborder\n\nborder-radius\n\nbackground-color\n\ncolor\n\nfont-size\n\n",
+  "scraped_at": "2026-04-01T11:42:03"
+}

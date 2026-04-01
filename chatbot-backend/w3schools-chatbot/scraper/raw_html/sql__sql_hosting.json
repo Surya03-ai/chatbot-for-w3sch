@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_hosting.asp",
+  "topic": "sql",
+  "title": "SQL Hosting",
+  "text": "SQL\nHosting\n\n\n\nSQL Hosting\n\nIf you want your web site to store and retrieve data from a\ndatabase, your web server must have access to a database-system.\n\nIf your web server is hosted by an Internet Service Provider (ISP), you will have to look for SQL hosting plans.\n\nSome common SQL hosting databases are MySQL, PostgreSQL, SQL Server, and Oracle.\n\nMySQL\n\nMySQL is a popular database software for web sites.\n\nMySQL is known for speed, reliability, and ease of use.\n\nMySQL is an inexpensive\nalternative to the expensive Microsoft and Oracle solutions.\n\nTip:\nRead our\nMySQL Tutorial\n.\n\nSQL Server\n\nMicrosoft SQL Server is a popular database software for  database-driven web sites\nwith high traffic.\n\nMicrosoft SQL Server has a strong integration with other Microsoft products,\npowerful tools, and robust security features.\n\nOracle\n\nOracle is a popular database software for  database-driven web sites\nwith high traffic.\n\nOracle is known for extreme scalability, performance, reliability, and\nsecurity.\n\nOracle has expensive licensing.\n\nPostgreSQL\n\nPostgreSQL is a popular database software for web sites.\n\nPostgreSQL has advanced features, high standards compliance, extensibility,\nand strong data integrity.\n\nPostgreSQL is open-source and free.\n\nTip:\nRead our\nPostgreSQL\nTutorial\n.\n\n",
+  "scraped_at": "2026-04-01T12:07:56"
+}

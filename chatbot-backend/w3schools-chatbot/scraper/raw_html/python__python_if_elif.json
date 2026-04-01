@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_if_elif.asp",
+  "topic": "python",
+  "title": "Python Elif Statement",
+  "text": "Python\nElif Statement\n\n\n\nThe Elif Keyword\n\nThe\nelif\nkeyword is Python's way of saying \"if the previous conditions were not true, then\ntry this condition\".\n\nThe\nelif\nkeyword allows you to check multiple expressions for\nTrue\nand execute a block of code as soon as one of the conditions evaluates to\nTrue\n.\n\nIn this example\na\nis equal to\nb\n, so the first condition is not true, but the\nelif\ncondition is true, so we print to screen that \"a and b are equal\".\n\nMultiple Elif Statements\n\nYou can have as many\nelif\nstatements as you need. Python will check each condition in order and execute the first one that is true.\n\nIn this example, the program checks each condition in order. Since\nscore\nis 75, it prints \"Grade: C\" (the first condition that evaluates to true).\n\nHow Elif Works\n\nWhen you use\nelif\n, Python evaluates the conditions from top to bottom. As soon as it finds a condition that is true, it executes that block and skips all remaining conditions.\n\nImportant:\nOnly the first true condition will be executed. Even if multiple conditions are true, Python stops after executing the first matching block.\n\nWhen to Use Elif\n\nUse\nelif\nwhen you have multiple mutually exclusive conditions to check. This is more efficient than using multiple separate\nif\nstatements because Python stops checking once it finds a true condition.\n\n",
+  "scraped_at": "2026-04-01T11:59:54"
+}

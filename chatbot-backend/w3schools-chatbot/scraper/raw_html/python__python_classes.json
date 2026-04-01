@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_classes.asp",
+  "topic": "python",
+  "title": "Python Classes and Objects",
+  "text": "Python\nClasses and Objects\n\n\n\nPython Classes/Objects\n\nPython is an object oriented programming language.\n\nAlmost everything in Python is an object, with its properties and methods.\n\nA Class is like an object constructor, or a \"blueprint\" for creating objects.\n\nCreate a Class\n\nTo create a class, use the keyword\nclass\n:\n\nCreate Object\n\nNow we can use the class named MyClass to create objects:\n\nDelete Objects\n\nYou can delete objects by using the\ndel\nkeyword:\n\nMultiple Objects\n\nYou can create multiple objects from the same class:\n\nNote:\nEach object is independent and has its own copy of the class properties.\n\nThe pass Statement\n\nclass\ndefinitions cannot be empty, but if\nyou for some reason have a\nclass\ndefinition with no content, put in the\npass\nstatement to avoid getting an error.\n\n",
+  "scraped_at": "2026-04-01T12:01:26"
+}

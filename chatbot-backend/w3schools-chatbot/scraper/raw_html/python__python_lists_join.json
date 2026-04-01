@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_join.asp",
+  "topic": "python",
+  "title": "Python - Join Lists",
+  "text": "Python -\nJoin Lists\n\n\n\nJoin Two Lists\n\nThere are several ways to join, or concatenate, two or more lists in Python.\n\nOne of the easiest ways are by using the\n\noperator.\n\nAnother way to join two lists is by appending all the items from list2 into\nlist1, one by one:\n\nOr you can use the\nextend()\n\nmethod,\nwhere the purpose is to add elements from one list to another\nlist:\n\n",
+  "scraped_at": "2026-04-01T11:58:43"
+}

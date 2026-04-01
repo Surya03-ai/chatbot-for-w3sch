@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_function_parameters.asp",
+  "topic": "js",
+  "title": "Java Script Function Parameters",
+  "text": "JavaScript Function Parameters\n\n\n\nParameters (Function Input)\n\nParameters\nallow you to pass (send) values to a function.\n\nParameters\nare listed\ninside the parentheses\nin the function\ndefinition\n.\n\nFunctions with One Parameter\n\nA function can have one parameter.\n\nFunctions with Multiple Parameters\n\nYou can add as many parameters as you want, separated by commas.\n\nParameters vs. Arguments\n\nIn JavaScript, function\nparameters\nand\narguments\nare distinct concepts:\n\nParameters\nare the\nnames\nlisted in the\nfunction definition\n.\n\nArguments\nare the\nreal values\npassed to, and\nreceived by the function\n.\n\nLearn More:\n\nFunction Arguments\n\nParameter Rules\n\nJavaScript function definitions\ndo not specify data types\nfor parameters.\n\nJavaScript functions\ndo not perform type checking\non the arguments.\n\nJavaScript functions\ndo not check the number\nof arguments received.\n\nIncorrect Parameters\n\nAccessing a function with an incorrect parameter can return an incorrect answer:\n\nDefault Parameter Values\n\nECMAScript 2015\nallows function parameters to have default values.\n\nThe default value is used if no argument is provided.\n\nNext Chapter\n\nFunction Return Values\n\nA function can\nreturn a value\nback to the code that called it\n\nThe\nreturn statement\nis used to return a value from a function\n\n",
+  "scraped_at": "2026-04-01T11:45:53"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_es6_spread.asp",
+  "topic": "react",
+  "title": "React ES6 Spread Operator",
+  "text": "React ES6 Spread Operator\n\n\n\nSpread Operator\n\nThe JavaScript spread operator (\n...\n) allows us to quickly copy all or part of an existing array or object into another array or object.\n\nThe spread operator is often used in combination with destructuring.\n\nWe can use the spread operator with objects too:\n\nNotice that the properties that did not match were added,\nand the property that did match\nwas overwritten by the last object.\n\n",
+  "scraped_at": "2026-04-01T12:08:50"
+}

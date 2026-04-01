@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_lists_remove.asp",
+  "topic": "python",
+  "title": "Python - Remove List Items",
+  "text": "Python - Remove List Items\n\n\n\nRemove Specified Item\n\nThe\nremove()\nmethod removes the specified item.\n\nIf there are more than one item with the specified value, the\nremove()\nmethod removes the first\noccurrence:\n\nRemove Specified Index\n\nThe\npop()\nmethod removes the specified\nindex.\n\nIf you do not specify the index, the\npop()\nmethod removes the last item.\n\nThe\ndel\nkeyword also removes the specified\nindex:\n\nThe\ndel\nkeyword can also delete the list completely.\n\nClear the List\n\nThe\nclear()\nmethod empties the list.\n\nThe list still remains, but it has no content.\n\n",
+  "scraped_at": "2026-04-01T11:58:28"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_jquery_elements.asp",
+  "topic": "js",
+  "title": "Java Script / j Query HTML Elements",
+  "text": "JavaScript / jQuery HTML Elements\n\n\n\njQuery vs JavaScript\n\njQuery\nwas created in 2006 by John Resig.\nIt was designed to handle Browser Incompatibilities and to simplify HTML DOM Manipulation, Event Handling, Animations, and Ajax.\n\nFor more than 10 years, jQuery has been the most popular JavaScript library in the world.\n\nHowever, after JavaScript\nVersion 5\n(2009), most of the jQuery utilities can be solved with a few lines of standard JavaScript:\n\nSet Text Content\n\nSet the inner text of an HTML element:\n\nGet Text Content\n\nGet the inner text of an HTML element:\n\nSet HTML Content\n\nSet the HTML content of an element:\n\nGet HTML Content\n\nGet the HTML content of an element:\n\n",
+  "scraped_at": "2026-04-01T11:56:16"
+}

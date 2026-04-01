@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_window_location.asp",
+  "topic": "js",
+  "title": "Java Script Window Location",
+  "text": "JavaScript Window Location\n\n\n\nThe\nwindow.location\nobject can be used to get\nthe current page address (URL) and to redirect the browser to a new page.\n\nWindow Location\n\nThe\nwindow.location\nobject can be written without the window prefix.\n\nSome examples:\n\nwindow.location.href\nreturns the href (URL) of the current page\n\nwindow.location.hostname\nreturns the domain name of the web host\n\nwindow.location.pathname\nreturns the path and filename of the current page\n\nwindow.location.protocol\nreturns the web protocol used (http: or https:)\n\nwindow.location.assign()\nloads a new document\n\nWindow Location Href\n\nThe\nwindow.location.href\nproperty returns the URL of the current page.\n\nWindow Location Hostname\n\nThe\nwindow.location.hostname\nproperty returns the name of the internet host (of the current page).\n\nWindow Location Pathname\n\nThe\nwindow.location.pathname\nproperty returns the pathname of\nthe current page.\n\nWindow Location Protocol\n\nThe\nwindow.location.protocol\nproperty returns the web protocol of the page.\n\nWindow Location Port\n\nThe\nwindow.location.port\nproperty returns the number of the internet host\nport (of the current page).\n\nMost browsers will not display default port numbers (80 for http and 443 for https)\n\nWindow Location Assign\n\nThe\nwindow.location.assign()\nmethod loads a new document.\n\n",
+  "scraped_at": "2026-04-01T11:54:43"
+}

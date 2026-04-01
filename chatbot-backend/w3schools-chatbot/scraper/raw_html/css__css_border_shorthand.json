@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_border_shorthand.asp",
+  "topic": "css",
+  "title": "CSS Shorthand Border Property",
+  "text": "CSS\nShorthand Border Property\n\n\n\nCSS Border - Shorthand Property\n\nLike you saw in the previous page, there are many properties to consider when dealing with borders.\n\nTo shorten the code, it is also possible to specify all the individual border properties in\none property.\n\nThe\nborder\nproperty is a shorthand property for the following individual border properties:\n\nborder-width\n\nborder-style\n(required)\n\nborder-color\n\nYou can also specify all the individual border properties for just one side:\n\n",
+  "scraped_at": "2026-04-01T11:38:15"
+}

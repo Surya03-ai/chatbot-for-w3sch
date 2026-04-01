@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_object_sets.asp",
+  "topic": "js",
+  "title": "Java Script Sets",
+  "text": "JavaScript Sets\n\n\n\nA JavaScript Set is a collection of unique values.\n\nEach value can only occur once in a Set.\n\nThe values can be of any type, primitive values or objects.\n\nHow to Create a Set\n\nYou can create a JavaScript Set by:\n\nPassing an array to\nnew Set()\n\nCreate an empty set and use\nadd()\nto add values\n\nThe new Set() Method\n\nPass an array to the\nnew Set()\nconstructor:\n\nCreate a Set and add values:\n\nCreate a Set and add variables:\n\nThe add() Method\n\nIf you add equal elements, only the first will be saved:\n\nListing the Elements\n\nYou can list all Set elements (values) with a\nfor..of\nloop:\n\nSets are Objects\n\nLearn More:\n\nJavaScript Set Methods\n\nJavaScript Set Logic\n\nJavaScript Weak Sets\n\nJavaScript Set Reference\n\nJavaScript Maps\n\nBrowser Support\n\nSet\nis an\nES6  feature\n.\n\nES6 is fully supported in all modern browsers since June 2017:\n\nChrome\n\nEdge\n\nFirefox\n\nSafari\n\nOpera\n\nMay 2016\n\nApr 2017\n\nJun 2017\n\nSep 2016\n\nJun 2016\n\n",
+  "scraped_at": "2026-04-01T12:11:44"
+}

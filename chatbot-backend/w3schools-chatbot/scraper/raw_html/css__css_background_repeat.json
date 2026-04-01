@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_background_repeat.asp",
+  "topic": "css",
+  "title": "CSS Background Image Repeat",
+  "text": "CSS\nBackground Image Repeat\n\n\n\nCSS background-repeat\n\nThe\nbackground-repeat\nproperty sets if/how a background image will be\nrepeated.\n\nBy default, a background-image is repeated both vertically and horizontally.\n\nSome images should be repeated only horizontally or vertically, or they will look strange, like this:\n\nCSS background-repeat Horizontally\n\nIf the image above is repeated only horizontally (\nbackground-repeat: repeat-x;\n), the background will look\nbetter:\n\nTip:\nTo repeat an image only vertically, use\nbackground-repeat: repeat-y;\n\nCSS background-repeat: no-repeat\n\nShowing the background image only once is also specified by the\nbackground-repeat\nproperty:\n\nIn the example above, the background image is placed in the same place as the text. We want to change the position of the image, so that it does not\ndisturb the text too much.\n\nCSS background-position\n\nThe\nbackground-position\nproperty is used to\nset the starting position of the background image.\n\nBy default, a background-image is placed at the top-left corner of an\nelement.\n\nThe CSS Background Repeat and Position Properties\n\nProperty\n\nDescription\n\nbackground-position\n\nSets the starting position of a background image\n\nbackground-repeat\n\nSets how a background image will be repeated\n\n",
+  "scraped_at": "2026-04-01T11:37:57"
+}

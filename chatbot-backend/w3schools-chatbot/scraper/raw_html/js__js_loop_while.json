@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_loop_while.asp",
+  "topic": "js",
+  "title": "Java Script While Loops",
+  "text": "JavaScript While Loops\n\n\n\nWhile Loops\n\nWhile loops execute a block of code as long as a specified condition is true.\n\nJavaScript have two types of while loops:\n\nThe while loop\n\nThe do while loop\n\nThe While Loop\n\nThe\nwhile\nloop loops through a block of code as long as a specified condition is true.\n\nSyntax\n\nwhile (\ncondition\n) {\n\n// code block to be executed\n\n}\n\nIn the following example, the code in the loop will run, over and over again, as long as\na variable (i) is less than 10:\n\nIf you forget to increase the variable used in the condition, the loop will never end.\n\nThis will crash your browser.\n\nThe Do While Loop\n\nThe\ndo while\nloop is a variant of the while loop. This loop will\nexecute the code block once, before checking if the condition is true, then it will\nrepeat the loop as long as the condition is true.\n\nSyntax\n\ndo {\n\n// code block to be executed\n\n}\n\nwhile (\ncondition\n);\n\nThe\ndo while\nruns at least once, even if the condition is false from the start.\n\nThis is because the code block is executed before the condition is tested:\n\nDo not forget to increase the variable used in the condition, otherwise\nthe loop will never end!\n\nComparing For and While\n\nA while loop is much the same as a for loop, with statement 1 and statement 3 omitted.\n\n",
+  "scraped_at": "2026-04-01T11:45:10"
+}

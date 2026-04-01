@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_if_ternary.asp",
+  "topic": "js",
+  "title": "The Java Script Ternary Operator",
+  "text": "The JavaScript Ternary Operator\n\nPrevious\n\nNext\n\nDescription\n\nThe conditional operator is a shorthand for writing conditional\n\nif...else\nstatements.\n\nIt is called a ternary operator because it takes three operands.\n\nSyntax\n\n(\ncondition\n) ?\nexpression1\n:\nexpression2\n\nParameters\n\nParameter\nDescription\n\ncondition\n\nRequired.\n\nThe condition to be tested.\n\nAn expression that evaluates to\ntrue\n\nor\nfalse\n.\n\n?\n\nRequired.\n\nThe operator separating the condition from the expressions.\n\nexpression1\n\nRequired.\n\nThe value to return if the condition is\ntrue\n.\n\n:\n\nRequired.\n\nThe operator separating the expressions.\n\nexpression2\n\nRequired.\n\nThe value to return if the condition is\nfalse\n.\n\nThe conditional (ternary) operator is the only JavaScript\noperator that takes three operands.\n\nBrowser Support\n\n() ? x : y\nis an ES1  feature (JavaScript 1997).\n\nIt is fully supported in all browsers:\n\nChrome\n\nIE\n\nEdge\n\nFirefox\n\nSafari\n\nOpera\n\nYes\n\nYes\n\nYes\n\nYes\n\nYes\n\nYes\n\nPrevious\n\nNext",
+  "scraped_at": "2026-04-01T11:44:56"
+}

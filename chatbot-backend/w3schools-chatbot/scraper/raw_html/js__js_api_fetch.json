@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_api_fetch.asp",
+  "topic": "js",
+  "title": "Java Script Fetch API",
+  "text": "JavaScript Fetch API\n\n\n\nThe Fetch API interface allows web browser to make HTTP requests to web servers.\n\n😀\nNo need for XMLHttpRequest anymore.\n\nBrowser Support\n\nfetch()\nis an\nES6  feature\n.\n\nES6 is fully supported in all modern browsers since June 2017:\n\nChrome\n\nEdge\n\nFirefox\n\nSafari\n\nOpera\n\nMay 2016\n\nApr 2017\n\nJun 2017\n\nSep 2016\n\nJun 2016\n\nA Fetch API Example\n\nThe example below fetches a file and displays the content:\n\nSince Fetch is based on async and await, the example above might be easier to understand like this:\n\nOr even better: Use understandable names instead of x and y:\n\n",
+  "scraped_at": "2026-04-01T11:54:56"
+}

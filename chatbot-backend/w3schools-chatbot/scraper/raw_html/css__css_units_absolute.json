@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_units_absolute.asp",
+  "topic": "css",
+  "title": "CSS Absolute Units",
+  "text": "CSS\nAbsolute Units\n\n\n\nCSS Absolute Units\n\nAbsolute units are fixed, and the length expressed in any of these will appear exactly that size.\n\nAbsolute units do not change when the screen size change, and are not recommended for websites.\nHowever, they can be used if the output medium is known, such\nas for print layout.\n\nThe most used absolute unit is\npx\n(pixels).\n\nSet Font Size With Px\n\nSetting the text size with\npx\n(pixels) gives you full control over the text size.\n\nIf you use pixels, the web page may not scale very well on different screen sizes and the users cannot adjust the text size in their browser settings. However, users can still use the zoom tool to resize the entire page.\n\nNote:\nA whitespace cannot appear between the number and the unit. However, if the value is\n\n, the unit can be omitted.\n\nWhen to Use Absolute Units\n\nAbsolute units can be used when:\n\nYou need precise, fixed dimensions\n\nDesigning for print media\n\nCreating elements that should not scale with the viewport\n\nTip:\nFor most web design purposes, consider using\nrelative units\nlike\nem\n\nor\nrem\nfor better responsiveness.\n\n",
+  "scraped_at": "2026-04-01T11:42:23"
+}

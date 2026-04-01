@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_errors_silent.asp",
+  "topic": "js",
+  "title": "Java Script Silent Errors",
+  "text": "JavaScript Silent Errors\n\n\n\nSilent Errors\n\nJavaScript can fail siently.\n\nA silent error will not stop your program. The execution will continue.\n\nThe reason for silent errors is historical:\n\nThe first version of JavaScript did not have catch...try exceptions.\n\nSilent errors\nare issues that do not throw exceptions or stop execution,\nbut still cause logic bugs, unexpected behavior, or failures that are easy to miss.\n\nBelow are some examples of common silent errors, with examples to try:\n\nExplanation\n\nThe (isActive = true) assigns true to isActive, instead of checking equality with (isActive == true).\n\nThe next line runs silently and prints \"Active!\", even though isActive is false.\n\nSee Also:\n\nJavaScript Errors\n\nJavaScript Error Statemets\n\nJavaScript Error Object\n\nJavaScript Debugging\n\n",
+  "scraped_at": "2026-04-01T11:49:41"
+}

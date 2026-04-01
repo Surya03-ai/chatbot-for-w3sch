@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_if_else.asp",
+  "topic": "js",
+  "title": "Java Script else",
+  "text": "JavaScript else\n\n\n\nThe else Statement\n\nUse the\nelse\nstatement to specify a\nblock of code\nto be\nexecuted if a\ncondition\nis\nfalse\n.\n\nif (\ncondition\n) {\n\n//\nblock of code to be executed if the condition is true\n\n}\nelse {\n\n//\nblock of code to be executed if the condition is false\n\n}\n\nThe else if Statement\n\nUse the\nelse if\nstatement to specify a\nnew condition\n\nif the first is\nfalse\n.\n\nSyntax\n\nif (\ncondition1\n) {\n\n//\nblock of code to be executed if condition1 is true\n\n}\nelse if (\ncondition2\n) {\n\n//\nblock of code to be executed if the condition1 is false and condition2 is true\n\n} else {\n\n//\nblock of code to be executed if the condition1 is false and condition2 is false\n\n}\n\n",
+  "scraped_at": "2026-04-01T11:44:52"
+}

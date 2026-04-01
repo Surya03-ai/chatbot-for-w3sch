@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_change.asp",
+  "topic": "python",
+  "title": "Python - Change Dictionary Items",
+  "text": "Python -\nChange Dictionary Items\n\n\n\nChange Values\n\nYou can change the value of a specific item by referring to its key name:\n\nUpdate Dictionary\n\nThe\nupdate()\nmethod will update the dictionary with the items from the given\nargument.\n\nThe argument must be a dictionary, or an iterable object with key:value pairs.\n\n",
+  "scraped_at": "2026-04-01T11:59:36"
+}

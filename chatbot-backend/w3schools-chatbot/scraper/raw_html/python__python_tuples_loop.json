@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_tuples_loop.asp",
+  "topic": "python",
+  "title": "Python - Loop Tuples",
+  "text": "Python -\nLoop Tuples\n\n\n\nLoop Through a Tuple\n\nYou can loop through the tuple items by using a\nfor\nloop.\n\nLearn more about\nfor\nloops in our\nPython For Loops\nChapter.\n\nLoop Through the Index Numbers\n\nYou can also loop through the tuple items by referring to their index number.\n\nUse the\nrange()\nand\nlen()\nfunctions to create a suitable iterable.\n\nUsing a While Loop\n\nYou can loop through the tuple items by using a\nwhile\nloop.\n\nUse the\nlen()\nfunction to determine the length of the tuple,\nthen start at 0 and loop your way through the tuple items by referring to their indexes.\n\nRemember to increase the index by 1 after each iteration.\n\nLearn more about\nwhile\nloops in our\n\nPython While Loops\nChapter.\n\n",
+  "scraped_at": "2026-04-01T11:59:01"
+}

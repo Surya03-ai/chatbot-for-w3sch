@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_overflow_xy.asp",
+  "topic": "css",
+  "title": "CSS overflow-x and overflow-y",
+  "text": "CSS\noverflow-x and overflow-y\n\n\n\nOverflow in Specific Directions\n\nThe\noverflow-x\nand\noverflow-y\nproperties allow you to control overflow behavior independently for horizontal and vertical directions.\n\nCSS overflow-x and overflow-y\n\nThe\noverflow-x\nand\noverflow-y\nproperties specifies\nwhether to change the overflow of content just horizontally or vertically (or\nboth):\n\noverflow-x\nspecifies what to do with the left/right edges of the\ncontent.\n\noverflow-y\nspecifies what to do with the top/bottom edges of the\ncontent.\n\nYou can use the overflow property when you want to have better control of the layout. The overflow property specifies what happens if content overflows an element's box.\n\nCommon Use Cases\n\nThese properties are useful when you need different scroll behavior for horizontal and vertical content:\n\nHorizontal scrolling table\n- Use\noverflow-x: auto\nfor wide tables\n\nChat windows\n- Use\noverflow-y: scroll\nfor vertical message scrolling\n\nCode blocks\n- Use\noverflow-x: auto\nto handle long lines\n\n",
+  "scraped_at": "2026-04-01T11:40:48"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_es6_array_methods.asp",
+  "topic": "react",
+  "title": "React ES6 Array Methods",
+  "text": "React ES6 Array Methods\n\n\n\nArray Methods\n\nThere are many JavaScript array methods.\n\nOne of the most useful in React is the\n.map()\narray method.\n\nThe\n.map()\nmethod allows you to run a function on each item in the array,\nreturning a new array as the result.\n\nIn React,\nmap()\ncan be used to generate lists.\n\nExample\n\nGenerate a list of items from an array:\n\nconst myArray = ['apple', 'banana', 'orange'];\n\nconst myList = myArray.map((item) => <p>{item}</p>)\n\nRun Example »\n\n",
+  "scraped_at": "2026-04-01T12:12:20"
+}

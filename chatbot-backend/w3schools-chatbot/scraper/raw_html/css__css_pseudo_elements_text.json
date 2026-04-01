@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_pseudo_elements_text.asp",
+  "topic": "css",
+  "title": "CSS Pseudo-elements for Text",
+  "text": "CSS\nPseudo-elements\nfor Text\n\n\n\nPseudo-elements for Text\n\nPseudo-elements for text, allow you to style specific parts of text content, such as the first line or first letter.\n\nThe CSS ::first-line Pseudo-element\n\nThe\n::first-line\npseudo-element is used to add a special style\nto the first line of a text.\n\nNote:\nThe\n::first-line\npseudo-element can only be applied to block-level\nelements.\n\nThe CSS ::first-letter Pseudo-element\n\nThe\n::first-letter\npseudo-element is used to add a special style to the first\nletter of a text.\n\nNote:\nThe\n::first-letter\npseudo-element can only be applied to block-level\nelements.\n\nPseudo-elements and HTML Classes\n\nPseudo-elements can easily be combined with HTML classes.\n\nMultiple Pseudo-elements\n\nSeveral pseudo-elements can also be combined.\n\nIn the following example, the first letter of <p> elements will be red and in\nan xx-large font size. The rest of the first line will be blue and in\nsmall-caps. The rest of the paragraph will be in the default font size and color:\n\n",
+  "scraped_at": "2026-04-01T11:41:31"
+}

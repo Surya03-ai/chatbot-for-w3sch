@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_json_arrays.asp",
+  "topic": "js",
+  "title": "JSON Array Literals",
+  "text": "JSON Array Literals\n\n\n\nThis is a JSON string:\n\n'[\"Ford\", \"BMW\", \"Fiat\"]'\n\nInside the JSON string there is a JSON array literal:\n\n[\"Ford\", \"BMW\", \"Fiat\"]\n\nArrays in JSON are almost the same as arrays in JavaScript.\n\nIn JSON, array values must be of type string, number, object, array, boolean\nor\nnull\n.\n\nIn JavaScript, array values can be all of the above, plus any other valid\nJavaScript expression, including functions, dates, and\nundefined.\n\nJavaScript Arrays\n\nYou can create a JavaScript array from a literal:\n\nYou can create a JavaScript array by parsing a JSON string:\n\nAccessing Array Values\n\nYou access array values by index:\n\nArrays in Objects\n\nObjects can contain arrays:\n\nExample\n\n{\n\n\"name\":\"John\",\n\n\"age\":30,\n\n\"cars\":[\"Ford\", \"BMW\", \"Fiat\"]\n\n}\n\nYou access array values by index:\n\nLooping Through an Array\n\nYou can access array values by using a\nfor in\nloop:\n\nOr you can use a\nfor\nloop:\n\n",
+  "scraped_at": "2026-04-01T11:56:00"
+}

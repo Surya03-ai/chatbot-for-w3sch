@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_window_history.asp",
+  "topic": "js",
+  "title": "Java Script Window History",
+  "text": "JavaScript Window History\n\n\n\nThe\nwindow.history\nobject contains the\nbrowsers history.\n\nWindow History\n\nThe\nwindow.history\nobject can be written without the window prefix.\n\nTo protect the privacy of the users, there are limitations to how JavaScript\ncan access this object.\n\nSome methods:\n\nhistory.back()\n- same as clicking back in the browser\n\nhistory.forward()\n- same as clicking forward in the browser\n\nWindow History Back\n\nThe\nhistory.back()\nmethod loads the previous URL in the history list.\n\nThis is the same as clicking the Back button in the browser.\n\nExample\n\nCreate a back button on a page:\n\n<html>\n\n<head>\n\n<script>\n\nfunction goBack() {\n\nwindow.history.back()\n\n}\n\n</script>\n\n</head>\n\n<body>\n\n<input type=\"button\" value=\"Back\" onclick=\"goBack()\">\n\n</body>\n\n</html>\n\nThe output of the code above will be:\n\nWindow History Forward\n\nThe\nhistory.forward()\nmethod loads the next URL in the history list.\n\nThis is the same as clicking the Forward button in the browser.\n\nExample\n\nCreate a forward button on a page:\n\n<html>\n\n<head>\n\n<script>\n\nfunction goForward() {\n\nwindow.history.forward()\n\n}\n\n</script>\n\n</head>\n\n<body>\n\n<input type=\"button\" value=\"Forward\" onclick=\"goForward()\">\n\n</body>\n\n</html>\n\nThe output of the code above will be:\n\n",
+  "scraped_at": "2026-04-01T11:54:45"
+}

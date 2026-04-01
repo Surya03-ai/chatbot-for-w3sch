@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_drop_db.asp",
+  "topic": "sql",
+  "title": "SQL DROP DATABASE Statement",
+  "text": "SQL\nDROP DATABASE\nStatement\n\n\n\nThe SQL DROP DATABASE Statement\n\nThe\nDROP DATABASE\nstatement is used to permanently delete an existing SQL database.\n\nNote:\nBe careful before dropping a database! Dropping\na database deletes the database and all its content (tables, views, stored procedures, and data)!\n\nSyntax\n\nDROP DATABASE\ndatabasename\n;\n\nTip:\nYou need administrative privileges to drop a database.\n\nDROP DATABASE Example\n\nThe following SQL statement drops an existing database named \"testDB\":\n\nExample\n\nDROP DATABASE testDB;\n\nTip:\nOnce a database is dropped, you can check that it is removed from the list of databases with:\nSHOW DATABASES;\n(MySQL) or\nSELECT name FROM sys.databases;\n(SQL Server).\n\n",
+  "scraped_at": "2026-04-01T12:07:10"
+}

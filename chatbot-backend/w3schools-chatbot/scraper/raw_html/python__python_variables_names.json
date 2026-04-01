@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_variables_names.asp",
+  "topic": "python",
+  "title": "Python - Variable Names",
+  "text": "Python -\nVariable Names\n\n\n\nVariable Names\n\nA variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).\n\nRules for Python variables:\n\nA variable name must start with a letter or the underscore character\n\nA variable name cannot start with a number\n\nA variable name can only contain alpha-numeric characters and underscores (A-z, 0-9, and _ )\n\nVariable names are case-sensitive (age, Age and AGE are three different variables)\n\nA variable name cannot be any of the\nPython keywords\n.\n\nRemember that variable names are case-sensitive\n\nMulti Words Variable Names\n\nVariable names with more than one word can be difficult to read.\n\nThere are several techniques you can use to make them more readable:\n\nCamel Case\n\nEach word, except the first, starts with a capital letter:\n\nmyVariableName = \"John\"\n\nPascal Case\n\nEach word starts with a capital letter:\n\nMyVariableName = \"John\"\n\nSnake Case\n\nEach word is separated by an underscore character:\n\nmy_variable_name = \"John\"\n\n",
+  "scraped_at": "2026-04-01T11:57:31"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_class_methods.asp",
+  "topic": "python",
+  "title": "Python Class Methods",
+  "text": "Python\nClass Methods\n\n\n\nClass Methods\n\nMethods are functions that belong to a class. They define the behavior of objects created from the class.\n\nNote:\nAll methods must have\nself\nas the first parameter.\n\nMethods with Parameters\n\nMethods can accept parameters just like regular functions:\n\nMethods Accessing Properties\n\nMethods can access and modify object properties using\nself\n:\n\nMethods Modifying Properties\n\nMethods can modify the properties of an object:\n\nThe __str__() Method\n\nThe\n__str__()\nmethod is a special method that controls what is returned when the object is printed:\n\nMultiple Methods\n\nA class can have multiple methods that work together:\n\nDelete Methods\n\nYou can delete methods from a class using the\ndel\nkeyword:\n\n",
+  "scraped_at": "2026-04-01T12:01:38"
+}

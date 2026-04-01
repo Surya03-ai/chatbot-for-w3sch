@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_selectors_grouping.asp",
+  "topic": "css",
+  "title": "CSS Grouping Selectors",
+  "text": "CSS\nGrouping\nSelectors\n\n\n\nThe CSS Universal Selector\n\nThe\nuniversal selector (*)\nselects all HTML elements on the page.\n\nThe CSS Grouping Selector\n\nThe\ngrouping selector\nselects all the HTML elements with the same style\ndefinitions.\n\nLook at the following CSS code (the h1, h2, and p elements have the same\nstyle definitions):\n\nh1\n{\n\ntext-align: center;\ncolor: red;\n\n}\n\nh2\n{\n\ntext-align: center;\ncolor: red;\n}\n\np\n{\n\ntext-align: center;\ncolor: red;\n\n}\n\nIt will be better to group the selectors, to minimize the code.\n\nTo group selectors, separate each selector with a comma.\n\nAll CSS Simple Selectors\n\nSelector\n\nExample\n\nExample description\n\n#\nid\n\n#firstname\n\nSelects the element with id=\"firstname\"\n\n.\nclass\n\n.intro\n\nSelects all elements with class=\"intro\"\n\n*\n\n*\n\nSelects all elements\n\nelement\n\np\n\nSelects all <p> elements\n\nelement,element,..\n\ndiv, p\n\nSelects all <div> elements and all <p> elements\n\n",
+  "scraped_at": "2026-04-01T11:37:21"
+}

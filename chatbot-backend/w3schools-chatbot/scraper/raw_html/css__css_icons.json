@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_icons.asp",
+  "topic": "css",
+  "title": "CSS Icons - Font Awesome",
+  "text": "CSS Icons -\nFont Awesome\n\n\n\nHow To Add Icons\n\nIcons can easily be added to your HTML page, by using an icon library.\n\nJust add the name of the icon class to any inline HTML element\n(like\n<i>\nor\n<span>\n).\n\nIcons from icon libraries are scalable vectors that can be customized with CSS (size, color, shadow, etc.).\n\nFont Awesome Icons\n\nTo use the Font Awesome icons, go to\n\nfontawesome.com\n, sign in, and get a code to add in the\n<head>\nsection of your HTML page.\n\nThe code looks something like this:\n\n<script src=\"https://kit.fontawesome.com/\nyourcode\n.js\" crossorigin=\"anonymous\"></script>\n\nRead more about Font Awesome in our\n\nFont\nAwesome Tutorial\n.\n\nNote:\nNo downloading or installation is required!\n\nFor a complete reference of all Font Awesome icons, visit our\nIcon Reference\n.\n\n",
+  "scraped_at": "2026-04-01T11:39:39"
+}

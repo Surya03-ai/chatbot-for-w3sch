@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_file_remove.asp",
+  "topic": "python",
+  "title": "Python Delete File",
+  "text": "Python\nDelete File\n\n\n\nDelete a File\n\nTo delete a file, you must import the OS module, and run its\n\nos.remove()\nfunction:\n\nExample\n\nRemove the file \"demofile.txt\":\n\nimport os\nos.remove(\"demofile.txt\")\n\nCheck if File exist:\n\nTo avoid getting an error, you might want to check if the file exists before you try to delete it:\n\nExample\n\nCheck if file exists,\nthen\ndelete it:\n\nimport os\nif os.path.exists(\"demofile.txt\"):\nos.remove(\"demofile.txt\")\n\nelse:\nprint(\"The file does not exist\")\n\nDelete Folder\n\nTo delete an entire folder, use the\nos.rmdir()\nmethod:\n\nExample\n\nRemove the folder \"myfolder\":\n\nimport os\nos.rmdir(\"myfolder\")\n\nNote:\nYou can only remove\nempty\nfolders.\n\n",
+  "scraped_at": "2026-04-01T12:02:00"
+}

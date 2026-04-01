@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_if.asp",
+  "topic": "js",
+  "title": "Java Script if",
+  "text": "JavaScript if\n\n\n\nThe JavaScript if Statement\n\nUse the JavaScript if statement to execute a block of code\nwhen a condition is true\n.\n\nSyntax\n\nif (\ncondition\n) {\n\n//\nblock of code to be executed if the condition is true\n\n}\n\nNote that\nif\nis in lowercase letters. Uppercase letters (If or IF) will generate a JavaScript error.\n\nNested if\n\nYou can use an\nif\nstatement inside another\n\nif\nstatement:\n\nNested if statements can make your code more complex.\n\nA better solution is to use the logical AND operator:\n\n",
+  "scraped_at": "2026-04-01T11:44:50"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_precedence.asp",
+  "topic": "python",
+  "title": "Python Operator Precedence",
+  "text": "Python\nOperator Precedence\n\n\n\nOperator Precedence\n\nOperator precedence describes the order in which operations are performed.\n\nPrecedence Order\n\nThe precedence order is described in the table below, starting with the highest precedence at the top:\n\nOperator\n\nDescription\n\nTry it\n\n()\n\nParentheses\n\n**\n\nExponentiation\n\n+x\n\n-x\n\n~x\n\nUnary plus, unary minus, and bitwise NOT\n\n*\n\n/\n\n//\n\n%\n\nMultiplication, division, floor division, and modulus\n\n\n-\n\nAddition and subtraction\n\n<<\n\n>>\n\nBitwise left and right shifts\n\n&\n\nBitwise AND\n\n^\n\nBitwise XOR\n\n|\n\nBitwise OR\n\n==\n\n!=\n\n>\n\n>=\n\n<\n\n<=\n\nis\n\nis not\n\nin\n\nnot in\n\nComparisons, identity, and membership operators\n\nnot\n\nLogical NOT\n\nand\n\nAND\n\nor\n\nOR\n\nLeft-to-Right Evaluation\n\nIf two operators have the same precedence, the expression is evaluated from left to right.\n\n",
+  "scraped_at": "2026-04-01T11:58:15"
+}

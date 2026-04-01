@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_graphics_google_chart.asp",
+  "topic": "js",
+  "title": "Google Chart",
+  "text": "Google Chart\n\n\n\nFrom simple line charts to complex hierarchical tree maps,\nthe Google Chart gallery provides a large number of ready-to-use chart types:\n\nScatter Chart\n\nLine Chart\n\nBar / Column Chart\n\nArea Chart\n\nPie Chart\n\nDonut Chart\n\nOrg Chart\n\nMap / Geo Chart\n\nHow to Use Google Chart?\n\n1.\nAdd a <div> element (with a unique id) in the HTML where you want to display the chart:\n\n<div id=\"myChart\" style=\"max-width:700px; height:400px\"></div>\n\n2.\nAdd a link to the charts loader:\n\n<script src=\"https://www.gstatic.com/charts/loader.js\"></script>\n\n3.\nLoad the Graph API, and add the function to run when the API is loaded:\n\n<script>\n\ngoogle.charts.load('current',{packages:['corechart']});\n\ngoogle.charts.setOnLoadCallback(drawChart);\n\n// Your Function\n\nfunction drawChart() {\n\n...\n\n}\n\n</script>\n\nBar Charts\n\nPie Charts\n\nTo convert a\nBar\nChart to a\nPie\nchart, just replace:\n\ngoogle.visualization.\nBarChart\nwith:\n\ngoogle.visualization.\nPieChart\n\n3D Pie\n\nTo display the Pie in 3D, just add\nis3D: true\nto the options:\n\nLine Graph\n\nScatter Plots\n\nTo\nscatter plot\nthe same data, change google.visualization to ScatterChart:\n\n",
+  "scraped_at": "2026-04-01T11:56:37"
+}

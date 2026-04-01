@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_intro.asp",
+  "topic": "js",
+  "title": "Java Script Introduction",
+  "text": "JavaScript Introduction\n\n\n\nWhat Can JavaScript Do?\n\nJavaScript is the programming language of the web.\n\nIt can calculate, manipulate and validate data.\n\nIt can update and change both HTML and CSS.\n\nJavaScript Can Change HTML Content\n\nOne of many JavaScript HTML methods is\ngetElementById()\n.\n\nThe example below \"finds\" an HTML element (with id=\"demo\"),\nand changes the element content (innerHTML) to \"Hello JavaScript\":\n\nJavaScript accepts both double and single quotes:\n\nJavaScript Can Change HTML Attribute Values\n\nIn this example JavaScript changes the value of the\nsrc\n(source) attribute of an\n<img>\ntag:\n\nJavaScript Can Change HTML Styles (CSS)\n\nChanging the style of an HTML element, is a variant of changing an HTML\nattribute:\n\nJavaScript Can Hide HTML Elements\n\nHiding HTML elements can be done by changing the\ndisplay\nstyle:\n\nJavaScript Can Show HTML Elements\n\nShowing hidden HTML elements can also be done by changing the\ndisplay\nstyle:\n\nDid You Know?\n\nJavaScript and\nJava\nare two completely different languages, both in concept\nand design.\n\nJavaScript was invented by Brendan Eich in 1995, and became an ECMA standard\nin 1997.\n\nECMA-262 is the official name of the standard. ECMAScript is the official name of the language.\n\nSee all JavaScript Versions »\n\n",
+  "scraped_at": "2026-04-01T11:44:17"
+}

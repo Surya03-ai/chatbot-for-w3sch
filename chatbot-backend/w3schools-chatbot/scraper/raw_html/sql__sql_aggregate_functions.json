@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/sql/sql_aggregate_functions.asp",
+  "topic": "sql",
+  "title": "SQL Aggregate Functions",
+  "text": "SQL\nAggregate\nFunctions\n\n\n\nSQL Aggregate Functions\n\nAn aggregate function is a function that performs a calculation on a set of\nvalues, and returns a single value.\n\nAggregate functions are often used with the\nGROUP\nBY\nclause of the\nSELECT\n\nstatement. The\nGROUP BY\nclause splits the result-set into groups of values and\nthe aggregate function can be used to return a single value for each group.\n\nThe most commonly used SQL aggregate functions are:\n\nMIN()\n- returns the smallest value\nof a column\n\nMAX()\n- returns the largest value of a column\n\nCOUNT()\n- returns the number of rows in a\nset\n\nSUM()\n- returns the sum of a\nnumerical column\n\nAVG()\n- returns the average value of a\nnumerical column\n\nAggregate functions ignore null values (except for\nCOUNT(*)\n).\n\nWe will go through the aggregate functions above in the next chapters.\n\n",
+  "scraped_at": "2026-04-01T12:06:05"
+}

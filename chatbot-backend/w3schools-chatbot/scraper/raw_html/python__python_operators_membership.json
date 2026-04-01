@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_membership.asp",
+  "topic": "python",
+  "title": "Python Membership Operators",
+  "text": "Python\nMembership Operators\n\n\n\nMembership Operators\n\nMembership operators are used to test if a sequence is presented in an object:\n\nOperator\n\nDescription\n\nExample\n\nTry it\n\nin\n\nReturns True if a sequence with the specified value is present in the object\n\nx in y\n\nnot in\n\nReturns True if a sequence with the specified value is not present in the object\n\nx not in y\n\nExamples\n\nMembership in Strings\n\nThe membership operators also work with strings:\n\n",
+  "scraped_at": "2026-04-01T11:58:12"
+}

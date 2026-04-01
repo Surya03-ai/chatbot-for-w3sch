@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_match.asp",
+  "topic": "python",
+  "title": "Python Match",
+  "text": "Python\nMatch\n\n\n\nThe\nmatch\nstatement is used to perform different actions based on different conditions.\n\nThe Python Match Statement\n\nInstead of writing\nmany\n\nif..else\nstatements, you can use the\nmatch\nstatement.\n\nThe\nmatch\nstatement selects one of many code blocks to be executed.\n\nSyntax\n\nmatch\nexpression\n:\n\ncase x:\n\ncode block\n\ncase y:\n\ncode block\n\ncase z:\n\ncode block\n\nThis is how it works:\n\nThe\nmatch\nexpression is evaluated once.\n\nThe value of the expression is compared with the values of each\ncase\n.\n\nIf there is a match, the associated block of code is executed.\n\nThe example below uses the weekday number to print the weekday name:\n\nDefault Value\n\nUse the underscore character\n_\nas the last\ncase value if you want a code block to execute when there are not other matches:\n\nThe value\n_\nwill always match, so it is important to place it as the\n\nlast\n\ncase\nto make it\nbehave as a default\ncase\n.\n\nCombine Values\n\nUse the pipe character\n|\nas an or operator in the\ncase\nevaluation to check\nfor more than one value match in one\ncase\n:\n\nIf Statements as Guards\n\nYou can add\nif\nstatements in the case evaluation as an extra condition-check:\n\n",
+  "scraped_at": "2026-04-01T12:00:09"
+}

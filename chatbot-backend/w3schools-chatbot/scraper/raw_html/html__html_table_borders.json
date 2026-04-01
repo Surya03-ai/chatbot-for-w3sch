@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_table_borders.asp",
+  "topic": "html",
+  "title": "HTML Table Borders",
+  "text": "HTML\nTable Borders\n\n\n\nHTML tables can have borders of different styles and shapes.\n\nHow To Add a Border\n\nTo add a border, use the CSS\nborder\nproperty on\n\ntable\n,\nth\n, and\n\ntd\nelements:\n\nCollapsed Table Borders\n\nTo avoid having double borders like in the example above, set the CSS\nborder-collapse\n\nproperty to\ncollapse\n.\n\nThis will make the borders collapse into a single border:\n\nStyle Table Borders\n\nIf you set a background color of each cell,\nand give the border a white color (the same as the document background),\nyou get the impression of an invisible border:\n\nRound Table Borders\n\nWith the\nborder-radius\nproperty, the borders get rounded corners:\n\nSkip the border around the table by leaving out\ntable\nfrom the css selector:\n\nDotted Table Borders\n\nWith the\nborder-style\nproperty, you can set the\nappearance of the border.\n\nThe following values are allowed:\n\ndotted\n\ndashed\n\nsolid\n\ndouble\n\ngroove\n\nridge\n\ninset\n\noutset\n\nnone\n\nhidden\n\nBorder Color\n\nWith the\nborder-color\nproperty, you can set the color of the border.\n\n",
+  "scraped_at": "2026-04-01T11:34:59"
+}

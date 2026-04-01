@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_table_style.asp",
+  "topic": "css",
+  "title": "CSS Table Styling",
+  "text": "CSS\nTable Styling\n\n\n\nCSS Table Padding\n\nTo add some more space between the inner borders and the content in a table, use the\n\npadding\nproperty on\n<td> and <th> elements:\n\nFirst Name\n\nLast Name\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\nCSS Horizontal Dividers\n\nTo create horizontal dividers for a table, add the\nborder-bottom\nproperty to <th> and <td>\nelements:\n\nFirst Name\n\nLast Name\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\nCSS Hoverable Table\n\nUse the CSS\n:hover\nselector on <tr> to highlight table rows on mouse\nover:\n\nFirst Name\n\nLast Name\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\nCSS Zebra-striped Table\n\nFor zebra-striped tables, use the\nnth-child()\nselector and add a\nbackground-color\nto all even (or odd) table rows:\n\nFirst Name\n\nLast Name\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\nCSS Table Color\n\nThe example below specifies a background color and a text color for the <th> elements:\n\nFirst Name\n\nLast Name\n\nSavings\n\nPeter\n\nGriffin\n\n$100\n\nLois\n\nGriffin\n\n$150\n\nJoe\n\nSwanson\n\n$300\n\n",
+  "scraped_at": "2026-04-01T11:40:07"
+}

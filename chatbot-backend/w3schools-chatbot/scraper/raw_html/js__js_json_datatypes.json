@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_json_datatypes.asp",
+  "topic": "js",
+  "title": "JSON Data Types",
+  "text": "JSON Data Types\n\n\n\nValid Data Types\n\nIn JSON, values must be one of the following data types:\n\na string\n\na number\n\nan object (JSON object)\n\nan array\n\na boolean\n\nnull\n\nJSON values\ncannot\nbe one of the following data types:\n\na function\n\na date\n\nundefined\n\nJSON Strings\n\nStrings in JSON must be written in double quotes.\n\nExample\n\n{\"name\":\"John\"}\n\nJSON Numbers\n\nNumbers in JSON must be an integer or a floating point.\n\nExample\n\n{\"age\":30}\n\nJSON Objects\n\nValues in JSON can be objects.\n\nExample\n\n{\n\"employee\":{\"name\":\"John\", \"age\":30, \"city\":\"New York\"}\n\n}\n\nObjects as values in JSON must follow the JSON syntax.\n\nJSON Arrays\n\nValues in JSON can be arrays.\n\nExample\n\n{\n\"employees\":[\"John\", \"Anna\", \"Peter\"]\n}\n\nJSON Booleans\n\nValues in JSON can be true/false.\n\nExample\n\n{\"sale\":true}\n\nJSON null\n\nValues in JSON can be null.\n\nExample\n\n{\"middlename\":null}\n\n",
+  "scraped_at": "2026-04-01T11:55:49"
+}

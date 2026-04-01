@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_outline_offset.asp",
+  "topic": "css",
+  "title": "CSS Outline Offset",
+  "text": "CSS\nOutline Offset\n\n\n\nCSS Outline Offset\n\nThe\noutline-offset\nproperty adds\na space between an outline and the edge/border of an element. The space between an\nelement and its outline is transparent.\n\nThe following example specifies an outline 15px outside the border edge:\n\nThis paragraph has a black border and a red outline 15px outside the border edge.\n\nThe following example shows that the space between an element's border and its outline is transparent:\n\nThis paragraph has an outline of 15px outside the border edge.\n\nCSS Outline Offset with Negative Value\n\nThe following example shows the use of an outline-offset with a negative value, now the outline will be placed inside the border edge:\n\nThis paragraph has a black border and a red outline -5px inside the border edge.\n\nAll CSS Outline Properties\n\nProperty\n\nDescription\n\noutline\n\nA shorthand property for setting outline-width, outline-style, and\noutline-color in one declaration\n\noutline-color\n\nSets the color of an outline\n\noutline-offset\n\nSpecifies the space between an outline and the edge or border of an element\n\noutline-style\n\nSets the style of an outline\n\noutline-width\n\nSets the width of an outline\n\n",
+  "scraped_at": "2026-04-01T11:38:59"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_navbar_horizontal_fixed.asp",
+  "topic": "css",
+  "title": "CSS Fixed Horizontal Navbar",
+  "text": "CSS\nFixed Horizontal Navbar\n\n\n\nThis page covers fixed, sticky, and responsive horizontal navigation bars.\n\nRight-align One Link\n\nYou can right-align one or more links by floating the list items to the right (\nfloat: right;\n):\n\nHome\n\nNews\n\nContact\n\nAbout\n\nBorder Dividers\n\nAdd the\nborder-right\nproperty to <li>\nelements (to all <li>s, except the last), to create link dividers:\n\nHome\n\nNews\n\nContact\n\nAbout\n\nFixed Navigation Bar\n\nYou can make the navigation bar to stay fixed at the top or at the bottom of\na page, by using the\nposition\nproperty along with\ntop\nor\nbottom\n:\n\nNote:\nFixed position might not work properly on mobile devices.\n\nSticky Navigation Bar\n\nAdd\nposition: sticky;\nto <ul> to create a sticky navbar.\n\nAn element with\nposition: sticky;\ntoggles between\na\nrelative\nand\nfixed\n\nposition, depending on the scroll position.\n\nA sticky element is positioned relative until a certain scroll position is\nreached - then it \"sticks\" in that place (like position: fixed).\n\nNote:\nYou must specify at least one of the\ntop\n,\nright\n,\nbottom\nor\nleft\n\nproperties, for\nsticky positioning to work.\n\nDropdown Menu in Navigation Bar\n\nHere we create a dropdown menu for one of the menu links:\n\nResponsive Navbar\n\n",
+  "scraped_at": "2026-04-01T12:11:18"
+}

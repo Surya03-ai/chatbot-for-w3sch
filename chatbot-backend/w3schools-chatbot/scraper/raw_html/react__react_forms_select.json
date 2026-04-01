@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_forms_select.asp",
+  "topic": "react",
+  "title": "React Forms - Select",
+  "text": "React Forms - Select\n\n\n\nSelect\n\nA drop down list, or a select box, in React is also a bit different from HTML.\n\nIn HTML, the selected value in the drop down list is defined with the\nselected\nattribute:\n\nHTML:\n\n<select>\n<option value=\"Ford\">Ford</option>\n<option value=\"Volvo\" selected>Volvo</option>\n<option value=\"Fiat\">Fiat</option>\n</select>\n\nIn React, the selected value is defined with a\nvalue\n\nattribute on the\nselect\ntag:\n\nExample:\n\nReact uses the value attribute to control the select box:\n\nfunction MyForm() {\nconst [myCar, setMyCar] = useState(\"Volvo\");\n\nconst handleChange = (event) => {\nsetMyCar(event.target.value)\n}\n\nreturn (\n<form>\n<select value={myCar} onChange={handleChange}>\n<option value=\"Ford\">Ford</option>\n<option value=\"Volvo\">Volvo</option>\n<option value=\"Fiat\">Fiat</option>\n</select>\n</form>\n)\n}\n\nRun\nExample »\n\nBy making these changes to the\n<select>\nelement,\nReact is able to handle it as any other input element.\n\n",
+  "scraped_at": "2026-04-01T12:09:29"
+}

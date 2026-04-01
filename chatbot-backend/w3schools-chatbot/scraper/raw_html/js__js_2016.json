@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_2016.asp",
+  "topic": "js",
+  "title": "ECMA Script 2016",
+  "text": "ECMAScript 2016\n\n\n\nNew Features in JavaScript 2016\n\nSupported in all modern browsers since\nMarch 2017\n.\n\nFeature\nDescription\n\n**\n\nRaises the first operand to the power of the second\n\n**=\n\nRaises the value of a variable to the power of the right operand\n\nArray includes()\n\nChecks if an element is present in an array\n\nBrowser Support\n\nJavaScript 2016\nis supported in all modern browsers since\nMarch 2017\n:\n\nChrome\n\nEdge\n\nFirefox\n\nSafari\n10.1\n\nOpera\n\nJul 2016\n\nApr 2017\n\nMar 2017\n\nMay 2017\n\nAug 2016\n\nES 2016 is not supported in Internet Explorer.\n\nExponentiation Operator\n\nThe\nexponentiation\noperator (\n**\n) raises the first operand to the power of the second operand.\n\nx ** y\nproduces the same result as\nMath.pow(x, y)\n:\n\nExponentiation Assignment\n\nThe\nexponentiation assignment\noperator (\n**=\n) raises the value of a variable to the power of the right operand.\n\nJavaScript Array includes()\n\nECMAScript 2016 introduced\nArray.includes\nto arrays.\n\nThis allows us to check if an element is present in an array:\n\n",
+  "scraped_at": "2026-04-01T11:51:19"
+}

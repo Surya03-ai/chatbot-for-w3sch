@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_comments.asp",
+  "topic": "js",
+  "title": "Java Script Comments",
+  "text": "JavaScript Comments\n\n\n\nJavaScript comments can be used to explain JavaScript code, and\nto make it more readable.\n\nJavaScript comments can also be used to prevent execution, when\ntesting alternative code.\n\nSingle Line Comments\n\nSingle line comments start with\n//\n.\n\nAny text between\n//\nand the end of the line will be ignored by JavaScript\n(will not be executed).\n\nThis example uses a single-line comment before each code line:\n\nThis example uses a single line comment at the end of each line\nto explain the code:\n\nMulti-line Comments\n\nMulti-line comments start with\n/*\nand end with\n*/\n.\n\nAny text between\n/*\nand\n*/\nwill be ignored by JavaScript.\n\nThis example uses a multi-line comment (a comment block) to explain the code:\n\nIt is most common to use single line comments.\nBlock comments are often\nused for formal documentation.\n\nUsing Comments to Prevent Execution\n\nUsing comments to prevent execution of code is suitable for\ncode testing.\n\nAdding\n//\nin front of a code line changes the code lines from an executable line to\na comment.\n\nThis example uses // to prevent execution of one of the code lines:\n\nThis example uses a comment block to prevent execution of\nmultiple lines:\n\n",
+  "scraped_at": "2026-04-01T11:44:29"
+}

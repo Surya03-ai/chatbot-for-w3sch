@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_icons_google.asp",
+  "topic": "css",
+  "title": "CSS Icons - Google",
+  "text": "CSS Icons -\nGoogle\n\n\n\nGoogle Icons\n\nTo use the Google icons, add the following line inside the\n<head>\nsection of your HTML page:\n\n<link rel=\"stylesheet\" href=\"https://fonts.googleapis.com/icon?family=Material+Icons\">\n\nNote:\nNo downloading or installation is required!\n\nFor a complete list of all icons, visit our\nIcon Tutorial\n.\n\n",
+  "scraped_at": "2026-04-01T11:39:44"
+}

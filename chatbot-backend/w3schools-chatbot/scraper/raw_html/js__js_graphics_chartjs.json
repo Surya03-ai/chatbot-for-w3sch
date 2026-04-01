@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_graphics_chartjs.asp",
+  "topic": "js",
+  "title": "Chart.js",
+  "text": "Chart.js\n\n\n\nChart.js\nis an free JavaScript library for making HTML-based charts.\nIt is one of the simplest visualization libraries for JavaScript, and\ncomes with the many built-in chart types:\n\nScatter Plot\n\nLine Chart\n\nBar Chart\n\nPie Chart\n\nDonut Chart\n\nBubble Chart\n\nArea Chart\n\nRadar Chart\n\nMixed Chart\n\nHow to Use Chart.js?\n\n1.\nAdd a link to the providing CDN (Content Delivery Network):\n\n<script\n\nsrc=\"https://cdn.jsdelivr.net/npm/chart.js@4.5.0\">\n\n</script>\n\n2.\nAdd a <canvas> to where in the HTML you want to draw the chart:\n\n<canvas>\n\nid=\"myChart\" style=\"width:100%;max-width:700px\"\n\n</canvas>\n\nThe canvas element must have a unique id.\n\nTypical Bar Chart Syntax:\n\nconst myChart = new Chart(\"myChart\", {\n\ntype: \"bar\",\n\ndata: {},\n\noptions: {}\n\n});\n\nTypical Line Chart Syntax:\n\nconst myChart = new Chart(\"myChart\", {\n\ntype: \"line\",\n\ndata: {},\n\noptions: {}\n\n});\n\nBar Charts\n\nPie Charts\n\nDoughnut Charts\n\nScatter Plots\n\nHouse Prices vs. Size\n\nLine Graphs\n\nHouse Prices vs. Size\n\nIf you set the borderColor to zero, you can\nscatter plot\nthe line graph:\n\nMultiple Lines\n\nLinear Graphs\n\nFunction Graphs\n\n",
+  "scraped_at": "2026-04-01T11:56:35"
+}

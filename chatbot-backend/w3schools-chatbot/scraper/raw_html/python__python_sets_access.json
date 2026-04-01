@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_sets_access.asp",
+  "topic": "python",
+  "title": "Python - Access Set Items",
+  "text": "Python -\nAccess Set Items\n\n\n\nAccess Items\n\nYou cannot access items in a set by referring to an index or a key.\n\nBut you can loop through the set items using a\nfor\n\nloop, or ask if a specified value is present in a set, by using the\n\nin\nkeyword.\n\nChange Items\n\nOnce a set is created, you cannot change its items, but you can add new items.\n\n",
+  "scraped_at": "2026-04-01T11:59:12"
+}

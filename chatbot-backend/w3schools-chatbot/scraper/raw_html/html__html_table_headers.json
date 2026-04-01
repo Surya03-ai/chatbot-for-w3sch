@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_table_headers.asp",
+  "topic": "html",
+  "title": "HTML Table Headers",
+  "text": "HTML\nTable Headers\n\n\n\nHTML tables can have headers for each column or row, or for many columns/rows.\n\nEMIL\n\nTOBIAS\n\nLINUS\n\n8:00\n\n9:00\n\n10:00\n\n11:00\n\n12:00\n\n13:00\n\nMON\n\nTUE\n\nWED\n\nTHU\n\nFRI\n\n8:00\n\n9:00\n\n10:00\n\n11:00\n\n12:00\n\nDECEMBER\n\nHTML Table Headers\n\nTable headers are defined with\nth\nelements.\nEach\nth\nelement represents a table cell.\n\nVertical Table Headers\n\nTo use the first column as table headers, define the first cell in each row as a\n<th>\nelement:\n\nAlign Table Headers\n\nBy default, table headers are bold and centered:\n\nFirstname\n\nLastname\n\nAge\n\nJill\n\nSmith\n\n\nEve\n\nJackson\n\n\nTo left-align the table headers, use the CSS\ntext-align\nproperty:\n\nHeader for Multiple Columns\n\nYou can have a header that spans over two or more columns.\n\nName\n\nAge\n\nJill\n\nSmith\n\n\nEve\n\nJackson\n\n\nTo do this, use the\ncolspan\nattribute on the\n\n<th>\nelement:\n\nYou will learn more about colspan and rowspan in the\nTable colspan & rowspan\nchapter.\n\nTable Caption\n\nYou can add a caption that serves as a heading for the entire table.\n\nMonthly savings\n\nMonth\n\nSavings\n\nJanuary\n\n$100\n\nFebruary\n\n$50\n\nTo add a caption to a table, use the\n<caption>\ntag:\n\nNote:\nThe\n<caption>\ntag\nshould be inserted immediately after the\n<table>\ntag.\n\n",
+  "scraped_at": "2026-04-01T11:35:03"
+}

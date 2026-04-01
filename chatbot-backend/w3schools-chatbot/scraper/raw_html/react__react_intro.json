@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_intro.asp",
+  "topic": "react",
+  "title": "React Introduction",
+  "text": "React Introduction\n\n\n\nWhat is React?\n\nReact is a front-end JavaScript library.\n\nReact was developed by the Facebook Software Engineer Jordan Walke.\n\nReact is also known as React.js or ReactJS.\n\nReact is a tool for building UI components.\n\nHow does React Work?\n\nReact creates a VIRTUAL DOM in memory.\n\nInstead of manipulating the browser's DOM directly, React creates a virtual\nDOM in memory, where it does all the necessary manipulating, before making the\nchanges in the browser DOM.\n\nReact only changes what needs to be changed!\n\nReact finds out what changes have been\nmade, and changes\nonly\n\nwhat needs to be changed.\n\nYou will learn the various aspects of how React does this in the rest of this\ntutorial.\n\nWhat You Should Already Know\n\nBefore you continue you should have a basic understanding of the following:\n\nHTML\n\nCSS\n\nJavaScript\n\nIf you want to study these subjects first, find the tutorials on our\n\nHome page\n.\n\nReact.JS History\n\nLatest version of React.JS is 19.0.0 (December 2024).\n\nInitial release to the Public (version 0.3.0) was in July 2013.\n\nReact.JS was first used in 2011 for Facebook's Newsfeed feature.\n\nFacebook Software Engineer, Jordan Walke, created it.\n\n",
+  "scraped_at": "2026-04-01T12:08:19"
+}

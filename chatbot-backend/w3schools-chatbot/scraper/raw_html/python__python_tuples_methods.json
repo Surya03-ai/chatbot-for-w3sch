@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_tuples_methods.asp",
+  "topic": "python",
+  "title": "Python - Tuple Methods",
+  "text": "Python -\nTuple Methods\n\n\n\nTuple Methods\n\nPython has two built-in methods that you can use on tuples.\n\nMethod\n\nDescription\n\ncount()\nReturns the number of times a specified value occurs in a tuple\n\nindex()\nSearches the tuple for a specified value and returns the position of where it was found\n\n",
+  "scraped_at": "2026-04-01T11:59:07"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_es6.asp",
+  "topic": "react",
+  "title": "React ES6",
+  "text": "React ES6\n\n\n\nWhat is ES6?\n\nES6 stands for ECMAScript 6.\n\nECMAScript was created to standardize JavaScript, and ES6 is the 6th version\nof ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.\n\nWhy Should I Learn ES6?\n\nReact uses ES6, and you should be familiar with some of the new features\nlike:\n\nClasses\n\nArrow Functions\n\nVariables\n(let, const, var)\n\nArray Methods\nlike\n.map()\n\nDestructuring\n\nModules\n\nTernary Operator\n\nSpread Operator\n\n",
+  "scraped_at": "2026-04-01T12:08:31"
+}

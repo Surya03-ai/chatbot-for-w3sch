@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/html/html_object.asp",
+  "topic": "html",
+  "title": "HTML Plug-ins",
+  "text": "HTML\nPlug-ins\n\n\n\nPlug-ins are computer programs that extend the standard functionality of the browser.\n\nPlug-ins\n\nPlug-ins were designed to be used for many different purposes:\n\nTo run Java applets\n\nTo run Microsoft ActiveX controls\n\nTo display Flash movies\n\nTo display maps\n\nTo scan for viruses\n\nTo verify a bank id\n\nWarning !\n\nMost browsers no longer support Java Applets and Plug-ins.\n\nActiveX controls are no longer supported in any browsers.\n\nThe support for Shockwave Flash has also been turned off in modern browsers.\n\nThe <object> Element\n\nThe\n<object>\nelement is supported by all browsers.\n\nThe\n<object>\nelement defines an embedded object within an HTML document.\n\nIt was designed to embed plug-ins (like Java applets, PDF readers, and Flash Players) in web pages,\nbut can also be used to include HTML in HTML:\n\nOr images if you like:\n\nThe <embed> Element\n\nThe\n<embed>\nelement is supported in all major browsers.\n\nThe\n<embed>\nelement also defines an embedded object within an HTML document.\n\nWeb browsers have supported the <embed> element for a\nlong time. However, it has not been a part of the HTML\nspecification before HTML5.\n\nNote that the <embed> element does not have a closing tag. It can not\ncontain alternative text.\n\nThe\n<embed>\nelement can also be used to include HTML in HTML:\n\n",
+  "scraped_at": "2026-04-01T11:36:36"
+}

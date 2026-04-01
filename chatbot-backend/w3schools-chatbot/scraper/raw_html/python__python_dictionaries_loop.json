@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_loop.asp",
+  "topic": "python",
+  "title": "Python - Loop Dictionaries",
+  "text": "Python -\nLoop Dictionaries\n\n\n\nLoop Through a Dictionary\n\nYou can loop through a dictionary by using a\n\nfor\nloop.\n\nWhen looping through a dictionary, the return value are the\nkeys\nof\nthe dictionary, but there are methods to return the\nvalues\nas well.\n\n",
+  "scraped_at": "2026-04-01T11:59:42"
+}

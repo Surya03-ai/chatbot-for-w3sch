@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators.asp",
+  "topic": "python",
+  "title": "Python Operators",
+  "text": "Python\nOperators\n\n\n\nPython Operators\n\nOperators are used to perform operations on variables and values.\n\nIn the example below, we use the\noperator to add together two values:\n\nAlthough the\noperator is often used to add together two values, like in the example above, it can also be used to add together a variable and a value, or two variables:\n\nPython divides the operators in the following groups:\n\nArithmetic operators\n\nAssignment operators\n\nComparison operators\n\nLogical operators\n\nIdentity operators\n\nMembership operators\n\nBitwise operators\n\n",
+  "scraped_at": "2026-04-01T11:58:01"
+}

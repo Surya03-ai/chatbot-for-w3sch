@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_es6_classes.asp",
+  "topic": "react",
+  "title": "React ES6 Classes",
+  "text": "React ES6 Classes\n\n\n\nClasses\n\nES6 introduced classes.\n\nA class is a type of function, but instead of using the keyword\n\nfunction\nto initiate it, we use the keyword\n\nclass\n, and the properties are assigned inside a\n\nconstructor()\nmethod.\n\nExample\n\nA simple class constructor:\n\nclass Car {\nconstructor(name) {\nthis.brand = name;\n}\n}\n\nNotice the case of the class name.\nWe have begun the name, \"Car\", with an uppercase character.\nThis is a standard naming convention for classes.\n\nNow you can create objects using the Car class:\n\nNote:\nThe constructor function is called automatically when the object is initialized.\n\nMethod in Classes\n\nYou can add your own methods in a class:\n\nAs you can see in the example above, you call the method by referring to the\nobject's method name followed by parentheses (parameters would go inside the\nparentheses).\n\nClass Inheritance\n\nTo create a class inheritance, use the\nextends\n\nkeyword.\n\nA class created with a class inheritance inherits all the methods from\nanother class:\n\nThe\nsuper()\nmethod refers to the parent\nclass.\n\nBy calling the\nsuper()\nmethod in the\nconstructor method, we call the parent's constructor method and get access to\nthe parent's properties and methods.\n\nTo learn more about classes, check out our\nJavaScript Classes\nsection.\n\n",
+  "scraped_at": "2026-04-01T12:08:33"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_dropdowns_advanced.asp",
+  "topic": "css",
+  "title": "CSS Advanced Dropdowns",
+  "text": "CSS\nAdvanced Dropdowns\n\n\n\nCSS Right-aligned Dropdown\n\nLeft\n\nLink 1\n\nLink 2\n\nLink 3\n\nRight\n\nLink 1\n\nLink 2\n\nLink 3\n\nIf you want the dropdown menu to go from right to left, instead of left to right, add\nright: 0;\n\nCSS Dropdown Image\n\nHow to add an image and other content inside the dropdown box.\n\nCSS Dropdown Navbar\n\nHow to add a dropdown menu inside a navigation bar.\n\n",
+  "scraped_at": "2026-04-01T11:41:50"
+}

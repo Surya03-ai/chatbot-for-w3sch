@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_mongodb_drop_collection.asp",
+  "topic": "python",
+  "title": "Python Mongo DB Drop Collection",
+  "text": "Python MongoDB\nDrop Collection\n\n\n\nDelete Collection\n\nYou can delete a table, or collection as it is called in MongoDB, by using\nthe\ndrop()\nmethod.\n\nExample\n\nDelete the \"customers\" collection:\n\nimport pymongo\nmyclient = pymongo.MongoClient(\"mongodb://localhost:27017/\")\n\nmydb = myclient[\"mydatabase\"]\nmycol = mydb[\"customers\"]\n\nmycol.drop()\n\nRun example »\n\nThe\ndrop()\nmethod returns true if the collection was dropped successfully,\nand false if the collection does not exist.\n\n",
+  "scraped_at": "2026-04-01T12:04:58"
+}

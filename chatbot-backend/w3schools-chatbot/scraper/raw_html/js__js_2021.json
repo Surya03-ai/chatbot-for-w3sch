@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_2021.asp",
+  "topic": "js",
+  "title": "ECMA Script 2021",
+  "text": "ECMAScript 2021\n\n\n\nNew Features in JavaScript 2021\n\nFeature\nDescription\n\nPromise.any()\n\nTakes promises as input and returns a single promise\n\nString replaceAll()\n\nReplaces all occurrences of a substring in a string\n\nNumeric Separator\n\nNew numeric separator (_) makes numbers more readable\n\nBrowser Support\n\nECMAScript 2021\nis supported in all modern browsers since\nApril 2021\n:\n\nChrome\n\nEdge\n\nFirefox\n\nSafari\n14.1\n\nOpera\n\nAug 2020\n\nAug 2020\n\nJul 2020\n\nApr 2021\n\nSep 2020\n\nJavaScript Promise.any()\n\nPromise.any() is a static method in JavaScript that takes an iterable of Promises as input and returns\na single Promise.\n\nJavaScript String ReplaceAll()\n\nES2021 introduced the string method\nreplaceAll()\n:\n\nThe\nreplaceAll()\nmethod allows you to specify a\nregular expression instead of a string to be replaced.\n\nIf the parameter is a regular expression, the global flag (g) must be set, otherwise\na TypeError is thrown.\n\nES2020\nintroduced the string method matchAll().\n\nJavaScript Numeric Separator (_)\n\nES2021 intoduced the numeric separator (_) to make numbers more readable:\n\nThe numeric separator is only for visual use.\n\nThe numeric separator can be placed anywhere in a number:\n\nThe numeric separator is not allowed at the beginning or at the end of a number.\n\nIn JavaScript only variables can start with _.\n\n",
+  "scraped_at": "2026-04-01T11:51:00"
+}

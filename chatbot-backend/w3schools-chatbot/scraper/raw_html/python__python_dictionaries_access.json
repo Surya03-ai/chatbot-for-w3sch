@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_access.asp",
+  "topic": "python",
+  "title": "Python - Access Dictionary Items",
+  "text": "Python -\nAccess Dictionary Items\n\n\n\nAccessing Items\n\nYou can access the items of a dictionary by referring to its key name, inside\nsquare brackets:\n\nThere is also a method called\nget()\nthat will give you the same result:\n\nGet Keys\n\nThe\nkeys()\nmethod will return a list of all the keys in the dictionary.\n\nThe list of the keys is a\nview\nof the dictionary, meaning that any\nchanges done to the dictionary will be reflected in the keys list.\n\nGet Values\n\nThe\nvalues()\nmethod will return a list of all the values in the dictionary.\n\nThe list of the values is a\nview\nof the dictionary, meaning that any\nchanges done to the dictionary will be reflected in the values list.\n\nGet Items\n\nThe\nitems()\nmethod will return each item in a dictionary, as tuples in a list.\n\nThe returned list is a\nview\nof the items of the dictionary, meaning that any\nchanges done to the dictionary will be reflected in the items list.\n\nCheck if Key Exists\n\nTo determine if a specified key is present in a dictionary use the\nin\nkeyword:\n\n",
+  "scraped_at": "2026-04-01T11:59:33"
+}

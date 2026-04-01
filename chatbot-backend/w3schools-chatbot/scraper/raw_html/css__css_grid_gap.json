@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_grid_gap.asp",
+  "topic": "css",
+  "title": "CSS Grid Gap",
+  "text": "CSS\nGrid Gap\n\n\n\nCSS Grid Gaps\n\nThe space between the rows and columns in a grid container are called\ngaps\n(or\ngutters\n).\n\nThe gaps are created between the grid rows and columns, not on the outer\nedges of the grid container.\n\nThe default size of the gap is 0, which means that there are no spacing\nbetween grid items.\n\nThe size of the gap can be adjusted with the following properties:\n\ncolumn-gap\n- Specifies the gap between grid columns\n\nrow-gap\n- Specifies the gap between grid rows\n\ngap\n- Shorthand property for\nrow-gap\nand\ncolumn-gap\n\nThe CSS column-gap Property\n\nThe\ncolumn-gap\n\nproperty specifies the gap between the columns in a grid.\n\nThe CSS row-gap Property\n\nThe\nrow-gap\nproperty specifies the gap\nbetween the rows in a grid.\n\nThe CSS gap Property\n\nThe\ngap\nproperty is a shorthand property for\n\nrow-gap\nand\n\ncolumn-gap\n.\n\nIf a single value is provided, it applies the same gap to both rows and columns.\n\nIf two values are provided, the first value sets the\nrow-gap\n, and the second value sets the\n\ncolumn-gap\n.\n\nCSS Grid Gap Properties\n\nProperty\n\nDescription\n\ncolumn-gap\n\nSpecifies the gap between the grid columns\n\ngap\n\nA shorthand property for\nrow-gap\nand\ncolumn-gap\n\nrow-gap\n\nSpecifies the gap between the grid rows\n\n",
+  "scraped_at": "2026-04-01T11:43:06"
+}

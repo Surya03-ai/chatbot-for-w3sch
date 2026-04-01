@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_output.asp",
+  "topic": "python",
+  "title": "Python Output / Print",
+  "text": "Python\nOutput / Print\n\n\n\nPrint Text\n\nYou have already learned that you can use the\nprint()\nfunction to display text or output values:\n\nYou can use the\nprint()\nfunction as many times as you want. Each call prints text on a new line by default:\n\nDouble Quotes\n\nText in Python must be inside quotes. You can use either\n\"\ndouble quotes or\n'\nsingle quotes:\n\nIf you forget to put the text inside quotes, Python will give an error:\n\nPrint Without a New Line\n\nBy default, the\nprint()\nfunction ends with a new line.\n\nIf you want to print multiple words on the same line, you can use the\nend\nparameter:\n\nNote that we add a space after\nend=\" \"\nfor better readability.\n\n",
+  "scraped_at": "2026-04-01T11:57:21"
+}

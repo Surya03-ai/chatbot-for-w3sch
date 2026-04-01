@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/css/css_howto_multiple_cascade.asp",
+  "topic": "css",
+  "title": "Multiple Style Sheets & Cascading Order",
+  "text": "Multiple Style Sheets & Cascading Order\n\n\n\nMultiple Style Sheets\n\nIf some properties have been defined for the same selector (element) in different style sheets,\nthe value from the last read style sheet will be used.\n\nAssume that an\nexternal style sheet\nhas the following style for the <h1> element:\n\nh1\n{\n\ncolor: navy;\n\n}\n\nThen, assume that an\ninternal style sheet\nalso has the following style for the <h1> element:\n\nh1\n{\n\ncolor: orange;\n\n}\n\nCascading Order\n\nWhat style will be used when there is more than one style specified for an HTML element?\n\nAll the styles in a page will \"cascade\" into a new \"virtual\" style\nsheet by the following rules, where number one has the highest priority:\n\nInline style (inside an HTML element)\n\nExternal and internal style sheets (in the head section)\n\nBrowser default\n\nSo, an inline style has the highest priority, and will override external and\ninternal styles and browser defaults.\n\n",
+  "scraped_at": "2026-04-01T11:37:32"
+}

@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/react/react_upgrade.asp",
+  "topic": "react",
+  "title": "Upgrade React",
+  "text": "Upgrade React\n\n\n\nUpgrade to React 19\n\nUpgrading an existing React application to version 19 only requires two steps.\n\nIf you are already using the latest version of React, you can skip this section.\n\nStep 1: Install React 19\n\nTo install the latest version, from your project folder run the following from the terminal:\n\nnpm i react@latest react-dom@latest\n\nStep 2: Use the new root API\n\nIn order to take advantage of React 19's concurrent features you'll need to use the new root API for client rendering.\n\n// Before\nimport ReactDOM from 'react-dom';\n\nReactDOM.render(\n<h1>Hello React!</h1>,\ndocument.getElementById('root')\n);\n\n// After\nimport { createRoot } from 'react-dom/client';\n\ncreateRoot(document.getElementById('root')).render(\n<h1>Hello React!</h1>\n);\n\nYour application will work without using the new root API. If you continue to use\n\nReactDOM.render\nyour application will behave like React 17.\n\n",
+  "scraped_at": "2026-04-01T12:08:30"
+}

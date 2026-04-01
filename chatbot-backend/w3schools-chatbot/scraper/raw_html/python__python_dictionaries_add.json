@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_dictionaries_add.asp",
+  "topic": "python",
+  "title": "Python - Add Dictionary Items",
+  "text": "Python -\nAdd Dictionary Items\n\n\n\nAdding Items\n\nAdding an item to the dictionary is done by using a new index key and assigning a value to it:\n\nUpdate Dictionary\n\nThe\nupdate()\nmethod will update the dictionary with the items from\na given\nargument. If the item does not exist, the item will be added.\n\nThe argument must be a dictionary, or an iterable object with key:value pairs.\n\n",
+  "scraped_at": "2026-04-01T11:59:39"
+}

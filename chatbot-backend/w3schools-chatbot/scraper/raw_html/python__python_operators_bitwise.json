@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_bitwise.asp",
+  "topic": "python",
+  "title": "Python Bitwise Operators",
+  "text": "Python\nBitwise Operators\n\n\n\nBitwise Operators\n\nBitwise operators are used to compare (binary) numbers:\n\nOperator\n\nName\n\nDescription\n\nExample\n\nTry it\n\n&\n\nAND\n\nSets each bit to 1 if both bits are 1\n\nx & y\n\n|\n\nOR\n\nSets each bit to 1 if one of two bits is 1\n\nx | y\n\n^\n\nXOR\n\nSets each bit to 1 if only one of two bits is 1\n\nx ^ y\n\n~\n\nNOT\n\nInverts all the bits\n\n~x\n\n<<\n\nZero fill left shift\n\nShift left by pushing zeros in from the right and let the leftmost bits fall off\n\nx << 2\n\n>>\n\nSigned right shift\n\nShift right by pushing copies of the leftmost bit in from the left, and let the rightmost bits fall off\n\nx >> 2\n\nExamples\n\n",
+  "scraped_at": "2026-04-01T11:58:14"
+}

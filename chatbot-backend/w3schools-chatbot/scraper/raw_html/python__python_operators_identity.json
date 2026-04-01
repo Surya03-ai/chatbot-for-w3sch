@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_operators_identity.asp",
+  "topic": "python",
+  "title": "Python Identity Operators",
+  "text": "Python\nIdentity Operators\n\n\n\nIdentity Operators\n\nIdentity operators are used to compare the objects, not if they are equal, but if they are actually the same object, with the same memory location:\n\nOperator\n\nDescription\n\nExample\n\nTry it\n\nis\n\nReturns True if both variables are the same object\n\nx is y\n\nis not\n\nReturns True if both variables are not the same object\n\nx is not y\n\nExamples\n\nDifference Between\nis\nand\n==\n\nis\n- Checks if both variables point to the same object in memory\n\n==\n- Checks if the values of both variables are equal\n\n",
+  "scraped_at": "2026-04-01T11:58:10"
+}

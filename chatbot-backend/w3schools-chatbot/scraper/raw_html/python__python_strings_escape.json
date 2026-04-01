@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_strings_escape.asp",
+  "topic": "python",
+  "title": "Python - Escape Characters",
+  "text": "Python -\nEscape Characters\n\n\n\nEscape Character\n\nTo insert characters that are illegal in a string, use an escape character.\n\nAn escape character is a backslash\n\\\nfollowed by the character you want to insert.\n\nAn example of an illegal character is a double quote inside a string that is surrounded by double quotes:\n\nTo fix this problem, use the escape character\n\\\"\n:\n\nEscape Characters\n\nOther escape characters used in Python:\n\nCode\n\nResult\n\nTry it\n\n\\'\n\nSingle Quote\n\n\\\\\n\nBackslash\n\n\\n\n\nNew Line\n\n\\r\n\nCarriage Return\n\n\\t\n\nTab\n\n\\b\n\nBackspace\n\n\\f\n\nForm Feed\n\n\\ooo\n\nOctal value\n\n\\xhh\n\nHex value\n\n",
+  "scraped_at": "2026-04-01T11:57:55"
+}

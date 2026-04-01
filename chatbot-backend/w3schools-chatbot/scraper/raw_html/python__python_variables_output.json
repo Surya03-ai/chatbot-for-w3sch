@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_variables_output.asp",
+  "topic": "python",
+  "title": "Python - Output Variables",
+  "text": "Python -\nOutput Variables\n\n\n\nOutput Variables\n\nThe\nprint()\nfunction is often used to output variables.\n\nIn the\nprint()\nfunction, you output multiple\nvariables, separated by a comma:\n\nYou can also use the\noperator to output\nmultiple variables:\n\nNotice the space character after\n\"Python \"\nand\n\"is \"\n,\nwithout them the result would be \"Pythonisawesome\".\n\nFor numbers, the\ncharacter works as a mathematical operator:\n\nIn the\nprint()\nfunction, when you try to\ncombine a string and a number with the\n\noperator, Python will give you an error:\n\nThe best way to output multiple variables in the\nprint()\nfunction is to separate them with commas,\nwhich even support different data types:\n\n",
+  "scraped_at": "2026-04-01T11:57:35"
+}

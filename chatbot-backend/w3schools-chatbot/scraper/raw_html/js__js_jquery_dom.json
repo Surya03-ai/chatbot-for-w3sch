@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/js/js_jquery_dom.asp",
+  "topic": "js",
+  "title": "Java Script / j Query HTML DOM",
+  "text": "JavaScript / jQuery HTML DOM\n\n\n\njQuery vs JavaScript\n\njQuery\nwas created in 2006 by John Resig.\nIt was designed to handle Browser Incompatibilities and to simplify HTML DOM Manipulation, Event Handling, Animations, and Ajax.\n\nFor more than 10 years, jQuery has been the most popular JavaScript library in the world.\n\nHowever, after JavaScript\nVersion 5\n(2009), most of the jQuery utilities can be solved with a few lines of standard JavaScript:\n\nRemoving HTML Elements\n\nRemove an HTML element:\n\nGet Parent Element\n\nReturn the parent of an HTML element:\n\n",
+  "scraped_at": "2026-04-01T11:56:21"
+}

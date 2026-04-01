@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_mysql_create_db.asp",
+  "topic": "python",
+  "title": "Python My SQL Create Database",
+  "text": "Python MySQL\nCreate Database\n\n\n\nCreating a Database\n\nTo create a database in MySQL, use the \"CREATE DATABASE\" statement:\n\nExample\n\ncreate a database named \"mydatabase\":\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\"\n)\nmycursor = mydb.cursor()\nmycursor.execute(\"CREATE DATABASE\nmydatabase\")\n\nRun example »\n\nIf the above code was executed with no errors, you have successfully\ncreated a database.\n\nCheck if Database Exists\n\nYou can check if a database exist by listing all databases in your system by\nusing the \"SHOW DATABASES\" statement:\n\nExample\n\nReturn a list of your system's databases:\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\"\n)\nmycursor = mydb.cursor()\n\nmycursor.execute(\"SHOW DATABASES\")\nfor x in mycursor:\n\nprint(x)\n\nRun example »\n\nOr you can try to access the database when making the connection:\n\nExample\n\nTry connecting to the database \"mydatabase\":\n\nimport mysql.connector\nmydb = mysql.connector.connect(\nhost=\"localhost\",\n\nuser=\"\nyourusername\n\",\npassword=\"\nyourpassword\n\",\n\ndatabase=\"mydatabase\"\n)\n\nRun example »\n\nIf the database does not exist, you will get an error.\n\n",
+  "scraped_at": "2026-04-01T12:04:03"
+}

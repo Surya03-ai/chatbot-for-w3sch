@@ -1,0 +1,7 @@
+{
+  "url": "https://www.w3schools.com/python/python_howto_add_two_numbers.asp",
+  "topic": "python",
+  "title": "How to Add Two Numbers in Python",
+  "text": "How to Add Two Numbers in Python\n\n\n\nLearn how to add two numbers in Python.\n\nUse the\noperator to add two numbers:\n\nAdd Two Numbers with User Input\n\nIn this example, the user must input two numbers. Then we print the sum by calculating (adding) the two numbers:\n\n",
+  "scraped_at": "2026-04-01T12:05:12"
+}
